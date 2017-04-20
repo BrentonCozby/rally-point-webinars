@@ -1,0 +1,64 @@
+extends ../partials/layout
+
+block head
+    include ../partials/head
+    +makeHead('Rally Point Webinars | Thinking')
+
+block content
+    nav#mainNav.navbar.navbar-default.navbar-custom.navbar-fixed-top
+        .container
+            .navbar-header.page-scroll
+                button.navbar-toggle(type='button', data-toggle='collapse', data-target='#bs-example-navbar-collapse-1')
+                    span.sr-only Toggle navigation
+                    |  Menu
+                    i.fa.fa-bars
+                |
+                a.navbar-brand.page-scroll(href='./index.html')
+                    img(src='images/rally-point-check-logo.png', alt='')
+            #bs-example-navbar-collapse-1.collapse.navbar-collapse
+                ul.nav.navbar-nav.navbar-right
+                    li
+                        a(href='./services.html') Services
+                    li
+                        a(href='./industries.html') Industries
+                    li.active
+                        a(href='./thinking.html') Thinking
+                    li
+                        a(href='./about.html') About
+                    li
+                        a.contact-navlink(href='./contact.html') Contact
+    header.thinking
+        .container
+            .row
+                .intro-text
+                    .intro-heading.col-md-12 webinar thinking.
+                    .intro-lead-in.col-md-9 Learn lessons and insights from the thousands of events we have produced for leading businesses and organizations.
+                    .col-md-12
+                        a.page-scroll.btn.btn-xl(href='#media') View Media
+    section#media.bg-light-gray
+        .container
+            .row
+                .col-lg-12.text-center
+                    h2.section-heading Media
+            .thinking-cards
+                .thinking-card
+                    a.title(target='_blank', rel='noopener', href='http://events.rallypointwebinars.com/course/webinar.php?id=2897&source=homepage')
+                        h3 An Interview With the &quot;Webinar Guru&quot;
+                    .image
+                        img.img-responsive(src='http://www.rallypointwebinars.com/webinars/rallypoint/2015/topsalescover-aaronv2.jpg', alt='')
+                    .text
+                        p
+                            | Sales webinars, if done incorrectly, can provide more headaches than qualified leads.
+                        p
+                            | In &quot;No Sweat Webinars,&quot; learn how Aaron, Principal at Rally Point Webinars, can improve the quality of your webinars, save you time, and reduce stress.
+                .thinking-card
+                    a.title(target='_blank', rel='noopener', href='http://events.rallypointwebinars.com/course/webinar.php?id=271&source=rpweventpage')
+                        h3 The 7 Keys to Running a Glitch-Free Webinar
+                    .image
+                        img.img-responsive(src='http://www.rallypointwebinars.com/webinars/rallypoint/2015/whitepaperimage-registration.jpg', alt='')
+                    .text
+                        p
+                            | Webinars bring in new business, but only if they run smoothly. Technical glitches, unprepared speakers, and ham-handed customer care can all ruin an event&apos;s effectiveness.
+    include ../partials/contact
+    include ../partials/footer
+    include ../partials/bottom

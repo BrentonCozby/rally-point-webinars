@@ -1,0 +1,144 @@
+extends ../partials/layout
+
+block head
+    include ../partials/head
+    +makeHead('Rally Point Webinars |  Industries')
+
+block content
+    nav#mainNav.navbar.navbar-default.navbar-custom.navbar-fixed-top
+        .container
+            .navbar-header.page-scroll
+                button.navbar-toggle(type='button', data-toggle='collapse', data-target='#bs-example-navbar-collapse-1')
+                    span.sr-only Toggle navigation
+                    |  Menu
+                    i.fa.fa-bars
+                |
+                a.navbar-brand.page-scroll(href='./index.html')
+                    img(src='images/rally-point-check-logo.png', alt='')
+            #bs-example-navbar-collapse-1.collapse.navbar-collapse
+                ul.nav.navbar-nav.navbar-right
+                    li
+                        a(href='./services.html') Services
+                    li.active
+                        a(href='./industries.html') Industries
+                    li
+                        a(href='./thinking.html') Thinking
+                    li
+                        a(href='./about.html') About
+                    li
+                        a.contact-navlink(href='./contact.html') Contact
+    header.industries
+        .container
+            .intro-text
+                .row
+                    .intro-heading.col-md-12 webinar industries.
+                    .intro-lead-in.col-md-8 Our industries hire us for their most important prospects and customers.
+                    .col-md-12
+                        a.page-scroll.btn.btn-xl(href='#industries') Learn More
+    section#industries.bg-light-gray
+        .container
+            .row.industries-row
+                .portfolio-item.professional-services
+                    a.portfolio-link(href='#portfolioModal1', data-toggle='modal')
+                        .portfolio-hover
+                            .portfolio-hover-content
+                                i.fa.fa-plus.fa-3x
+                        .image
+                    .portfolio-caption
+                        h4 Professional Services
+                .portfolio-item.enterprise-technology
+                    a.portfolio-link(href='#portfolioModal2', data-toggle='modal')
+                        .portfolio-hover
+                            .portfolio-hover-content
+                                i.fa.fa-plus.fa-3x
+                        .image
+                    .portfolio-caption
+                        h4 Enterprise Technology
+            .row.industries-row
+                .portfolio-item.higher-education
+                    a.portfolio-link(href='#portfolioModal3', data-toggle='modal')
+                        .portfolio-hover
+                            .portfolio-hover-content
+                                i.fa.fa-plus.fa-3x
+                        .image
+                    .portfolio-caption
+                        h4 Higher Education
+                .portfolio-item.diversified
+                    a.portfolio-link(href='#portfolioModal4', data-toggle='modal')
+                        .portfolio-hover
+                            .portfolio-hover-content
+                                i.fa.fa-plus.fa-3x
+                        .image
+                    .portfolio-caption
+                        h4 Diversified
+    include ../partials/contact
+    include ../partials/footer
+    #portfolioModal1.portfolio-modal.modal.fade(tabindex='-1', role='dialog', aria-hidden='true')
+        .modal-dialog
+            .modal-content
+                .close-modal(data-dismiss='modal')
+                    .lr
+                        .rl
+                .container
+                    .row
+                        .col-lg-8.col-lg-offset-2
+                            .modal-body
+                                h2 Professional Services
+                                p
+                                    | In the relationship-oriented world of professional services, how information is delivered is often as important as the information itself. Services firms rely on Rally Point Webinars to provide a premier webinar experience for their prospects and clients.
+                                |
+                                button.btn.btn-primary(type='button', data-dismiss='modal')
+                                    i.fa.fa-times
+                                    |  Close
+    #portfolioModal2.portfolio-modal.modal.fade(tabindex='-1', role='dialog', aria-hidden='true')
+        .modal-dialog
+            .modal-content
+                .close-modal(data-dismiss='modal')
+                    .lr
+                        .rl
+                .container
+                    .row
+                        .col-lg-8.col-lg-offset-2
+                            .modal-body
+                                h2 Enterprise Technology
+                                p
+                                    | Technology companies want a webinar technology that is as reliable as their own. By providing an Adobe&reg; Connect&trade; license and redundancies for every contingency, Rally Point Webinars delivers online events that technology companies can count on.
+                                |
+                                button.btn.btn-primary(type='button', data-dismiss='modal')
+                                    i.fa.fa-times
+                                    |  Close
+    #portfolioModal3.portfolio-modal.modal.fade(tabindex='-1', role='dialog', aria-hidden='true')
+        .modal-dialog
+            .modal-content
+                .close-modal(data-dismiss='modal')
+                    .lr
+                        .rl
+                .container
+                    .row
+                        .col-lg-8.col-lg-offset-2
+                            .modal-body
+                                h2 Higher Education
+                                p
+                                    | Colleges and universities promise students a rich learning environment and knowledgeable teachers. Rally Point Webinars delivers events to match by having speakers prepared for their events and by delivering a highly-customizable and robust webinar platform in Adobe&reg; Connect&trade;.
+                                |
+                                button.btn.btn-primary(type='button', data-dismiss='modal')
+                                    i.fa.fa-times
+                                    |  Close
+    #portfolioModal4.portfolio-modal.modal.fade(tabindex='-1', role='dialog', aria-hidden='true')
+        .modal-dialog
+            .modal-content
+                .close-modal(data-dismiss='modal')
+                    .lr
+                        .rl
+                .container
+                    .row
+                        .col-lg-8.col-lg-offset-2
+                            .modal-body
+                                h2 Diversified
+                                p
+                                    | Regardless of industry, organizations expect professionally planned and produced webinars. At Rally Point Webinars, we tailor our production process to accommodate the needs of each client so that they receive the service they need.
+                                |
+                                button.btn.btn-primary(type='button', data-dismiss='modal')
+                                    i.fa.fa-times
+                                    |  Close
+    include ../partials/bottom
