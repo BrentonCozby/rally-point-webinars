@@ -128,8 +128,14 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar-custom .navbar-brand img {
     max-width: 180px;
-    padding-top: 7px;
-    padding-left: 15px;
+    padding-top: 8px;
+    padding-left: 5px;
+
+    @media all and (min-width: 786px) {
+        max-width: 240px;
+        padding-top: 0px;
+        padding-left: 15px;
+    }
 }
 
 .navbar-custom .navbar-brand:hover, .navbar-custom .navbar-brand:focus, .navbar-custom .navbar-brand:active, .navbar-custom .navbar-brand.active {
@@ -147,6 +153,7 @@ h1, h2, h3, h4, h5, h6 {
     text-transform: uppercase;
     color: white;
     font-size: 12px;
+    margin-right: 5px;
 }
 
 .navbar-custom .navbar-toggle:hover, .navbar-custom .navbar-toggle:focus {
@@ -213,10 +220,6 @@ h1, h2, h3, h4, h5, h6 {
         -webkit-transition: all 0.3s;
         -moz-transition: all 0.3s;
         transition: all 0.3s;
-    }
-    .navbar-custom .navbar-brand img {
-        max-width: 240px;
-        padding: 0;
     }
     .navbar-custom .navbar-nav>.active>a {
         border-radius: 3px;
@@ -327,6 +330,7 @@ header.industries {
 }
 header.thinking {
     background-image: linear-gradient(to top, rgba(255, 255, 255, .8) 0%, rgba(255, 255, 255, .8) 100%), url('../../../assets/images/thinking-bg.jpg');
+    background-position: center top;
 }
 header.contact {
     background-image: url('../../../assets/images/contact-bg.jpg');
@@ -408,13 +412,22 @@ section h2.section-heading {
     text-align: left;
 }
 
+section#about.homepage h2.section-heading {
+    text-align: center;
+}
+
+section#about .mission-text {
+    text-align: center;
+    font-size: 18px;
+}
+
 section h3.section-subheading {
     font-size: 16px;
     font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: none;
     font-style: italic;
     font-weight: 400;
-    margin-bottom: 75px;
+    margin-top: 55px;
     font-size: 2.2rem;
     line-height: 1.7;
     font-style: normal;
@@ -445,7 +458,11 @@ section#about .about-aaron p {
 }
 
 @media all and (min-width: 768px) {
-
+    section#about .mission-text {
+        max-width: 800px;
+        margin: 60px auto 40px;
+        font-size: 24px;
+    }
 }
 
 .how-it-works-text {
@@ -501,18 +518,19 @@ section#about .about-aaron p {
 }
 
 #services-links ul a {
-    display: block;
-    text-shadow: 1px 1px 1px #666;
-    margin: 15px;
-    color: #048;
-    text-decoration: none;
-    font-size: 1.5rem;
-    text-transform: uppercase;
-    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    display: inline-block;
+    font-size: 2rem;
+    border: 2px solid #5bf;
+    padding: 10px 15px;
+    border-radius: 3px;
+    margin-top: 30px;
+    transition: all 200ms;
 }
 
 #services-links ul a:focus, #services-links ul a:hover {
-    color: #5bf;
+    background-color: #5bf;
+    color: white;
+    text-decoration: none;
 }
 
 section.service .col-lg-12 {
@@ -571,7 +589,7 @@ section.service strong {
     background-image: linear-gradient(to bottom, rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url('../../../assets/images/adobe/connect-particpate_mobile-537x300.jpg');
 }
 #customization .services-image {
-    background-image: linear-gradient(to bottom, rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url('../../../assets/images/adobe/adobe-email.jpg');
+    background-image: url('../../../assets/images/adobe/adobe-email.jpg');
 }
 
 .down-arrow {
@@ -579,6 +597,7 @@ section.service strong {
     font-size: 6rem;
     color: #aaa;
     position: absolute;
+    text-shadow: 0 2px 5px rgba(0, 0, 0, .5);
     left: 50%;
     transform: translateX(-50%);
     bottom: -40px;
@@ -592,11 +611,14 @@ section.service strong {
 }
 
 @media all and (min-width: 992px) {
-
     #services-links ul {
         display: flex;
         justify-content: space-around;
         flex-flow: row wrap;
+
+        a {
+            margin-top: 0;
+        }
     }
 
     section.service .col-lg-12 {
@@ -671,7 +693,7 @@ section.homepage#technology .image.three {
     background-image: url('../../../assets/images/adobe/mobile-commons.png');
 }
 section.homepage#technology .image.four {
-    background-image: url('../../../assets/images/people/rain-group-boss-man.png');
+    background-image: url('../../../assets/images/people/mike.jpg');
 }
 
 #technology-carousel {
@@ -699,10 +721,13 @@ section.homepage#technology .image.four {
         position: absolute;
         z-index: 1;
         display: block;
-        top: 60px;
-        left: 20px;
+        padding-top: 20px;
+        padding-bottom: 75px;
+        padding-left: 20px;
         color: #fff;
         font-size: 32px;
+        background-color: #025;
+        box-shadow: 10px 10px 20px 0 #025;
     }
 
     #technology-carousel .item .heading {
@@ -711,11 +736,11 @@ section.homepage#technology .image.four {
         background-color: #025;
         display: flex;
         justify-content: flex-end;
-        align-items: center;
+        align-items: flex-end;
     }
 
     #technology-carousel .item .heading .caption {
-        width: 70%;
+        width: 60%;
         margin: 0;
         font-size: 18px;
         text-align: right;
@@ -971,38 +996,33 @@ section.homepage#technology .image.four {
     box-sizing: border-box;
 }
 
-.thinking-card .text,
+.thinking-card .title {
+    line-height: 1.4;
+    margin-bottom: 0;
+    width: 100%;
+}
+
 .thinking-card .image {
     width: 100%;
     display: inline-block;
     vertical-align: top;
-}
-
-.thinking-card .text {
-    margin-top: 15px;
-}
-
-.thinking-card .text p {
-    font-size: 1.6rem;
-}
-
-.thinking-card .image {
     box-sizing: border-box;
     padding: 15px 0;
     text-align: center;
 }
 
 @media all and (min-width: 992px) {
+    .thinking-cards {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
     .thinking-card {
         width: 50%;
-    }
-
-    .thinking-card:first-of-type {
         padding-right: 40px;
-    }
-
-    .thinking-card:last-of-type {
-        padding-left: 40px;
+        display: flex;
+        flex-direction: row-reverse;
     }
 
     .thinking-card .text,
