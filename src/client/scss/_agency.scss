@@ -696,6 +696,7 @@ section.homepage#technology .image.four {
         height: 50vh;
         height: 600px;
         text-align: center;
+        background-color: #000;
     }
 
     #technology-carousel .item .heading {
@@ -718,13 +719,16 @@ section.homepage#technology .image.four {
         width: 70%;
         margin: 0;
         font-size: 18px;
+        text-align: right;
+        max-width: 800px;
     }
 
     section.homepage#technology .image {
         height: calc(100% - 150px);
         background-size: cover;
         background-repeat: no-repeat;
-        background-color: #000;
+        max-width: 1000px;
+        margin: auto;
     }
 
     section.homepage#technology .image.four {
