@@ -2,7 +2,21 @@ extends ../partials/layout
 
 block head
     include ../partials/head
-    +makeHead('Home')
+    +makeHead('Page Not Found')
 
 block content
-    h1 404 Page Not Found
+    include ../partials/navbar
+    +makeNavbar('404')
+
+    header.lost
+        .container
+            .intro-text
+                .row
+                    .intro-heading lost?
+                    .intro-lead-in Looks like the page you requested isn't available.
+                    a.page-scroll.btn.btn-xl(href='/') Take Me Home
+
+    include ../partials/contact
+
+    include ../partials/footer
+    include ../partials/bottom

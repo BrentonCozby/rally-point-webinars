@@ -23,17 +23,17 @@
         $('.navbar-toggle:visible').click();
     });
 
-    // Expertise Page's Dropdown menu functionality
-    $('.nav-expertise-dropdown-btn').click(function() {
+    // Services Page's Dropdown menu functionality
+    $('.nav-services-dropdown-btn').click(function() {
         const ul = $(this).next();
         if(ul.css('display') === 'none') {
-            ul.slideDown();
+            ul.show();
         }
         else {
             ul.hide();
         }
     });
-    $('.nav-expertise-dropdown-menu li').click(function() {
+    $('.nav-services-dropdown-menu li').click(function() {
         $(this).parent().hide();
     });
 

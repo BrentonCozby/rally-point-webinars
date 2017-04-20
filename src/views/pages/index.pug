@@ -2,31 +2,11 @@ extends ../partials/layout
 
 block head
     include ../partials/head
-    +makeHead('Rally Point Webinars')
+    +makeHead('Rally Point Webinars | Home')
 
 block content
-    nav#mainNav.navbar.navbar-default.navbar-custom.navbar-fixed-top
-        .container
-            .navbar-header.page-scroll
-                button.navbar-toggle(type='button', data-toggle='collapse', data-target='#bs-example-navbar-collapse-1')
-                    span.sr-only Toggle navigation
-                    |  Menu
-                    i.fa.fa-bars
-                |
-                a.navbar-brand.page-scroll(href='./index.html')
-                    img(src='images/rally-point-check-logo.png', alt='Rally Point Webinars')
-            #bs-example-navbar-collapse-1.collapse.navbar-collapse
-                ul.nav.navbar-nav.navbar-right
-                    li
-                        a(href='./services.html') Services
-                    li
-                        a(href='./industries.html') Industries
-                    li
-                        a(href='./thinking.html') Thinking
-                    li
-                        a(href='./about.html') About
-                    li
-                        a.contact-navlink(href='./contact.html') Contact
+    include ../partials/navbar
+    +makeNavbar('index')
     header.homepage
         .container
             .intro-text
@@ -69,6 +49,7 @@ block content
                     p.caption Get video recordings to generate leads after the webinar is over.
                     .image.four
         #technology-carousel.carousel.slide(data-ride='carousel')
+            h2.section-heading Our Technology
             ol.carousel-indicators
                 li.active(data-target='#technology-carousel', data-slide-to='0')
                 li(data-target='#technology-carousel', data-slide-to='1')
@@ -77,22 +58,18 @@ block content
             .carousel-inner(role='listbox')
                 .item.active
                     .heading
-                        h2.section-heading Our Technology
                         p.caption We provide our clients with Adobe&reg; Connect&trade;, the best webinar technology out there.
                     .image.one
                 .item
                     .heading
-                        h2.section-heading Our Technology
                         p.caption Our technological setup that has you covered for every contingency, from backup webinar rooms to backup conference lines, to everything in between.
                     .image.two
                 .item
                     .heading
-                        h2.section-heading Our Technology
                         p.caption Our webinar registration platform that is fully customizable, mobile friendly, and matches your branding.
                     .image.three
                 .item
                     .heading
-                        h2.section-heading Our Technology
                         p.caption Get video recordings to generate leads after the webinar is over.
                     .image.four
             a.left.carousel-control(href='#technology-carousel', role='button', data-slide='prev')

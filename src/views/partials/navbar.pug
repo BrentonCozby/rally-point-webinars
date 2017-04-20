@@ -1,0 +1,34 @@
+mixin makeNavbar(page)
+    if page === 'services'
+        - var servicesActive = 'active'
+    if page === 'industries'
+        - var industriesActive = 'active'
+    if page === 'thinking'
+        - var thinkingActive = 'active'
+    if page === 'about'
+        - var aboutActive = 'active'
+    if page === 'contact'
+        - var contactActive = 'active'
+
+    nav#mainNav.navbar.navbar-default.navbar-custom.navbar-fixed-top
+        .container
+            .navbar-header.page-scroll
+                button.navbar-toggle(type='button', data-toggle='collapse', data-target='#bs-example-navbar-collapse-1')
+                    span.sr-only Toggle navigation
+                    |  Menu
+                    i.fa.fa-bars
+                |
+                a.navbar-brand.page-scroll(href='./index.html')
+                    img(src='images/rally-point-check-logo.png', alt='')
+            #bs-example-navbar-collapse-1.collapse.navbar-collapse
+                ul.nav.navbar-nav.navbar-right
+                    li(class=servicesActive)
+                        a(href='./services.html') Services
+                    li(class=industriesActive)
+                        a(href='./industries.html') Industries
+                    li(class=thinkingActive)
+                        a(href='./thinking.html') Thinking
+                    li(class=aboutActive)
+                        a(href='./about.html') About
+                    li(class=contactActive)
+                        a.contact-navlink(href='./contact.html') Contact

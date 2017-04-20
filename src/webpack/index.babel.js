@@ -69,8 +69,8 @@ let common = {
             }
         }),
         new CopyPlugin([
-            {from: resolve(Dir.client, 'browserconfig.xml')},
             {from: resolve(Dir.client, 'crossdomain.xml')},
+            {from: resolve(Dir.client, '.htaccess')},
             {from: resolve(Dir.client, 'humans.txt')},
             {from: resolve(Dir.client, 'robots.txt')},
             {

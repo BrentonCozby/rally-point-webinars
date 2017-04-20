@@ -3,14 +3,6 @@ section#contact
         .row
             .col-lg-12.text-center
                 h2.section-heading Contact Us
-                h3.section-subheading
-                    a(href='tel:617-517-0720') 617-517-0720
-                    br
-                    |  936 SW 1st Ave
-                    br
-                    |  Suite 250
-                    br
-                    |  Miami, FL 33130
         .row
             .col-lg-12
                 form#contactForm(name='sentMessage', novalidate='')
@@ -29,7 +21,17 @@ section#contact
                             .form-group
                                 textarea#message.form-control(placeholder='Message *', required='', data-validation-required-message='Please enter a message.')
                                 p.help-block.text-danger
-                        .col-lg-12.text-center
+                        .col-lg-12.clearfix
                             #success
                             |
                             button.btn.btn-xl(type='submit') Send Message
+        .row
+            .col-lg-12.text-center
+                h3.section-subheading
+                    a(href='tel:617-517-0720') 617-517-0720
+                    br
+                    |  936 SW 1st Ave
+                    br
+                    |  Suite 250
+                    br
+                    |  Miami, FL 33130

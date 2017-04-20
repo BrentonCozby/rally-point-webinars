@@ -1,9 +1,3 @@
-/*!
- * Start Bootstrap - Agency v3.3.7+1 (http://startbootstrap.com/template-overviews/agency)
- * Copyright 2013-2016 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
- */
-
 body {
     overflow-x: hidden;
     font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -337,6 +331,9 @@ header.thinking {
 header.contact {
     background-image: url('../../../assets/images/contact-bg.jpg');
 }
+header.lost {
+    background-image: linear-gradient(to top, rgba(255, 255, 255, 0) 10%, rgba(255, 255, 255, .8) 100%), url('../../../assets/images/lost-bg.jpg');
+}
 
 header.contact .intro-text,
 header.contact .intro-text .intro-heading,
@@ -658,7 +655,7 @@ section.homepage#technology {
 
 section.homepage#technology .image {
     width: 100%;
-    height: 200px;
+    height: 30vw;
     background-position: center;
     background-size: cover;
 }
@@ -668,13 +665,13 @@ section.homepage#technology .image.one {
     background-position: left center;
 }
 section.homepage#technology .image.two {
-    background-image: url('../../../assets/images/adobe/connect-layout-custompod-videos-537x300.jpg');
+    background-image: url('../../../assets/images/adobe/we-cover-everything.png');
 }
 section.homepage#technology .image.three {
-    background-image: url('../../../assets/images/adobe/connect-home-user-community-459x327.jpg');
+    background-image: url('../../../assets/images/adobe/mobile-commons.png');
 }
 section.homepage#technology .image.four {
-    background-image: url('../../../assets/images/adobe/in_filmstrip_sample.png');
+    background-image: url('../../../assets/images/people/rain-group-boss-man.png');
 }
 
 #technology-carousel {
@@ -693,26 +690,28 @@ section.homepage#technology .image.four {
 
     #technology-carousel .item {
         box-sizing: border-box;
-        height: 50vh;
-        height: 600px;
+        height: 45vw;
         text-align: center;
-        background-color: #000;
+        background-color: #fff;
+    }
+
+    section.homepage#technology #technology-carousel .section-heading {
+        position: absolute;
+        z-index: 1;
+        display: block;
+        top: 60px;
+        left: 20px;
+        color: #fff;
+        font-size: 32px;
     }
 
     #technology-carousel .item .heading {
         padding: 25px;
         height: 150px;
-        background-color: #eee;
+        background-color: #025;
         display: flex;
-        justify-content: space-between;
+        justify-content: flex-end;
         align-items: center;
-    }
-
-    #technology-carousel .item .heading .section-heading {
-        width: 400px;
-        display: block;
-        font-size: 32px;
-        margin: 0;
     }
 
     #technology-carousel .item .heading .caption {
@@ -721,18 +720,24 @@ section.homepage#technology .image.four {
         font-size: 18px;
         text-align: right;
         max-width: 800px;
+        color: #fff;
     }
 
     section.homepage#technology .image {
         height: calc(100% - 150px);
         background-size: cover;
         background-repeat: no-repeat;
-        max-width: 1000px;
         margin: auto;
     }
 
+    section.homepage#technology .image.two {
+        background-size: 100% auto;
+    }
+    section.homepage#technology .image.three {
+        background-position: center top;
+    }
     section.homepage#technology .image.four {
-        background-size: contain;
+        background-size: auto 100%;
     }
 
     .technology-mobile {
