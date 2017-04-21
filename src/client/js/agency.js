@@ -1,4 +1,5 @@
-// Agency Theme JavaScript
+import throttle from 'lodash.throttle'
+import { playAnimations } from './animations.js'
 
 (function($) {
     "use strict"; // Start of use strict
@@ -61,5 +62,11 @@
     $('#testimonials-carousel').carousel({
         interval: 10000
     })
+
+    function onScroll() {
+        playAnimations()
+    }
+
+    $(document).scroll(throttle(onScroll, 100))
 
 })(jQuery); // End of use strict
