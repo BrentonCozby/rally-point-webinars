@@ -98,8 +98,16 @@ function insertBottom() {
                                     <p class="help-block text-danger"></p>
                                 </div>
                             </div>
-                            <div class="col-lg-12 clearfix">
-                                <div id="success"></div><button class="btn btn-xl" type="submit">Send Message</button></div>
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <button class="btn btn-xl" type="submit">Send Message</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div id="success"></div>
+                            </div>
                         </div>
                     </form>
                 </div>

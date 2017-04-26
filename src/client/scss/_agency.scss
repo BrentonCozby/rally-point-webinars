@@ -115,7 +115,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar-custom {
     background-color: white;
-    border-color: transparent;
+    border-color: rgba(255, 255, 255, 0);
     box-shadow: 0 -2px 10px #444;
 }
 
@@ -211,7 +211,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media all and (min-width: 768px) {
     .navbar-custom {
-        background-color: transparent;
+        background-color: rgba(255, 255, 255, 0);
         padding: 25px 0;
         -webkit-transition: padding 0.3s;
         -moz-transition: padding 0.3s;
@@ -349,13 +349,13 @@ header.contact .intro-text .intro-heading {
 }
 
 header.homepage {
-    background-image: linear-gradient(to top, rgba(0, 0, 0, 0) 50%, rgba(255, 255, 255, .9) 90%), url('../../../assets/images/homepage-bg.jpg');
+    background-image: linear-gradient(to top, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, .9) 90%), url('../../../assets/images/homepage-bg.jpg');
 }
 header.services {
-    background-image: linear-gradient(to top, rgba(0, 0, 0, 0) 0%, rgba(255, 255, 255, .9) 40%), url('../../../assets/images/services-bg.jpg');
+    background-image: linear-gradient(to top, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, .9) 40%), url('../../../assets/images/services-bg.jpg');
 }
 header.industries {
-    background-image: linear-gradient(to top, rgba(0, 0, 0, 0) 10%, rgba(255, 255, 255, .8) 30%), url('../../../assets/images/industries-bg.jpeg');
+    background-image: linear-gradient(to top, rgba(255, 255, 255, 0) 10%, rgba(255, 255, 255, .8) 30%), url('../../../assets/images/industries-bg.jpeg');
 }
 header.thinking {
     background-image: linear-gradient(to top, rgba(255, 255, 255, .8) 0%, rgba(255, 255, 255, .8) 100%), url('../../../assets/images/thinking-bg.jpg');
@@ -1314,7 +1314,7 @@ ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li
     position: absolute;
     width: 75px;
     height: 75px;
-    background-color: transparent;
+    background-color: rgba(0, 0, 0, 0);
     top: 25px;
     right: 25px;
     cursor: pointer;
@@ -1365,11 +1365,11 @@ ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li
 }
 
 img::selection {
-    background: transparent;
+    background: rgba(255, 255, 255, 0);
 }
 
 img::-moz-selection {
-    background: transparent;
+    background: rgba(255, 255, 255, 0);
 }
 
 body {
