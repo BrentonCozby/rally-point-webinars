@@ -722,8 +722,14 @@ section.homepage#technology {
     background-color: #eee;
 }
 
+.technology-mobile .container {
+    padding: 0;
+}
+
 .technology-mobile .row {
     margin: 60px 0 0 0;
+    background-color: #fff;
+    padding: 15px;
 }
 
 .technology-mobile .row:first-of-type {
@@ -732,7 +738,7 @@ section.homepage#technology {
 
 section.homepage#technology .image {
     width: 100%;
-    height: 30vw;
+    height: 35vw;
     background-position: center;
     background-size: cover;
 }
@@ -742,13 +748,25 @@ section.homepage#technology .image.one {
     background-position: left center;
 }
 section.homepage#technology .image.two {
-    background-image: url('../../../assets/images/adobe/we-cover-everything.png');
+    background-image: url('../../../assets/images/adobe/homepage-carousel-image-2.png');
 }
 section.homepage#technology .image.three {
     background-image: url('../../../assets/images/adobe/mobile-commons.png');
 }
 section.homepage#technology .image.four {
     background-image: url('../../../assets/images/adobe/homepage-carousel-image-4.jpg');
+}
+
+section.homepage#technology .image.two {
+    background-size: 100% auto;
+}
+section.homepage#technology .image.three {
+    background-position: center top;
+}
+section.homepage#technology .image.four {
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-color: #fff;
 }
 
 #technology-carousel {
@@ -767,7 +785,7 @@ section.homepage#technology .image.four {
 
     #technology-carousel .item {
         box-sizing: border-box;
-        height: 45vw;
+        height: 50vw;
         text-align: center;
         background-color: #fff;
     }
@@ -808,16 +826,6 @@ section.homepage#technology .image.four {
         background-size: cover;
         background-repeat: no-repeat;
         margin: auto;
-    }
-
-    section.homepage#technology .image.two {
-        background-size: 100% auto;
-    }
-    section.homepage#technology .image.three {
-        background-position: center top;
-    }
-    section.homepage#technology .image.four {
-        background-size: auto 100%;
     }
 
     .technology-mobile {
