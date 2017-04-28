@@ -55,6 +55,7 @@ function insertTop(title) {
             </div>
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
+                    <li><a class="home" href="./index.html">home</a></li>
                     <li><a href="./services.html">Services</a></li>
                     <li><a href="./industries.html">Industries</a></li>
                     <li><a href="./thinking.html">Thinking</a></li>
