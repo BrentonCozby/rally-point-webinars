@@ -5,7 +5,7 @@ block head
     +makeHead('Rally Point Webinars | Services')
 
 block content
-    nav#mainNav.navbar.navbar-default.navbar-custom.navbar-fixed-top
+    nav#mainNav.navbar.navbar-default.navbar-custom.navbar-fixed-top.services
         .container
             .navbar-header.page-scroll
                 button.navbar-toggle(type='button', data-toggle='collapse', data-target='#bs-example-navbar-collapse-1')
@@ -17,6 +17,8 @@ block content
                     img(src='images/rally-point-check-logo.png', alt='')
             #bs-example-navbar-collapse-1.collapse.navbar-collapse
                 ul.nav.navbar-nav.navbar-right
+                    li
+                        a.home(href='./index.html') home
                     li.dropdown.active
                         a.active.dropdown-toggle.nav-services-dropdown-btn(href='#', data-toggle='dropdown', role='button', aria-haspopup='true', aria-expanded='false')
                             | Services
@@ -46,11 +48,11 @@ block content
             .intro-text
                 .row
                     .intro-heading webinar services.
-                    .intro-lead-in.col-md-7 Over 10 years of experience delivering high-stakes webinar events.
+                    .intro-lead-in.col-md-12
+                        p Over 10 years of experience delivering high-stakes webinar events.
                     .col-md-12
-                        a.page-scroll.btn.btn-xl(href='#services-links') View Our Process
-    a.back-to-top-btn.page-scroll(href='#page-top')
-        i.fa.fa-arrow-up(aria-hidden='true')
+                        a.page-scroll.btn.btn-xl(href='#services-links') View Our Process <span class="carot">&raquo;</span>
+    a.back-to-top-btn.page-scroll(href='#page-top') #[i.fa.fa-arrow-up(aria-hidden="true")]#[br]Top
     #services-links
         .container
             .row

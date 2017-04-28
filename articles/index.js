@@ -29,6 +29,8 @@ function formatTitle(title) {
     }).join(' ')
 }
 
+export { formatTitle }
+
 function insertTop(title) {
     return (
 `

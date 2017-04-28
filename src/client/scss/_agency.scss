@@ -91,6 +91,17 @@ h1, h2, h3, h4, h5, h6 {
     border-radius: 3px;
     font-size: 18px;
     padding: 20px 40px;
+    vertical-align: middle;
+    display: inline-block;
+
+    .carot {
+        font-size: 150%;
+        vertical-align: top;
+        margin-top: -2px;
+        margin-left: 2px;
+        display: inline-block;
+        line-height: 1;
+    }
 }
 
 .btn-xl:hover, .btn-xl:focus, .btn-xl:active, .btn-xl.active, .open .dropdown-toggle.btn-xl {
@@ -119,7 +130,9 @@ h1, h2, h3, h4, h5, h6 {
     box-shadow: 0 -2px 10px #444;
 }
 
-.navbar-custom.about {
+.navbar-custom.about,
+.navbar-custom.services,
+.navbar-custom.industries {
     background-color: #fff;
 }
 
@@ -135,7 +148,7 @@ h1, h2, h3, h4, h5, h6 {
     padding-top: 8px;
     padding-left: 5px;
 
-    @media all and (min-width: 786px) {
+    @media all and (min-width: 940px) {
         max-width: 240px;
         padding-top: 0px;
         padding-left: 15px;
@@ -169,9 +182,18 @@ h1, h2, h3, h4, h5, h6 {
     font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: #333;
+    font-weight: bolder;
+    color: #000;
     font-size: 16px;
     cursor: pointer;
+
+    &.home {
+
+        @media all and (min-width: 940px) {
+            font-size: 12px;
+            font-weight: lighter;
+        }
+    }
 }
 
 .navbar-custom .nav li a.contact-navlink {
@@ -209,10 +231,10 @@ h1, h2, h3, h4, h5, h6 {
     background-color: #048;
 }
 
-@media all and (min-width: 768px) {
+@media all and (min-width: 940px) {
     .navbar-custom {
         background-color: rgba(255, 255, 255, 0);
-        padding: 25px 0;
+        padding: 10px 0;
         -webkit-transition: padding 0.3s;
         -moz-transition: padding 0.3s;
         transition: padding 0.3s;
@@ -230,7 +252,7 @@ h1, h2, h3, h4, h5, h6 {
     }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 940px) {
     .navbar-custom.affix {
         background-color: white;
         box-shadow: 0 -2px 10px #444;
@@ -247,9 +269,11 @@ h1, h2, h3, h4, h5, h6 {
     position: fixed;
     bottom: 15px;
     right: 15px;
-    padding: 10px;
-    line-height: 1;
-    font-size: 2rem;
+    padding: 7px;
+    padding-top: 3px;
+    line-height: 1.2;
+    font-size: 16px;
+    text-align: center;
     border-radius: 5px;
     background-color: #fff;
     box-shadow: 0 5px 15px -3px #333;
@@ -322,18 +346,21 @@ header.homepage .intro-text .intro-lead-in {
     max-width: 600px;
 }
 
+header.services .intro-text,
+header.services .intro-text .intro-heading,
 header.thinking .intro-text,
 header.thinking .intro-text .intro-heading {
     text-align: right;
 }
 
+header.services .intro-text .intro-lead-in p,
 header.thinking .intro-text .intro-lead-in p {
     font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 24px;
     line-height: 1.2;
     margin-bottom: 0;
     padding: 0;
-    max-width: 900px;
+    max-width: 800px;
     margin-left: auto;
     font-style: normal;
 
@@ -352,7 +379,7 @@ header.homepage {
     background-image: linear-gradient(to top, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, .9) 90%), url('../../../assets/images/homepage-bg.jpg');
 }
 header.services {
-    background-image: linear-gradient(to top, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, .9) 40%), url('../../../assets/images/services-bg.jpg');
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, .7) 40%), url('../../../assets/images/services-bg.jpg');
 }
 header.industries {
     background-image: linear-gradient(to top, rgba(255, 255, 255, 0) 10%, rgba(255, 255, 255, .8) 30%), url('../../../assets/images/industries-bg.jpeg');
@@ -387,6 +414,10 @@ header.contact .btn {
     display: inline-block;
 }
 
+header.industries .intro-text .intro-lead-in,
+header.industries .intro-text .intro-heading,
+header.services .intro-text .intro-lead-in,
+header.services .intro-text .intro-heading,
 header.about .intro-text .intro-lead-in,
 header.about .intro-text .intro-heading {
     color: #fff;
@@ -419,10 +450,10 @@ header.about .intro-text .intro-heading {
 
 @media all and (min-width: 992px) {
     header.services {
-        background-image: linear-gradient(to top, rgba(255, 255, 255, .3) 0%, rgba(255, 255, 255, .8) 40%), url('../../../assets/images/services-bg.jpg');
+        background-image: linear-gradient(to top, rgba(0, 0, 0, .3) 0%, rgba(0, 0, 0, .8) 100%), url('../../../assets/images/services-bg.jpg');
     }
     header.industries {
-        background-image: linear-gradient(to top, rgba(255, 255, 255, .3) 0%, rgba(255, 255, 255, .7) 40%), url('../../../assets/images/industries-bg.jpeg');
+        background-image: linear-gradient(to top, rgba(0, 0, 0, .3) 0%, rgba(0, 0, 0, .7) 40%), url('../../../assets/images/industries-bg.jpeg');
     }
     header.thinking {
         background-image: linear-gradient(to bottom, rgba(255, 255, 255, .9) 30%, rgba(255, 255, 255, .1) 70%), url('../../../assets/images/thinking-bg.jpg');
@@ -1046,6 +1077,21 @@ section.homepage#technology .image.four {
     }
 }
 
+section.thinking.go-toadditional-content {
+    background-color: #025;
+    text-align: center;
+
+    p {
+        color: #fff;
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+
+    .btn {
+        font-size: 14px;
+    }
+}
+
 #thinking .section-subheading {
     text-align: left;
 }
@@ -1102,6 +1148,21 @@ section.homepage#technology .image.four {
     .thinking-card .image {
         margin: 15px;
         margin-left: 0;
+    }
+}
+
+section.additional-content {
+
+}
+
+section.additional-content .article-links {
+
+    p {
+        margin: 20px 0;
+        
+        a {
+            font-size: 20px;
+        }
     }
 }
 

@@ -23,6 +23,7 @@ if (process.env.NODE_ENV === 'development') {
     require('../../views/pages/services.pug')
     require('../../views/pages/industries.pug')
     require('../../views/pages/thinking.pug')
+    require('../../views/pages/additional-content.pug')
     require('../../views/pages/404.pug')
 
     // partials

@@ -67,27 +67,56 @@ function hasCut(filename) {
     return filename.split('-')[0] === 'cut'
 }
 
+function formatTitle(title) {
+    return title
+        .replace(/-/g, ' ')
+        .replace(/.html/, '')
+        .split(' ').map(word => {
+            word = word.split('')
+            word[0] = word[0].toUpperCase()
+            return word.join('')
+        }).join(' ')
+}
+
 function readFiles(dirname) {
     const filenames = readdirSync(dirname)
+    let files = []
+
     filenames.forEach(function(filename) {
         if(hasCut(filename)) return
+
+        files.push({
+            title: formatTitle(filename),
+            href: filename
+        })
 
         plugins.push(new HtmlPlugin({
             filename: filename,
             template: resolve(dirname, filename)
         }))
     })
+
+    return files
 }
 
-function addArticlesToPlugins(folders) {
-    folders.map(folder => {
-        readFiles(resolve(Dir.articles, folder))
+function getArticles(folders) {
+    let allArticles = []
+    folders.forEach(folder => {
+        const files = readFiles(resolve(Dir.articles, folder))
+        allArticles = allArticles.concat(files)
     })
+
+    return allArticles
 }
 
 // Add articles to the plugins array with html-webpack-plugin
 const articlesFolders = ['the-big-picture', 'Content', 'event-execution', 'Marketing', 'Sales']
-addArticlesToPlugins(articlesFolders)
+const articlesData = getArticles(articlesFolders)
+plugins.push(new HtmlPlugin({
+    filename: 'additional-content.html',
+    template: resolve(Dir.pages, 'additional-content.pug'),
+    articles: articlesData
+}))
 
 let common = {
     output: {

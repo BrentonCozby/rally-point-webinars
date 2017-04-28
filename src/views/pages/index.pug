@@ -6,14 +6,14 @@ block head
 
 block content
     include ../partials/navbar
-    +makeNavbar('index')
+    +makeNavbar('home')
     header.homepage
         .container
             .intro-text
                 .row
                     .intro-heading webinars.
                     .intro-lead-in Businesses and organizations come to us for when it counts.
-                    a.page-scroll.btn.btn-xl(href='#about') Tell Me More
+                    a.page-scroll.btn.btn-xl(href='#about') Tell Me More <span class="carot">&raquo;</span>
     section#about.homepage
         .container
             .row
@@ -35,7 +35,7 @@ block content
         .technology-mobile
             .container
                 .row
-                    p.caption We provide our clients with Adobe #[sup &reg]; Connect #[sup &trade;], the best webinar technology out there.
+                    p.caption We provide our clients with Adobe #[sup.sup &reg;] Connect #[sup.sup &trade;], the best webinar technology out there.
                     .image.one
                 .row
                     p.caption Our technological setup that has you covered for every contingency, from backup webinar rooms to backup conference lines, to everything in between.
@@ -56,7 +56,7 @@ block content
             .carousel-inner(role='listbox')
                 .item.active
                     .heading
-                        p.caption We provide our clients with Adobe&reg; Connect&trade;, the best webinar technology out there.
+                        p.caption We provide our clients with Adobe#[sup.sup &reg;] Connect#[sup.sup &trade;], the best webinar technology out there.
                     .image.one
                 .item
                     .heading
@@ -97,7 +97,7 @@ block content
                         a.title(target='_blank', rel='noopener', href='http://events.rallypointwebinars.com/course/webinar.php?id=271&source=rpweventpage')
                             h3 The 7 Keys to Running a Glitch-Free Webinar
                     .image
-                        img.img-responsive(src='images/whitepaperimage-registration.jpg', alt='Running A Glitch-Free Webinar')
+                        img.img-responsive(src='images/7-keys-to-a-glitch-free-webinar.jpg', alt='Running A Glitch-Free Webinar')
         a.down-arrow.page-scroll(href='#commitment')
             i.fa.fa-angle-double-down(aria-hidden='true')
     section#commitment.bg-light-gray
@@ -109,7 +109,7 @@ block content
                         em We will provide you with the best webinar platform, technology, and services.
                     br
                     h3.section-subheading.text-muted
-                        em You will have a partner who ensures that your webinars deliver results, that your speakers are prepared, and that and your customers, prospects, and employees are taken care of.
+                        em You will have a partner who ensures that your webinars deliver results, that your speakers are prepared, and that your customers, prospects, and employees are taken care of.
             .row
         a.down-arrow.page-scroll(href='#contact')
             i.fa.fa-angle-double-down(aria-hidden='true')
