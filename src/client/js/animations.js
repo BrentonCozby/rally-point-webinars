@@ -1,9 +1,6 @@
 // Add selectors here and they will all have the class 'visible'
 // added to them when they scroll into view
 let selectors = [
-    $('section.service h2'),
-    $('section.service h3'),
-    $('section.service p'),
     $('.things-that-go-wrong')
 ]
 

@@ -20,21 +20,7 @@ block content
                     li
                         a.home(href='./index.html') home
                     li.dropdown.active
-                        a.active.dropdown-toggle.nav-services-dropdown-btn(href='#', data-toggle='dropdown', role='button', aria-haspopup='true', aria-expanded='false')
-                            | Services
-                            span.caret
-                        ul.dropdown-menu.nav-services-dropdown-menu
-                            li
-                                a.page-scroll(href='#pre-production') Pre-Production
-                            li
-                                a.page-scroll(href='#production') Production
-                            li
-                                a.page-scroll(href='#post-production') Post-Production
-                            li.divider(role='separator')
-                            li
-                                a.page-scroll(href='#technology') Technology
-                            li
-                                a.page-scroll(href='#customization') Customization
+                        a(href='./services.html') Services
                     li
                         a(href='./industries.html') Industries
                     li
@@ -51,22 +37,22 @@ block content
                     .intro-lead-in.col-md-12
                         p Over 10 years of experience delivering high-stakes webinar events.
                     .col-md-12
-                        a.page-scroll.btn.btn-xl(href='#services-links') View Our Process <span class="carot">&raquo;</span>
-    a.back-to-top-btn.page-scroll(href='#page-top') #[i.fa.fa-arrow-up(aria-hidden="true")]#[br]Top
-    #services-links
+                        a.page-scroll.btn.btn-xl(href='#pre-production') View Our Process <span class="carot">&raquo;</span>
+    .services-links
         .container
             .row
-                ul
+                ul#services-links-nav
+                    li.active
+                        a.page-scroll(href='#pre-production') Pre-Production <span class="carot">&raquo;</span>
                     li
-                        a.page-scroll(href='#pre-production') Pre-Production
+                        a.page-scroll(href='#production') Production <span class="carot">&raquo;</span>
                     li
-                        a.page-scroll(href='#production') Production
+                        a.page-scroll(href='#post-production') Post-production <span class="carot">&raquo;</span>
                     li
-                        a.page-scroll(href='#post-production') Post-production
+                        a.page-scroll(href='#technology') Technology <span class="carot">&raquo;</span>
                     li
-                        a.page-scroll(href='#technology') Technology
-                    li
-                        a.page-scroll(href='#customization') Customization
+                        a.page-scroll(href='#customization') Customization <span class="carot">&raquo;</span>
+        a.back-to-top-btn.page-scroll(href='#page-top') #[i.fa.fa-arrow-up(aria-hidden="true")]#[br]Top
     section#pre-production.service
         .container
             .row
@@ -80,6 +66,20 @@ block content
                             strong Registration Management:
                             |  Our customizable, mobile-friendly, webinar registration platform matches the branding and needs of each client. Meanwhile, real-time reporting allows marketers to track and act on every activity.
                     .services-image
+    .services-links
+        .container
+            .row
+                ul#services-links-nav
+                    li
+                        a.page-scroll(href='#pre-production') Pre-Production <span class="carot">&raquo;</span>
+                    li.active
+                        a.page-scroll(href='#production') Production <span class="carot">&raquo;</span>
+                    li
+                        a.page-scroll(href='#post-production') Post-production <span class="carot">&raquo;</span>
+                    li
+                        a.page-scroll(href='#technology') Technology <span class="carot">&raquo;</span>
+                    li
+                        a.page-scroll(href='#customization') Customization <span class="carot">&raquo;</span>
         a.down-arrow.page-scroll(href='#production')
             i.fa.fa-angle-double-down(aria-hidden='true')
     section#production.service.bg-light-gray
@@ -106,6 +106,20 @@ block content
                         li Two conference line providers
                         li A backup webinar room
                         li And more...
+    .services-links
+        .container
+            .row
+                ul#services-links-nav
+                    li
+                        a.page-scroll(href='#pre-production') Pre-Production <span class="carot">&raquo;</span>
+                    li
+                        a.page-scroll(href='#production') Production <span class="carot">&raquo;</span>
+                    li.active
+                        a.page-scroll(href='#post-production') Post-production <span class="carot">&raquo;</span>
+                    li
+                        a.page-scroll(href='#technology') Technology <span class="carot">&raquo;</span>
+                    li
+                        a.page-scroll(href='#customization') Customization <span class="carot">&raquo;</span>
         a.down-arrow.page-scroll(href='#post-production')
             i.fa.fa-angle-double-down(aria-hidden='true')
     section#post-production.service
@@ -121,6 +135,20 @@ block content
                             strong On-Demand Assets:
                             |  After your live webinar is over, we repackage the event into a user-friendly recording that continue to generate leads by tracking new registrations and poll responses.
                     .services-image
+    .services-links
+        .container
+            .row
+                ul#services-links-nav
+                    li
+                        a.page-scroll(href='#pre-production') Pre-Production <span class="carot">&raquo;</span>
+                    li
+                        a.page-scroll(href='#production') Production <span class="carot">&raquo;</span>
+                    li
+                        a.page-scroll(href='#post-production') Post-production <span class="carot">&raquo;</span>
+                    li.active
+                        a.page-scroll(href='#technology') Technology <span class="carot">&raquo;</span>
+                    li
+                        a.page-scroll(href='#customization') Customization <span class="carot">&raquo;</span>
         a.down-arrow.page-scroll(href='#technology')
             i.fa.fa-angle-double-down(aria-hidden='true')
     section#technology.service.bg-light-gray
@@ -136,6 +164,20 @@ block content
                             strong The Nitty-Gritty:
                             |  The general rule is: if you want to do it, we can do it. We provide branding, VoIP/telephone audio, video streaming, music, screen sharing, polling, multiple and flexible layouts, whiteboards, drawing, a presenter-only area, host/presenter/participant chatting, and more.
                     .services-image
+    .services-links
+        .container
+            .row
+                ul#services-links-nav
+                    li
+                        a.page-scroll(href='#pre-production') Pre-Production <span class="carot">&raquo;</span>
+                    li
+                        a.page-scroll(href='#production') Production <span class="carot">&raquo;</span>
+                    li
+                        a.page-scroll(href='#post-production') Post-production <span class="carot">&raquo;</span>
+                    li
+                        a.page-scroll(href='#technology') Technology <span class="carot">&raquo;</span>
+                    li.active
+                        a.page-scroll(href='#customization') Customization <span class="carot">&raquo;</span>
         a.down-arrow.page-scroll(href='#customization')
             i.fa.fa-angle-double-down(aria-hidden='true')
     section#customization.service

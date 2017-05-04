@@ -110,7 +110,7 @@ function getArticles(folders) {
 }
 
 // Add articles to the plugins array with html-webpack-plugin
-const articlesFolders = ['the-big-picture', 'Content', 'event-execution', 'Marketing', 'Sales']
+const articlesFolders = ['case-studies', 'the-big-picture', 'Content', 'event-execution', 'Marketing', 'Sales']
 const articlesData = getArticles(articlesFolders)
 plugins.push(new HtmlPlugin({
     filename: 'additional-content.html',

@@ -178,5 +178,5 @@ function doItAll(folders) {
     })
 }
 
-const articlesFolders = ['the-big-picture', 'Content', 'event-execution', 'Marketing', 'Sales']
+const articlesFolders = ['case-studies', 'the-big-picture', 'Content', 'event-execution', 'Marketing', 'Sales']
 doItAll(articlesFolders)
