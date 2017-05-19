@@ -12,7 +12,7 @@ export default {
             'webpack-dev-server/client?http://localhost:8080',
             'webpack/hot/only-dev-server',
             'babel-polyfill',
-            resolve(Dir.src, 'client', 'js', 'index.js')
+            resolve(Dir.src, 'js', 'index.js')
         ]
     },
     output: {
@@ -21,18 +21,6 @@ export default {
     module: {
         rules: [
             {
-                test: /\.js$/,
-                exclude: /(node_modules)/,
-                use: [{
-                    loader: 'babel-loader',
-                    options: {
-                        presets: [
-                            ['env', {modules: false}],
-                            'stage-2'
-                        ]
-                    }
-                }]
-            }, {
                 test: /\.scss$/,
                 use: ['style-loader', 'css-loader', 'sass-loader']
             }, {

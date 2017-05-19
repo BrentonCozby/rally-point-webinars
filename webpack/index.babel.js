@@ -47,17 +47,17 @@ let plugins = [
         }
     }),
     new CopyPlugin([
-        {from: resolve(Dir.client, 'crossdomain.xml')},
-        {from: resolve(Dir.client, '.htaccess')},
-        {from: resolve(Dir.client, 'humans.txt')},
-        {from: resolve(Dir.client, 'robots.txt')},
+        {from: resolve(Dir.src, 'crossdomain.xml')},
+        {from: resolve(Dir.src, '.htaccess')},
+        {from: resolve(Dir.src, 'humans.txt')},
+        {from: resolve(Dir.src, 'robots.txt')},
         {
             from: Dir.images,
             to: resolve(Dir.dist, 'images'),
             flatten: true
         },
         {
-            from: resolve(Dir.client, 'mail', 'contact_me.php'),
+            from: resolve(Dir.src, 'mail', 'contact_me.php'),
             to: resolve(Dir.dist, 'mail')
         }
     ])
@@ -126,6 +126,18 @@ let common = {
     module: {
         rules: [
             {
+                test: /\.js$/,
+                exclude: /(node_modules)/,
+                use: [{
+                    loader: 'babel-loader',
+                    options: {
+                        presets: [
+                            ['env', {modules: false}],
+                            'stage-0'
+                        ]
+                    }
+                }]
+            }, {
                 test: /\.(woff|woff2|eot|ttf)$/,
                 use: {
                     loader: 'url-loader',

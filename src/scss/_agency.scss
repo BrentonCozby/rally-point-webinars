@@ -375,27 +375,27 @@ header.contact .intro-text .intro-heading {
 }
 
 header.homepage {
-    background-image: linear-gradient(to top, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, .9) 90%), url('../../../assets/images/homepage-bg.jpg');
+    background-image: linear-gradient(to top, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, .9) 90%), url('../../assets/images/homepage-bg.jpg');
 }
 header.services {
-    background-image: linear-gradient(to top, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, .7) 40%), url('../../../assets/images/services-bg.jpg');
+    background-image: linear-gradient(to top, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, .7) 40%), url('../../assets/images/services-bg.jpg');
 }
 header.industries {
-    background-image: linear-gradient(to top, rgba(255, 255, 255, 0) 10%, rgba(255, 255, 255, .8) 30%), url('../../../assets/images/industries-bg.jpeg');
+    background-image: linear-gradient(to top, rgba(255, 255, 255, 0) 10%, rgba(255, 255, 255, .8) 30%), url('../../assets/images/industries-bg.jpeg');
 }
 header.thinking {
-    background-image: linear-gradient(to top, rgba(255, 255, 255, .8) 0%, rgba(255, 255, 255, .8) 100%), url('../../../assets/images/thinking-bg.jpg');
+    background-image: linear-gradient(to top, rgba(255, 255, 255, .8) 0%, rgba(255, 255, 255, .8) 100%), url('../../assets/images/thinking-bg.jpg');
     background-position: center top;
 }
 header.about {
-    background-image: linear-gradient(to top, rgba(0, 0, 0, .4) 0%, rgba(0, 0, 0, .4) 100%), url('../../../assets/images/about-bg.jpg');
+    background-image: linear-gradient(to top, rgba(0, 0, 0, .4) 0%, rgba(0, 0, 0, .4) 100%), url('../../assets/images/about-bg.jpg');
     background-position: center top;
 }
 header.contact {
-    background-image: url('../../../assets/images/contact-bg.jpg');
+    background-image: url('../../assets/images/contact-bg.jpg');
 }
 header.lost {
-    background-image: linear-gradient(to top, rgba(255, 255, 255, 0) 10%, rgba(255, 255, 255, .8) 100%), url('../../../assets/images/lost-bg.jpg');
+    background-image: linear-gradient(to top, rgba(255, 255, 255, 0) 10%, rgba(255, 255, 255, .8) 100%), url('../../assets/images/lost-bg.jpg');
 }
 
 header.contact .intro-text,
@@ -445,13 +445,13 @@ header.about .intro-text .intro-heading {
 
 @media all and (min-width: 992px) {
     header.services {
-        background-image: linear-gradient(to top, rgba(255, 255, 255, .3) 0%, rgba(255, 255, 255, .8) 100%), url('../../../assets/images/services-bg.jpg');
+        background-image: linear-gradient(to top, rgba(255, 255, 255, .3) 0%, rgba(255, 255, 255, .8) 100%), url('../../assets/images/services-bg.jpg');
     }
     header.industries {
-        background-image: linear-gradient(to top, rgba(255, 255, 255, .3) 0%, rgba(255, 255, 255, .7) 40%), url('../../../assets/images/industries-bg.jpeg');
+        background-image: linear-gradient(to top, rgba(255, 255, 255, .3) 0%, rgba(255, 255, 255, .7) 40%), url('../../assets/images/industries-bg.jpeg');
     }
     header.thinking {
-        background-image: linear-gradient(to bottom, rgba(255, 255, 255, .9) 30%, rgba(255, 255, 255, .1) 70%), url('../../../assets/images/thinking-bg.jpg');
+        background-image: linear-gradient(to bottom, rgba(255, 255, 255, .9) 30%, rgba(255, 255, 255, .1) 70%), url('../../assets/images/thinking-bg.jpg');
     }
 
     header.contact .intro-text .intro-heading {
@@ -741,23 +741,23 @@ section.service strong {
 }
 
 #pre-production .services-image {
-    background-image: url('../../../assets/images/services/Pre-Production.png');
+    background-image: url('../../assets/images/services/Pre-Production.png');
     background-position: center top;
     background-size: auto 105%;
 }
 #production .services-image {
-    background-image: url('../../../assets/images/services/Production.jpg');
+    background-image: url('../../assets/images/services/Production.jpg');
 }
 #post-production .services-image {
-    background-image: url('../../../assets/images/services/post-production.jpg');
+    background-image: url('../../assets/images/services/post-production.jpg');
     box-shadow: none;
     background-size: 100% auto;
 }
 #technology .services-image {
-    background-image: url('../../../assets/images/services/technology.jpg');
+    background-image: url('../../assets/images/services/technology.jpg');
 }
 #customization .services-image {
-    background-image: url('../../../assets/images/services/customization.jpg');
+    background-image: url('../../assets/images/services/customization.jpg');
 }
 
 .down-arrow {
@@ -984,16 +984,16 @@ section.service strong {
 }
 
 .professional-services .image {
-    background-image: url('../../../assets/images/industries/professional-services.jpg');
+    background-image: url('../../assets/images/industries/professional-services.jpg');
 }
 .enterprise-technology .image {
-    background-image: url('../../../assets/images/industries/enterprise-technology.jpg');
+    background-image: url('../../assets/images/industries/enterprise-technology.jpg');
 }
 .higher-education .image {
-    background-image: url('../../../assets/images/industries/higher-education.jpg');
+    background-image: url('../../assets/images/industries/higher-education.jpg');
 }
 .diversified .image {
-    background-image: url('../../../assets/images/industries/diversified.jpg');
+    background-image: url('../../assets/images/industries/diversified.jpg');
 }
 
 #industries .portfolio-item .dark-bg {
@@ -1146,7 +1146,7 @@ aside.industries img {
 
 section#contact {
     background-color: #222222;
-    background-image: url('../../../assets/images/map-image.png');
+    background-image: url('../../assets/images/map-image.png');
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
