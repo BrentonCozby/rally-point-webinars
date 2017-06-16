@@ -47,9 +47,6 @@ export default {
                             name: '[name].[ext]',
                             outputPath: 'images/'
                         }
-                    }, {
-                        loader: 'image-webpack-loader',
-                        options: {}
                     }
                 ]
             }
