@@ -51,6 +51,8 @@ let plugins = [
         {from: resolve(Dir.src, '.htaccess')},
         {from: resolve(Dir.src, 'humans.txt')},
         {from: resolve(Dir.src, 'robots.txt')},
+        {from: resolve(Dir.src, 'sitemap.xml')},
+        {from: resolve(Dir.src, 'sitemap.htm')},
         {
             from: Dir.images,
             to: resolve(Dir.dist, 'images'),

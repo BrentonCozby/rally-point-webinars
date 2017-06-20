@@ -280,10 +280,11 @@ header {
     text-align: center;
     color: white;
     color: #444;
+    height: 100vh;
 }
 
 header .container {
-    min-height: 100vh;
+    min-height: 100%;
     position: relative;
 }
 
@@ -333,6 +334,16 @@ header .intro-text .btn {
 
 header.homepage .intro-text .intro-lead-in {
     max-width: 600px;
+}
+
+header .down-arrow {
+    color: #fff;
+    bottom: 0;
+
+    &:hover,
+    &:focus {
+        color: $dark-blue;
+    }
 }
 
 header.thinking .intro-text,
@@ -599,7 +610,7 @@ section#technology.homepage .section-heading {
     padding: 0 10px;
 
     @media all and (min-width: 768px) {
-        margin-bottom: 70px;
+        margin-bottom: 20px;
     }
 }
 
@@ -609,14 +620,11 @@ section#technology.homepage img {
 }
 
 section#technology.homepage .text {
-    font-size: 20px;
-    margin-top: 30px;
-    padding: 0 20px;
-
-    @media all and (min-width: 768px) {
-        text-align: center;
-        font-size: 26px;
-    }
+    font-size: 18px;
+    line-height: 1.7;
+    max-width: 400px;
+    margin-left: auto;
+    text-align: right;
 }
 
 .how-it-works-text {
@@ -731,7 +739,6 @@ section.service strong {
     display: flex;
     flex-flow: row wrap;
     padding: 20px;
-    @include scroll-visible-setup(400ms);
 }
 
 .things-that-go-wrong li {
@@ -768,14 +775,8 @@ section.service strong {
     text-shadow: 0 2px 5px rgba(0, 0, 0, .5);
     left: 50%;
     transform: translateX(-50%);
-    bottom: -40px;
+    bottom: 0px;
     z-index: 1;
-}
-
-@media all and (min-width: 768px) {
-    .down-arrow {
-        bottom: -40px;
-    }
 }
 
 @media all and (min-width: 992px) {

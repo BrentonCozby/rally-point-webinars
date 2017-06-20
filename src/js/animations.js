@@ -1,7 +1,7 @@
 // Add selectors here and they will all have the class 'visible'
 // added to them when they scroll into view
 let selectors = [
-    $('.things-that-go-wrong')
+    
 ]
 
 
