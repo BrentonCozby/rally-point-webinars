@@ -917,6 +917,10 @@ section.service strong {
     width: 100%;
     max-width: 400px;
     box-shadow: 0 15px 80px -20px rgba(0, 0, 0, .3);
+
+    @media all and (min-width: 992px) {
+        width: 45%;
+    }
 }
 
 #industries .portfolio-item .portfolio-link {

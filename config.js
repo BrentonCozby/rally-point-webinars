@@ -1,5 +1,8 @@
 import { resolve } from 'path'
 
+export const rootAbsPath = __dirname
+export const rootRelPath = ''
+
 const Dir = {
   src: resolve(__dirname, 'src'),
   client: resolve(__dirname, 'src', 'client'),

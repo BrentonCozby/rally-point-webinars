@@ -1,3 +1,5 @@
+- var root = htmlWebpackPlugin.options.root
+
 mixin makeNavbar(page)
     if page === 'home'
         - var homeActive = 'active'
@@ -20,19 +22,19 @@ mixin makeNavbar(page)
                     |  Menu&nbsp;
                     i.fa.fa-bars
                 |
-                a.navbar-brand.page-scroll(href='./index.html')
-                    img(src='images/rally-point-check-logo.png', alt='')
+                a.navbar-brand.page-scroll(href= root + '/index.html')
+                    img(src= root + '/images/rally-point-check-logo.png', alt='')
             #bs-example-navbar-collapse-1.collapse.navbar-collapse
                 ul.nav.navbar-nav.navbar-right
                     li(class=homeActive)
-                        a.home(href='./index.html') home
+                        a.home(href= root + '/index.html') home
                     li(class=servicesActive)
-                        a(href='./services.html') Services
+                        a(href= root + '/services.html') Services
                     li(class=industriesActive)
-                        a(href='./industries.html') Industries
+                        a(href= root + '/industries.html') Industries
                     li(class=thinkingActive)
-                        a(href='./thinking.html') Thinking
+                        a(href= root + '/thinking.html') Thinking
                     li(class=aboutActive)
-                        a(href='./about.html') About
+                        a(href= root + '/about.html') About
                     li(class=contactActive)
-                        a.contact-navlink(href='./contact.html') Contact
+                        a.contact-navlink(href= root + '/contact.html') Contact

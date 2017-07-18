@@ -5,7 +5,7 @@ import merge from 'webpack-merge'
 import HtmlPlugin from 'html-webpack-plugin'
 import CopyPlugin from 'copy-webpack-plugin'
 
-import { Dir } from '../config.js'
+import { Dir, rootRelPath } from '../config.js'
 import devConfig from './dev.js'
 import prodConfig from './prod.js'
 
@@ -15,31 +15,38 @@ const env = (TARGET === 'dev') ? 'dev' : 'prod'
 let plugins = [
     new HtmlPlugin({
         filename: 'index.html',
-        template: resolve(Dir.pages, 'index.pug')
+        template: resolve(Dir.pages, 'index.pug'),
+        root: rootRelPath
     }),
     new HtmlPlugin({
         filename: 'about.html',
-        template: resolve(Dir.pages, 'about.pug')
+        template: resolve(Dir.pages, 'about.pug'),
+        root: rootRelPath
     }),
     new HtmlPlugin({
         filename: 'services.html',
-        template: resolve(Dir.pages, 'services.pug')
+        template: resolve(Dir.pages, 'services.pug'),
+        root: rootRelPath
     }),
     new HtmlPlugin({
         filename: 'industries.html',
-        template: resolve(Dir.pages, 'industries.pug')
+        template: resolve(Dir.pages, 'industries.pug'),
+        root: rootRelPath
     }),
     new HtmlPlugin({
         filename: 'contact.html',
-        template: resolve(Dir.pages, 'contact.pug')
+        template: resolve(Dir.pages, 'contact.pug'),
+        root: rootRelPath
     }),
     new HtmlPlugin({
         filename: 'thinking.html',
-        template: resolve(Dir.pages, 'thinking.pug')
+        template: resolve(Dir.pages, 'thinking.pug'),
+        root: rootRelPath
     }),
     new HtmlPlugin({
         filename: '404.html',
-        template: resolve(Dir.pages, '404.pug')
+        template: resolve(Dir.pages, '404.pug'),
+        root: rootRelPath
     }),
     new DefinePlugin({
         'process.env': {
@@ -123,7 +130,7 @@ plugins.push(new HtmlPlugin({
 let common = {
     output: {
         path: Dir.dist,
-        publicPath: ''
+        publicPath: rootRelPath + '/'
     },
     module: {
         rules: [
