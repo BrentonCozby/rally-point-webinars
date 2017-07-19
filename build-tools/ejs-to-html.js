@@ -2,8 +2,8 @@ import { resolve } from 'path'
 import fs from 'fs'
 import {
     Dir,
-    rootRelPath,
-    rootAbsPath,
+    PUBLIC_PATH,
+    DEV_PATH,
     siteTitle,
     siteUrl,
     description,
@@ -15,8 +15,8 @@ import ejs from 'ejs'
 require('dotenv').config()
 
 let filenameMap = null
-if(fs.existsSync(resolve(rootAbsPath, 'filename-map.json'))) {
-    const fileContents = fs.readFileSync(resolve(rootAbsPath, 'filename-map.json'), 'utf-8')
+if(fs.existsSync(resolve(DEV_PATH, 'filename-map.json'))) {
+    const fileContents = fs.readFileSync(resolve(DEV_PATH, 'filename-map.json'), 'utf-8')
     filenameMap = JSON.parse(fileContents)
 }
 
@@ -27,7 +27,7 @@ function transformer(filename, inputDir, outputDir) {
             delimiter: '%',
             filename: filePath,
             partials: Dir.partials,
-            rootRelPath,
+            PUBLIC_PATH,
             siteTitle,
             siteUrl,
             description,

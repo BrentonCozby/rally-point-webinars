@@ -5,7 +5,7 @@ import {
     siteTitle,
     siteUrl,
     description,
-    rootRelPath,
+    PUBLIC_PATH,
     developerName,
     developerURL
 } from '../config.js'
@@ -20,7 +20,7 @@ const config = {
     developerURL: developerURL,             // Your (or your developer's) URL. `string`
     background: "#fff",             // Background colour for flattened icons. `string`
     theme_color: "#fff",            // Theme color for browser chrome. `string`
-    path: join(sep, rootRelPath, 'images', 'favicons'),                      // Path for overriding default icons path. `string`
+    path: join(sep, PUBLIC_PATH, 'images', 'favicons'),                      // Path for overriding default icons path. `string`
     display: "standalone",          // Android display: "browser" or "standalone". `string`
     orientation: "portrait",        // Android orientation: "portrait" or "landscape". `string`
     start_url: "/?homescreen=1",    // Android start application's URL. `string`

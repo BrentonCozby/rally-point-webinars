@@ -11,7 +11,7 @@ export default {
     },
     output: {
         filename: `.${sep}` + join('dist', 'js', '[name].js'),
-        publicPath: config.rootRelPath + sep
+        publicPath: config.PUBLIC_PATH
     },
     module: {
         rules: [
@@ -32,8 +32,7 @@ export default {
     },
     plugins: [
         new webpack.DefinePlugin({
-            rootRelPath: JSON.stringify(config.rootRelPath),
-            rootRelPath: JSON.stringify(config.rootRelPath),
+            PUBLIC_PATH: JSON.stringify(config.PUBLIC_PATH),
             siteTitle: JSON.stringify(config.siteTitle),
             siteName: JSON.stringify(config.siteName),
             description: JSON.stringify(config.description),

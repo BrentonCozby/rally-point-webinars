@@ -1,5 +1,5 @@
 import swPrecache from 'sw-precache'
-import { Dir, siteName, rootRelPath } from '../config.js'
+import { Dir, siteName } from '../config.js'
 import { resolve } from 'path'
 
 swPrecache.write(resolve(Dir.dist, `service-worker.js`), {

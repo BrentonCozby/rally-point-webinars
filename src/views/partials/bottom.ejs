@@ -5,11 +5,11 @@
     }
 </script>
 <% if(filenameMap) { %>
-<script src="<%= rootRelPath %>/js/<%= filenameMap['vendor.js'] %>"></script>
-<script src="<%= rootRelPath %>/js/<%= filenameMap['bundle.js'] %>"></script>
+<script src="<%= PUBLIC_PATH %>js/<%= filenameMap['vendor.js'] %>"></script>
+<script src="<%= PUBLIC_PATH %>js/<%= filenameMap['bundle.js'] %>"></script>
 <% } else { %>
-<script src="<%= rootRelPath %>/js/vendor.js"></script>
-<script src="<%= rootRelPath %>/js/bundle.js"></script>
+<script src="<%= PUBLIC_PATH %>js/vendor.js"></script>
+<script src="<%= PUBLIC_PATH %>js/bundle.js"></script>
 <% } %>
 
 <script>

@@ -1,7 +1,7 @@
 import { resolve } from 'path'
 
-export const rootAbsPath = __dirname
-export const rootRelPath = ''
+export const DEV_PATH = __dirname
+export const PUBLIC_PATH = '' // must start with /
 
 export const siteTitle = 'Rally Point Webinars'
 export const siteName = 'rally-point-webinars-website'
