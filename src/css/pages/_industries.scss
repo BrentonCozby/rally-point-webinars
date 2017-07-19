@@ -1,0 +1,299 @@
+header.industries .intro-text,
+header.industries .intro-text .intro-heading {
+    color: #000;
+}
+
+header.industries {
+    background-image: linear-gradient(to top, rgba(255, 255, 255, .3) 0%, rgba(255, 255, 255, .7) 40%), url('../../images/industries-bg.jpeg');
+}
+
+.industries {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+.industry {
+    display: inline-block;
+    text-align: center;
+    padding: 30px 0;
+    width: 220px;
+    margin: 15px;
+    background-color: #fff;
+    text-transform: uppercase;
+    font-size: 1.4rem;
+    font-weight: normal;
+    border-radius: 4px;
+}
+
+@media all and (min-width: 768px) {
+    .industries {
+        justify-content: space-between;
+    }
+
+    .industry {
+        font-size: 1.5rem;
+    }
+}
+
+.client {
+    padding: 60px 0;
+}
+
+.case-study-logo .logo.pmsolutions {
+    text-align: center;
+    font-size: 6rem;
+    margin-bottom: 0;
+    color: #f8f8f8;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.case-study-logo {
+    padding: 50px 10px;
+    display: block;
+    background-color: #444;
+}
+
+.client .logo {
+
+    @media all and (min-width: 768px) {
+        padding: 0 20px;
+
+        &.pmsolutions {
+            font-size: 5.5rem;
+            text-align: center;
+        }
+    }
+}
+
+.client .info {
+    display: none;
+}
+
+.client:first-of-type .info {
+    display: block;
+}
+
+.client .profile img {
+    width: 100%;
+    max-width: 250px;
+}
+
+.client .profile p {
+    font-size: 1.6rem;
+    font-style: italic;
+}
+
+#industries hr {
+    border-top-color: #ddd;
+}
+
+#industries .industries-row {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+#industries .section-heading {
+    text-align: center;
+}
+
+#industries .portfolio-item {
+    margin: 15px;
+    display: inline-block;
+    width: 100%;
+    max-width: 400px;
+    box-shadow: 0 15px 80px -20px rgba(0, 0, 0, .3);
+
+    @media all and (min-width: 992px) {
+        width: 45%;
+    }
+}
+
+#industries .portfolio-item .portfolio-link {
+    display: block;
+    position: relative;
+}
+
+#industries .portfolio-item .portfolio-link .portfolio-hover {
+    background: rgba(85, 187, 255, 0.9);
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transition: all ease 0.5s;
+    -webkit-transition: all ease 0.5s;
+    -moz-transition: all ease 0.5s;
+}
+
+#industries .portfolio-item .portfolio-link .portfolio-hover:hover {
+    opacity: 1;
+}
+
+#industries .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
+    position: absolute;
+    width: 100%;
+    height: 20px;
+    font-size: 20px;
+    text-align: center;
+    top: 50%;
+    margin-top: -12px;
+    color: white;
+}
+
+#industries .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
+    margin-top: -12px;
+}
+
+#industries .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h3, #industries .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h4 {
+    margin: 0;
+}
+
+#industries .portfolio-item .portfolio-caption {
+    max-width: 400px;
+    margin: 0;
+    background-color: white;
+    text-align: center;
+    padding: 25px;
+}
+
+#industries .portfolio-item .portfolio-caption h4 {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 1.4;
+    margin: 0;
+}
+
+#industries .portfolio-link .image {
+    height: 250px;
+    z-index: 1;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.professional-services .image {
+    background-image: url('../../images/industries/professional-services.jpg');
+}
+.enterprise-technology .image {
+    background-image: url('../../images/industries/enterprise-technology.jpg');
+}
+.higher-education .image {
+    background-image: url('../../images/industries/higher-education.jpg');
+}
+.diversified .image {
+    background-image: url('../../images/industries/diversified.jpg');
+}
+
+#industries .portfolio-item .dark-bg {
+    background-color: #444;
+}
+
+#industries * {
+    z-index: 2;
+}
+
+@media (min-width: 767px) {
+    #industries .portfolio-item {
+        margin: 0 15px 30px 15px;
+    }
+}
+
+.portfolio-modal.modal {
+    padding-right: 0 !important;
+}
+
+.portfolio-modal .modal-dialog {
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.portfolio-modal .modal-content {
+    border-radius: 0;
+    background-clip: border-box;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border: none;
+    min-height: 100%;
+    padding: 100px 0;
+    text-align: center;
+}
+
+.portfolio-modal .modal-content .modal-body {
+    max-width: 700px;
+    margin: auto;
+}
+
+.portfolio-modal .modal-content h2 {
+    margin-bottom: 15px;
+    font-size: 3em;
+}
+
+.portfolio-modal .modal-content p {
+    margin: 30px 0;
+    font-size: 18px;
+}
+
+.portfolio-modal .modal-content p.item-intro {
+    margin: 20px 0 30px;
+    font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: italic;
+    font-size: 16px;
+}
+
+.portfolio-modal .modal-content ul.list-inline {
+    margin-bottom: 30px;
+    margin-top: 0;
+}
+
+.portfolio-modal .modal-content img {
+    margin-bottom: 30px;
+}
+
+.portfolio-modal .close-modal {
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    background-color: rgba(0, 0, 0, 0);
+    top: 25px;
+    right: 25px;
+    cursor: pointer;
+}
+
+.portfolio-modal .close-modal:hover {
+    opacity: 0.3;
+}
+
+.portfolio-modal .close-modal .lr {
+    height: 75px;
+    width: 1px;
+    margin-left: 35px;
+    background-color: #222222;
+    transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    /* IE 9 */
+    -webkit-transform: rotate(45deg);
+    /* Safari and Chrome */
+    z-index: 1051;
+}
+
+.portfolio-modal .close-modal .lr .rl {
+    height: 75px;
+    width: 1px;
+    background-color: #222222;
+    transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    /* IE 9 */
+    -webkit-transform: rotate(90deg);
+    /* Safari and Chrome */
+    z-index: 1052;
+}
+
+.portfolio-modal .modal-backdrop {
+    opacity: 0;
+    display: none;
+}

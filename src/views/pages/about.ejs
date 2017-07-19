@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<%- include(`${partials}/head`, {pageTitle: 'About'}); -%>
+<body>
+    <%- include(`${partials}/navbar`, {pageClass: 'about'}); -%>
+
+    <header class="about">
+        <div class="container">
+            <div class="row">
+                <div class="intro-text">
+                    <div class="intro-heading col-md-12">webinar focused.</div>
+                    <div class="intro-lead-in col-md-9">We are devoted to producing professional webinars that deliver results.</div>
+                    <div class="col-md-12"><a class="page-scroll btn btn-xl" href="#about">
+                        Learn More <span class="carot">&raquo;</span></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <a class="down-arrow page-scroll" href="#about"><i class="fa fa-angle-double-down" aria-hidden="true"></i></a>
+    </header>
+    <section class="aboutPage" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2 class="section-heading">About</h2>
+                    <p class="section-subheading">Rally Point Webinars is a webinar production and project management company devoted to delivering professional, online events. We are distinct in that other webinar providers are primarily technology vendors that offer add-on event support.</p>
+                </div>
+            </div>
+            <br>
+            <br>
+            <br>
+            <div class="row">
+                <div class="col-lg-12">
+                    <img class="aaron-joslow" src="<%= rootRelPath %>/images/people/aaron-linkedin.jpg" alt="Aaron Joslow, Principal of Rally Point Webinars">
+                </div>
+                <div class="col-lg-12">
+                    <div class="about-aaron">
+                        <h3>Aaron Joslow, Founder and Principal</h3>
+                        <p>Aaron is an expert in producing webinars for leading businesses, organizations, and universities worldwide.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <%- include(`${partials}/contact`); -%>
+    <%- include(`${partials}/footer`); -%>
+    <%- include(`${partials}/bottom`); -%>
+</body>
+
+</html>

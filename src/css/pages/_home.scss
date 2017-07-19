@@ -1,0 +1,110 @@
+header.homepage {
+    background-image:
+        linear-gradient(to top, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, .9) 90%),
+        url('../../images/homepage-bg.jpg');
+}
+
+header.homepage .intro-text .intro-lead-in {
+    max-width: 600px;
+
+    @media all and (min-width: 768px) {
+        font-size: 30px;
+    }
+}
+
+section#about.homepage h2.section-heading {
+    text-align: center;
+}
+
+section#what-we-do .section-heading {
+    text-align: center;
+    display: inline-block;
+}
+
+section#what-we-do .col-md-4 {
+    text-align: center;
+    margin-top: 70px;
+
+    @media all and (min-width: 992px) {
+        &:nth-of-type(2) {
+
+            h3 {
+                margin-top: 35px;
+            }
+
+            p {
+                margin-top: 35px;
+            }
+        }
+    }
+}
+
+section#what-we-do .col-md-4 h3 {
+
+    .carot {
+        margin-top: -2px;
+        font-size: 30px;
+    }
+}
+
+section#what-we-do .col-md-4 p {
+    max-width: 220px;
+    margin: auto;
+    font-size: 18px;
+    margin-top: 24px;
+}
+
+section#what-we-do .icon {
+    width: 80px;
+    margin-bottom: 20px;
+}
+
+section#technology.homepage .container {
+    padding: 0;
+
+    @media all and (min-width: 786px) {
+        padding: 15px;
+    }
+}
+
+section#technology.homepage .row {
+    margin-left: 0;
+    margin-right: 0;
+
+    @media all and (min-width: 768px) {
+        margin-left: -15px;
+        margin-right: -15px;
+    }
+}
+
+section#technology.homepage .section-heading {
+    margin-bottom: 40px;
+    padding: 0 10px;
+
+    @media all and (min-width: 768px) {
+        margin-bottom: 20px;
+    }
+}
+
+section#technology.homepage img {
+    width: 100%;
+    display: block;
+}
+
+section#technology.homepage .text {
+    font-size: 18px;
+    line-height: 1.7;
+    max-width: 400px;
+    margin-left: auto;
+    text-align: right;
+}
+
+#commitment .section-subheading, #commitment .section-heading {
+    text-align: center;
+    max-width: 970px;
+    margin: auto;
+}
+
+#commitment .section-heading {
+    margin-bottom: 40px;
+}

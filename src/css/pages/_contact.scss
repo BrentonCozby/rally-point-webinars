@@ -1,0 +1,27 @@
+header.contact .intro-text .intro-heading {
+    font-size: 20px;
+    line-height: 1.3;
+
+    @media all and (min-width: 992px) {
+        font-size: 75px;
+    }
+}
+
+header.contact {
+    background-image: url('../../images/contact-bg.jpg');
+}
+
+header.contact .intro-text,
+header.contact .intro-text .intro-heading,
+header.contact .intro-text .intro-lead-in {
+    text-align: center;
+}
+
+header.contact .intro-text .intro-lead-in {
+    color: #fff;
+    text-shadow: 0 1px 8px rgba(0, 0, 0, .5);
+}
+
+header.contact .btn {
+    display: inline-block;
+}

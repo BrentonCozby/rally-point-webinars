@@ -1,0 +1,93 @@
+header {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    text-align: center;
+    color: white;
+    color: #444;
+    height: 100vh;
+}
+
+header .container {
+    min-height: 100%;
+    position: relative;
+}
+
+header .row {
+    margin: 0;
+    padding: 0 15px;
+}
+
+header .row .col-md-12 {
+    padding: 0;
+}
+
+header .intro-text {
+    padding-top: 90px;
+    padding-bottom: 40px;
+    text-align: left;
+    position: relative;
+}
+
+header .intro-text .intro-heading {
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 50px;
+    margin-bottom: 25px;
+    text-align: left;
+    @include slide-up-fade-in(400ms);
+}
+
+header .intro-text .intro-lead-in {
+    font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: italic;
+    font-size: 24px;
+    line-height: 1.2;
+    margin-bottom: 25px;
+    padding: 0;
+    @include slide-up-fade-in(550ms);
+}
+
+header .intro-text .btn {
+    font-size: 14px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 3px 0 rgba(0, 0, 0, .5);
+    @include slide-in(700ms);
+}
+
+header .down-arrow {
+    color: #fff;
+    bottom: 0;
+
+    &:hover,
+    &:focus {
+        color: $dark-blue;
+    }
+}
+
+@media (min-width: 768px) {
+    header .intro-text {
+        padding-top: 130px;
+    }
+    header .intro-text .intro-heading {
+        font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        text-transform: uppercase;
+        font-weight: 700;
+        font-size: 75px;
+        line-height: 75px;
+        margin-bottom: 40px;
+    }
+    header .intro-text .intro-lead-in {
+        font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 30px;
+        font-style: normal;
+        line-height: 40px;
+        margin-bottom: 45px;
+    }
+}

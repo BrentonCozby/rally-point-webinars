@@ -1,0 +1,223 @@
+header.services .intro-text,
+header.services .intro-text .intro-heading  {
+    color: #000;
+}
+
+header.services .intro-text .intro-lead-in p {
+    margin-left: 0;
+    text-shadow: 0 0 3px #fff;
+}
+
+header.services .intro-text .intro-lead-in p {
+    font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 24px;
+    line-height: 1.2;
+    margin-bottom: 0;
+    padding: 0;
+    max-width: 800px;
+    font-style: normal;
+
+    @media all and (min-width: 768px) {
+        font-size: 30px;
+        line-height: 40px;
+    }
+}
+
+header.services {
+    background-image:
+        linear-gradient(to top, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, .7) 40%),
+        url('../../images/services-bg.jpg');
+
+    @media all and (min-width: 992px) {
+        header.services {
+            background-image: linear-gradient(to top, rgba(255, 255, 255, .3) 0%, rgba(255, 255, 255, .8) 100%), url('../../assets/images/services-bg.jpg');
+        }
+    }
+}
+
+.process-links {
+    margin-top: 40px;
+}
+
+.process-link {
+    font-size: 2rem;
+    border: 2px solid #5bf;
+    padding: 10px 15px;
+    border-radius: 3px;
+    margin-top: 30px;
+    transition: all 200ms;
+}
+
+.process-link:hover {
+    background-color: #5bf;
+    color: white;
+    text-decoration: none;
+}
+
+.service-heading {
+    margin: 15px 0;
+    text-transform: none;
+}
+
+.services-links {
+    display: none;
+    background-color: #ddd;
+    width: 100%;
+    box-shadow: inset 0 9px 10px -10px #555, inset 0 -7px 10px -10px #555;
+
+    @media all and (min-width: 992px) {
+        display: block;
+    }
+}
+
+.services-links ul {
+    padding: 30px 0;
+    text-align: center;
+    margin: 0;
+}
+
+.services-links ul li {
+    display: block;
+    border-radius: 2px;
+
+    &.active {
+        background-color: #5bf;
+
+        a {
+            color: #fff;
+        }
+    }
+}
+
+.services-links ul a {
+    display: inline-block;
+    font-size: 2rem;
+    border: 2px solid #5bf;
+    padding: 10px 15px;
+    border-radius: 3px;
+    margin-top: 30px;
+    transition: all 200ms;
+}
+
+.services-links ul a:focus, .services-links ul a:hover {
+    background-color: #5bf;
+    color: white;
+    text-decoration: none;
+}
+
+section.service .col-lg-12 {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+section.service .text,
+section.service .services-image {
+    width: 100%;
+}
+
+section.service .services-image {
+    width: 100%;
+    height: 300px;
+    background-color: #fff;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 0 3px 12px 0 #555;
+}
+
+section.service p {
+    margin: 25px 0;
+    font-size: 16px;
+}
+
+section.service strong {
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.things-that-go-wrong {
+    text-align: left;
+    display: flex;
+    flex-flow: row wrap;
+    padding: 20px;
+}
+
+.things-that-go-wrong li {
+    font-size: 20px;
+    line-height: 1.4;
+    margin: 10px 0;
+}
+
+#pre-production .services-image {
+    background-image: url('../../images/services/Pre-Production.png');
+    background-position: center top;
+    background-size: auto 105%;
+}
+#production .services-image {
+    background-image: url('../../images/services/Production.jpg');
+}
+#post-production .services-image {
+    background-image: url('../../images/services/post-production.jpg');
+    box-shadow: none;
+    background-size: 100% auto;
+}
+#technology .services-image {
+    background-image: url('../../images/services/technology.jpg');
+}
+#customization .services-image {
+    background-image: url('../../images/services/customization.jpg');
+}
+
+@media all and (min-width: 992px) {
+    .services-links ul {
+        display: flex;
+        justify-content: space-around;
+        flex-flow: row wrap;
+
+        a {
+            margin-top: 0;
+        }
+    }
+
+    section.service .col-lg-12 {
+        justify-content: space-between;
+    }
+
+    section.service .text,
+    section.service .services-image {
+        width: 48%;
+    }
+
+    section.service .text h2 {
+        margin-top: 0;
+    }
+
+    section.service .services-image {
+        height: 420px;
+    }
+
+    #production .col-lg-12 {
+        flex-direction: row-reverse;
+    }
+    #technology .col-lg-12 {
+        flex-direction: row-reverse;
+    }
+
+    .things-that-go-wrong {
+        justify-content: space-around;
+    }
+
+    .things-that-go-wrong-title {
+        text-align: right;
+        font-size: 7rem;
+        margin-top: 0;
+        font-weight: lighter;
+        text-transform: none;
+    }
+
+    .things-that-go-wrong-title,
+    .things-that-go-wrong ul {
+        width: 40%;
+    }
+}

@@ -1,0 +1,52 @@
+.article {
+    max-width: 900px;
+    padding: 20px;
+    padding-top: 90px;
+    margin: auto;
+
+    @media all and (min-width: 768px) {
+        padding-top: 130px;
+    }
+
+    p, ul, li {
+        font-size: 18px;
+        line-height: 1.4;
+        margin: 22px 0;
+        opacity: 1;
+    }
+
+    .title {
+        font-size: 28px;
+
+        @media all and (min-width: 992px) {
+            font-size: 44px;
+            line-height: 1.3;
+        }
+    }
+
+    h3 {
+        font-size: 22px;
+        margin: 30px 0;
+
+        @media all and (min-width: 768px) {
+            font-size: 28px;
+        }
+    }
+
+    strong {
+        display: inline-block;
+        font-size: 18px;
+        margin-right: 8px;
+    }
+
+    blockquote {
+        border-left-color: #5bf;
+        margin: 35px 0;
+        padding-left: 30px;
+        padding-bottom: 35px;
+
+        p {
+            font-size: 24px;
+        }
+    }
+}

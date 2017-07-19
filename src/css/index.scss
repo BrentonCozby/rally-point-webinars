@@ -1,0 +1,22 @@
+// Contains SASS mixins or variables
+@import "animations";
+@import "base";
+@import "helpers";
+
+// components
+@import "navbar";
+@import "header";
+@import "article";
+@import "contact";
+@import "footer";
+@import "misc";
+
+// pages
+@import "pages/about";
+@import "pages/home";
+@import "pages/services";
+@import "pages/industries";
+@import "pages/thinking";
+@import "pages/additional-content";
+@import "pages/contact";
+@import "pages/lost";

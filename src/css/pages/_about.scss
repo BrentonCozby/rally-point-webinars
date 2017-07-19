@@ -1,0 +1,51 @@
+header.about {
+    background-image: linear-gradient(to top, rgba(0, 0, 0, .4) 0%, rgba(0, 0, 0, .4) 100%), url('../../images/about-bg.jpg');
+    background-position: center top;
+}
+
+header.about .intro-text .intro-lead-in,
+header.about .intro-text .intro-heading {
+    color: #fff;
+    text-shadow: 0 1px 6px #000;
+}
+
+section#about .mission-text {
+    text-align: center;
+    font-size: 18px;
+}
+
+section#about .section-subheading {
+    font-size: 24px;
+    line-height: 1.6;
+    margin: 25px 0;
+}
+
+section#about.aboutPage img.aaron-joslow {
+    display: block;
+    box-sizing: border-box;
+    border-radius: 100%;
+    width: 200px;
+    border: 8px solid #fff;
+    box-shadow: 0 8px 40px -8px #444;
+    margin: 30px auto;
+}
+
+section#about.aboutPage .about-aaron {
+    max-width: 600px;
+    text-align: center;
+    line-height: 1.5;
+    margin: 20px auto;
+
+    p {
+        font-size: 20px;
+        font-style: italic;
+    }
+}
+
+@media all and (min-width: 768px) {
+    section#about .mission-text {
+        max-width: 800px;
+        margin: 60px auto 40px;
+        font-size: 24px;
+    }
+}

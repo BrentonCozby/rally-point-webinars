@@ -1,0 +1,22 @@
+<nav class="navbar navbar-default navbar-custom navbar-fixed-top <%= pageClass %>" id="mainNav">
+    <div class="container">
+        <div class="navbar-header page-scroll">
+            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span> Menu&nbsp;<i class="fa fa-bars"></i>
+            </button>
+            <a class="navbar-brand" href="<%= rootRelPath %>/">
+                <img src="<%= rootRelPath %>/images/logos/rally-point-check-logo.png" alt="Rally Point Webinars Logo">
+            </a>
+        </div>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <li class="<% if(pageClass === 'home') { %>active<% } %>"><a class="home" href="<%= rootRelPath %>/">home</a></li>
+                <li class="<% if(pageClass === 'services') { %>active<% } %>"><a href="<%= rootRelPath %>/services.html">Services</a></li>
+                <li class="<% if(pageClass === 'industries') { %>active<% } %>"><a href="<%= rootRelPath %>/industries.html">Industries</a></li>
+                <li class="<% if(pageClass === 'thinking') { %>active<% } %>"><a href="<%= rootRelPath %>/thinking.html">Thinking</a></li>
+                <li class="<% if(pageClass === 'about') { %>active<% } %>"><a href="<%= rootRelPath %>/about.html">About</a></li>
+                <li class="<% if(pageClass === 'contact') { %>active<% } %>"><a class="contact-navlink" href="<%= rootRelPath %>/contact.html">Contact</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
