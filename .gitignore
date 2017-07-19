@@ -1,5 +1,6 @@
 .env
 dist
+.DS_Store
 
 # Logs
 logs

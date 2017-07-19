@@ -124,7 +124,8 @@ const articlesData = getArticles(articlesFolders)
 plugins.push(new HtmlPlugin({
     filename: 'additional-content.html',
     template: resolve(Dir.pages, 'additional-content.pug'),
-    articles: articlesData
+    articles: articlesData,
+    root: rootRelPath
 }))
 
 let common = {
