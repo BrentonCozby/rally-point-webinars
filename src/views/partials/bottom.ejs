@@ -23,3 +23,9 @@
     ga('create', 'UA-8405732-2', 'auto');
     ga('send', 'pageview');
 </script>
+
+<script>
+    if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('<%= PUBLIC_PATH %>service-worker.js');
+    }
+</script>
