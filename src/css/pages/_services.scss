@@ -26,11 +26,11 @@ header.services .intro-text .intro-lead-in p {
 header.services {
     background-image:
         linear-gradient(to top, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, .7) 40%),
-        url('../../images/services-bg.jpg');
+        url('../images/services-bg.jpg');
 
     @media all and (min-width: 992px) {
         header.services {
-            background-image: linear-gradient(to top, rgba(255, 255, 255, .3) 0%, rgba(255, 255, 255, .8) 100%), url('../../assets/images/services-bg.jpg');
+            background-image: linear-gradient(to top, rgba(255, 255, 255, .3) 0%, rgba(255, 255, 255, .8) 100%), url('../assets/images/services-bg.jpg');
         }
     }
 }
@@ -150,23 +150,23 @@ section.service strong {
 }
 
 #pre-production .services-image {
-    background-image: url('../../images/services/Pre-Production.png');
+    background-image: url('../images/services/Pre-Production.png');
     background-position: center top;
     background-size: auto 105%;
 }
 #production .services-image {
-    background-image: url('../../images/services/Production.jpg');
+    background-image: url('../images/services/Production.jpg');
 }
 #post-production .services-image {
-    background-image: url('../../images/services/post-production.jpg');
+    background-image: url('../images/services/post-production.jpg');
     box-shadow: none;
     background-size: 100% auto;
 }
 #technology .services-image {
-    background-image: url('../../images/services/technology.jpg');
+    background-image: url('../images/services/technology.jpg');
 }
 #customization .services-image {
-    background-image: url('../../images/services/customization.jpg');
+    background-image: url('../images/services/customization.jpg');
 }
 
 @media all and (min-width: 992px) {

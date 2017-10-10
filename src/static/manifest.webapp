@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "name": "Rally Point Webinars",
+  "description": "Webinar Production for when your important people are watching.",
+  "icons": {
+    "60": "/images/logos/firefox_app_60x60.png",
+    "128": "/images/logos/firefox_app_128x128.png",
+    "512": "/images/logos/firefox_app_512x512.png"
+  },
+  "developer": {
+    "name": "Brenton Cozby",
+    "url": "https://brentoncozby.com"
+  }
+}

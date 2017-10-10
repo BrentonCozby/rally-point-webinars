@@ -4,7 +4,7 @@ header.industries .intro-text .intro-heading {
 }
 
 header.industries {
-    background-image: linear-gradient(to top, rgba(255, 255, 255, .3) 0%, rgba(255, 255, 255, .7) 40%), url('../../images/industries-bg.jpeg');
+    background-image: linear-gradient(to top, rgba(255, 255, 255, .3) 0%, rgba(255, 255, 255, .7) 40%), url('../images/industries-bg.jpeg');
 }
 
 .industries {
@@ -176,16 +176,16 @@ header.industries {
 }
 
 .professional-services .image {
-    background-image: url('../../images/industries/professional-services.jpg');
+    background-image: url('../images/industries/professional-services.jpg');
 }
 .enterprise-technology .image {
-    background-image: url('../../images/industries/enterprise-technology.jpg');
+    background-image: url('../images/industries/enterprise-technology.jpg');
 }
 .higher-education .image {
-    background-image: url('../../images/industries/higher-education.jpg');
+    background-image: url('../images/industries/higher-education.jpg');
 }
 .diversified .image {
-    background-image: url('../../images/industries/diversified.jpg');
+    background-image: url('../images/industries/diversified.jpg');
 }
 
 #industries .portfolio-item .dark-bg {

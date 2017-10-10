@@ -11,7 +11,7 @@ export default {
     },
     output: {
         filename: `.${sep}` + join('dist', 'js', '[name].js'),
-        publicPath: config.PUBLIC_PATH
+        publicPath: config.PP
     },
     module: {
         rules: [
@@ -32,13 +32,15 @@ export default {
     },
     plugins: [
         new webpack.DefinePlugin({
-            PUBLIC_PATH: JSON.stringify(config.PUBLIC_PATH),
-            siteTitle: JSON.stringify(config.siteTitle),
-            siteName: JSON.stringify(config.siteName),
-            description: JSON.stringify(config.description),
-            siteUrl: JSON.stringify(config.siteUrl),
-            developerName: JSON.stringify(config.developerName),
-            developerURL: JSON.stringify(config.developerURL)
+            NODE_ENV: JSON.stringify(process.env.NODE_ENV),
+            PP: JSON.stringify(config.PP),
+            SITE_TITLE: JSON.stringify(config.SITE_TITLE),
+            SITE_SLUG: JSON.stringify(config.SITE_SLUG),
+            SITE_IMAGE: JSON.stringify(config.SITE_IMAGE),
+            DESCRIPTION: JSON.stringify(config.DESCRIPTION),
+            SITE_URL: JSON.stringify(config.SITE_URL),
+            DEVELOPER_NAME: JSON.stringify(config.DEVELOPER_NAME),
+            DEVELOPER_URL: JSON.stringify(config.DEVELOPER_URL)
         })
     ]
 }

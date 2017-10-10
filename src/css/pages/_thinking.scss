@@ -20,11 +20,11 @@ header.thinking .intro-text .intro-lead-in p {
 }
 
 header.thinking {
-    background-image: linear-gradient(to top, rgba(255, 255, 255, .8) 0%, rgba(255, 255, 255, .8) 100%), url('../../images/thinking-bg.jpg');
+    background-image: linear-gradient(to top, rgba(255, 255, 255, .8) 0%, rgba(255, 255, 255, .8) 100%), url('../images/thinking-bg.jpg');
     background-position: center top;
 
     @media all and (min-width: 992px) {
-        background-image: linear-gradient(to bottom, rgba(255, 255, 255, .9) 30%, rgba(255, 255, 255, .1) 70%), url('../../images/thinking-bg.jpg');
+        background-image: linear-gradient(to bottom, rgba(255, 255, 255, .9) 30%, rgba(255, 255, 255, .1) 70%), url('../images/thinking-bg.jpg');
     }
 }
 

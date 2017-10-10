@@ -1,26 +1,41 @@
 import { resolve } from 'path'
 
-export const DEV_PATH = __dirname
-export const PUBLIC_PATH = '/' // must start with /
+// Use the following variables in src/views. They are made available in
+// build-tools/ejs-to-html.js in the 'transformer' function
+
+// PP (public path) must begin and end with '/' unless it is just '/'
 
 export const siteTitle = 'Rally Point Webinars'
-export const siteName = 'rally-point-webinars-website'
 export const description = 'Webinar Production for when your important people are watching.'
 export const siteUrl = 'rallypointwebinars.com'
 export const developerName = 'Brenton Cozby'
 export const developerURL = 'https://brentoncozby.com'
+
+export const PP = process.env.NODE_ENV === 'production'
+    ? '/'
+    : '/'
+export const DEV_PATH = __dirname
+export const SITE_TITLE = 'Rally Point Webinars'
+export const SITE_SLUG = 'rally-point-webinars-website'
+export const SITE_URL = 'rallypointwebinars.com'
+export const SITE_IMAGE = ''
+export const DESCRIPTION = 'Webinar Production for when your important people are watching.'
+export const DEVELOPER_NAME = 'Brenton Cozby'
+export const DEVELOPER_URL = 'https://brentoncozby.com'
+export const GOOGLE_ANALYTICS_ID = ''
 
 const Dir = {
     dist: resolve(__dirname, 'dist'),
     src: resolve(__dirname, 'src'),
     css: resolve(__dirname, 'src', 'css'),
     js: resolve(__dirname, 'src', 'js'),
-    misc: resolve(__dirname, 'src', 'misc'),
-    images: resolve(__dirname, 'src', 'images'),
+    static: resolve(__dirname, 'src', 'static'),
+    images: resolve(__dirname, 'src', 'static', 'images'),
+    videos: resolve(__dirname, 'src', 'static', 'videos'),
     vendor: resolve(__dirname, 'src', 'vendor'),
     views: resolve(__dirname, 'src', 'views'),
     pages: resolve(__dirname, 'src', 'views', 'pages'),
-    partials: resolve(__dirname, 'src', 'views', 'partials'),
+    partials: resolve(__dirname, 'src', 'views', 'partials')
 }
 
 export { Dir }

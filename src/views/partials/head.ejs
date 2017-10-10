@@ -2,39 +2,58 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title><%= siteTitle %> | <%= pageTitle %></title>
-    <meta name="description" content="<%= description %>">
-    <meta property="og:url" content="<%= siteUrl %>">
-    <meta property="og:site_name" content="<%= siteTitle %>">
+    <title><%= SITE_TITLE %> | <%= pageTitle %></title>
+    <meta name="description" content="<%= DESCRIPTION %>">
+    <meta property="og:url" content="<%= SITE_URL %>">
+    <meta property="og:site_name" content="<%= SITE_TITLE %>">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="<%= siteTitle %>">
-    <meta property="og:description" content="<%= description %>">
+    <meta property="og:title" content="<%= SITE_TITLE %>">
+    <meta property="og:description" content="<%= DESCRIPTION %>">
     <meta property="og:image" content="">
-    <meta name="twitter:title" content="<%= siteTitle %>">
-    <meta name="twitter:description" content="<%= description %>">
+    <meta name="twitter:title" content="<%= SITE_TITLE %>">
+    <meta name="twitter:description" content="<%= DESCRIPTION %>">
     <meta name="twitter:image" content="">
     <meta name="twitter:image:alt" content="">
-    <meta name="twitter:site" content="<%= siteUrl %>">
-    <meta name='author' content='<%= developerName %>. <%= developerURL %>'>
-    <%- include('favicons') -%>
+    <meta name="twitter:site" content="<%= SITE_URL %>">
+    <meta name='author' content='<%= DEVELOPER_NAME %>. <%= DEVELOPER_URL %>'>
+
+    <!-- favicons -->
+    <link rel="apple-touch-icon" sizes="57x57" href="<%= PP %>images/logos/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="<%= PP %>images/logos/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="<%= PP %>images/logos/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="<%= PP %>images/logos/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="<%= PP %>images/logos/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="<%= PP %>images/logos/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="<%= PP %>images/logos/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="<%= PP %>images/logos/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="<%= PP %>images/logos/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="<%= PP %>images/logos/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="<%= PP %>images/logos/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="<%= PP %>images/logos/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="<%= PP %>images/logos/favicon-16x16.png">
+    <link rel="manifest" href="<%= PP %>manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="<%= PP %>images/logos/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <!-- End favicons -->
 
     <!-- Vendor CSS files -->
-    <link rel="stylesheet" href="<%= PUBLIC_PATH %>vendor/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="<%= PUBLIC_PATH %>vendor/font-awesome-4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="<%= PP %>vendor/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="<%= PP %>vendor/font-awesome-4.7.0/css/font-awesome.min.css">
     <!-- End vendor CSS -->
 
 <% if(filenameMap) { %>
-    <link rel="stylesheet" href="<%= PUBLIC_PATH %>css/<%= filenameMap['index.css'] %>">
-    <link rel="preload" href="<%= PUBLIC_PATH %>js/<%= filenameMap['vendor.js'] %>" as="script">
-    <link rel="prefetch" href="<%= PUBLIC_PATH %>js/<%= filenameMap['vendor.js'] %>">
-    <link rel="preload" href="<%= PUBLIC_PATH %>js/<%= filenameMap['bundle.js'] %>" as="script">
-    <link rel="prefetch" href="<%= PUBLIC_PATH %>js/<%= filenameMap['bundle.js'] %>">
+    <link rel="stylesheet" href="<%= PP %>css/<%= filenameMap['index.css'] %>">
+    <link rel="preload" href="<%= PP %>js/<%= filenameMap['vendor.js'] %>" as="script">
+    <link rel="prefetch" href="<%= PP %>js/<%= filenameMap['vendor.js'] %>">
+    <link rel="preload" href="<%= PP %>js/<%= filenameMap['bundle.js'] %>" as="script">
+    <link rel="prefetch" href="<%= PP %>js/<%= filenameMap['bundle.js'] %>">
 <% } else { %>
-    <link rel="stylesheet" href="<%= PUBLIC_PATH %>css/index.css">
-    <link rel="preload" href="<%= PUBLIC_PATH %>js/vendor.js" as="script">
-    <link rel="prefetch" href="<%= PUBLIC_PATH %>js/vendor.js">
-    <link rel="preload" href="<%= PUBLIC_PATH %>js/bundle.js" as="script">
-    <link rel="prefetch" href="<%= PUBLIC_PATH %>js/bundle.js">
+    <link rel="stylesheet" href="<%= PP %>css/index.css">
+    <link rel="preload" href="<%= PP %>js/vendor.js" as="script">
+    <link rel="prefetch" href="<%= PP %>js/vendor.js">
+    <link rel="preload" href="<%= PP %>js/bundle.js" as="script">
+    <link rel="prefetch" href="<%= PP %>js/bundle.js">
 <% } %>
 
     <!-- Google Tag Manager -->
