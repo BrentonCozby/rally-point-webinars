@@ -31,6 +31,7 @@ function formatTitle(title) {
 
 function insertTop(title) {
     return (
+    // eslint-disable-next-line
 `
 <!DOCTYPE html>
 <html lang="en">
@@ -71,6 +72,7 @@ function insertTop(title) {
 
 function insertBottom() {
     return (
+    // eslint-disable-next-line
 `
     </section>
     <section id="contact">
@@ -139,10 +141,10 @@ function formatArticle(article) {
     const articleArray = article.split('\n')
     let articleStart = articleArray.indexOf('<body>') + 1
     let articleEnd = articleArray.indexOf('</body>')
-    if(articleArray.indexOf('    <section class="article">') !== -1) {
+    if (articleArray.indexOf('    <section class="article">') !== -1) {
         articleStart = articleArray.indexOf('    <section class="article">') + 2
     }
-    if(articleArray.indexOf('    <section id="contact">') !== -1) {
+    if (articleArray.indexOf('    <section id="contact">') !== -1) {
         articleEnd = articleArray.indexOf('    <section id="contact">') - 1
     }
 
@@ -154,7 +156,7 @@ function formatArticle(article) {
         .replace(/<p class="p1">/g, '')
         .replace(/<\/p><\/p>/g, '</p>')
         .replace(/&amp;/g, '&')
-        .replace(/<span class="Apple-tab-span">	<\/span>/g, '')
+        .replace(/<span class="Apple-tab-span">	<\/span>/g, '') // eslint-disable-line
 }
 
 function doItAll(folders) {
@@ -162,17 +164,18 @@ function doItAll(folders) {
         readFiles(resolve(__dirname, folder), (filename, content) => {
             content = formatArticle(content)
 
-            if(content.indexOf('<section class="article">') === -1) {
+            if (content.indexOf('<section class="article">') === -1) {
                 content = insertTop(filename.replace(/.html$/, '')) + content
             }
 
-            if(content.indexOf('</section>\n<section id="contact">') === -1) {
+            if (content.indexOf('</section>\n<section id="contact">') === -1) {
                 content = content + insertBottom()
             }
 
             writeFile(resolve(folder, filename), content, (err) => {
-                if(err) throw err;
-                console.log(`${folder}: Done with ${filename}`)
+                if (err) throw err
+
+                console.log(`${folder}: Done with ${filename}`) // eslint-disable-line no-console
             })
         }, (err) => { throw err })
     })

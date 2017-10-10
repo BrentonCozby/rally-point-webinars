@@ -1,57 +1,60 @@
 // Add selectors here and they will all have the class 'scroll-visible'
 // added to them when they scroll into view
-let selectors = [
+import throttle from 'lodash/throttle'
+
+const selectors = [
     $('.appear')
 ]
 
 let animElements = []
 
-function _populateElements() {
-    selectors.forEach($selector => {
-        $selector.each((i, el) => {
-            animElements.push({element: $(el), position: null})
-        })
-    })
-}
-
-function _getPositions() {
-    _populateElements()
-
-    animElements.forEach($el => {
-        $el.position = $el.element.offset().top
-    })
-}
-
-const supportPageOffset = window.pageXOffset !== undefined;
-const isCSS1Compat = ((document.compatMode || "") === "CSS1Compat");
-const windowScroll = function() {
-    return supportPageOffset ? window.pageYOffset : isCSS1Compat ? document.documentElement.scrollTop : document.body.scrollTop;
+const supportPageOffset = (pageXOffset !== undefined)
+const isCSS1Compat = ((document.compatMode || '') === 'CSS1Compat')
+const windowScroll = function () {
+    return supportPageOffset ? pageYOffset : isCSS1Compat ? document.documentElement.scrollTop : document.body.scrollTop
 }
 let windowHeight = null
 let offset = 150
 
-function playAnimations() {
-    animElements.forEach(el => {
-        const triggerPoint = +el.position - +windowHeight + +offset
-        if(windowScroll() > triggerPoint)
-            el.element.addClass('scroll-visible')
-        else
-            el.element.removeClass('scroll-visible')
+const _populateElements = function () {
+    animElements = []
+    selectors.forEach(selector => {
+        selector && selector.forEach(element => {
+            animElements.push({ element, position: null })
+        })
     })
 }
 
-function onScroll() {
+const _getPositions = function () {
+    _populateElements()
+
+    animElements.forEach(el => {
+        el.position = el.element.getBoundingClientRect().top + windowScroll()
+    })
+}
+
+const playAnimations = function () {
+    animElements.forEach(el => {
+        const triggerPoint = +el.position - +windowHeight + +offset
+        if (windowScroll() > triggerPoint)
+            el.element.classList.add('scroll-visible')
+        else
+            el.element.classList.remove('scroll-visible')
+    })
+}
+
+const onScroll = function () {
     playAnimations()
 }
 
-function _showItemsInView() {
-    windowHeight = $(window).height()
+const _showItemsInView = function () {
+    windowHeight = window.innerHeight
     offset = windowHeight * .1
     _getPositions()
     playAnimations()
 }
 
-$(document).ready(function() {
+window.on('load', function () {
     // make sure items in view when page loads become visible
     setTimeout(_showItemsInView, 300)
     setTimeout(_showItemsInView, 600)
@@ -59,11 +62,11 @@ $(document).ready(function() {
     setTimeout(_showItemsInView, 1200)
 
     // re-initialize every 2 seconds in case of page resizing
-    setInterval(function() {
+    setInterval(function () {
         _showItemsInView()
     }, 2000)
 
-    $(document).scroll(throttle(onScroll, 100))
+    document.on('scroll', throttle(onScroll, 100))
 })
 
 export { playAnimations }

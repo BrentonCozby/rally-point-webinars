@@ -23,7 +23,8 @@
         "hash-filenames": "babel-node build-tools/hash-filenames.js",
         "prepend-banner": "babel-node build-tools/prepend-banner.js",
         "build:sw": "babel-node build-tools/build-service-worker.js",
-        "rmprod": "rimraf filename-map.json && rimraf dist"
+        "rmprod": "rimraf filename-map.json && rimraf dist",
+        "eslint": "eslint"
     },
     "author": "Brenton Cozby",
     "license": "MIT",
@@ -38,6 +39,9 @@
         "clean-css": "^4.1.9",
         "dotenv": "^4.0.0",
         "ejs": "^2.5.7",
+        "eslint": "^4.8.0",
+        "eslint-plugin-babel": "^4.1.2",
+        "eslint-plugin-react": "^7.4.0",
         "html-minifier": "^3.5.5",
         "node-sass": "^4.5.3",
         "npm-run-all": "^4.1.1",
