@@ -3,7 +3,7 @@
 import throttle from 'lodash/throttle'
 
 const selectors = [
-    $('.appear')
+    document.querySelectorAll('.appear')
 ]
 
 let animElements = []
@@ -54,7 +54,7 @@ const _showItemsInView = function () {
     playAnimations()
 }
 
-window.on('load', function () {
+window.addEventListener('load', function () {
     // make sure items in view when page loads become visible
     setTimeout(_showItemsInView, 300)
     setTimeout(_showItemsInView, 600)
@@ -66,7 +66,7 @@ window.on('load', function () {
         _showItemsInView()
     }, 2000)
 
-    document.on('scroll', throttle(onScroll, 100))
+    document.addEventListener('scroll', throttle(onScroll, 100))
 })
 
 export { playAnimations }

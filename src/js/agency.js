@@ -1,6 +1,3 @@
-import throttle from 'lodash.throttle'
-import { playAnimations } from './animations.js'
-
 (function($) {
     'use strict'
 
@@ -58,11 +55,5 @@ import { playAnimations } from './animations.js'
             $('#' + id).fadeIn()
         }, 310)
     })
-
-    function onScroll() {
-        playAnimations()
-    }
-
-    $(document).scroll(throttle(onScroll, 100))
 
 })(jQuery)
