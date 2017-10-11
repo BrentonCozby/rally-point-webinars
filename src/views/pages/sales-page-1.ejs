@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<%- include(`${partials}/head`, {pageTitle: 'Free Consultation'}); -%>
+<body id="page-top">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MBQWKBV"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <%- include(`${partials}/navbar`, {pageClass: 'sales-page-1'}); -%>
+
+    <header class="sales-page-1">
+        <div class="container">
+            <div class="intro-text">
+                <div class="row">
+                    <div class="intro-heading">Rally Point Webinars</div>
+                    <div class="intro-lead-in col-md-12 text-center">
+                        <p>We provide the best webinar services, technology, and platform.</p>
+                    </div>
+                    <div class="col-md-12 text-center">
+                        <a class="page-scroll btn btn-xl" href="#pre-production">
+                             FREE Consultation with a Webinar Consultant <span class="carot">&raquo;</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <section class="credibility-logos">
+        <img src="<%= PP %>images/logos/versata.png" alt="" class="logo">
+        <img src="<%= PP %>images/logos/RAIN-group.png" alt="" class="logo">
+        <img src="<%= PP %>images/logos/pmsolutions-logo.png" alt="" class="logo">
+        <img src="<%= PP %>images/logos/revive-health-logo.png" alt="" class="logo">
+    </section>
+
+    <section class="sales-page-1 above-the-fold">
+        <div class="container">
+            <div class="row text-center">
+                <div class="col-lg-12">
+                    <p>Rally Point Webinar's full service webinar management takes care of everything from project management to post production. From webinar registration management to the webinar platform to moderating the webinar we can take the stress and worry out of running them.</p>
+                    <br>
+                    <br>
+                </div>
+                <div class="col-md-12">
+                    <a class="btn btn-xl" href="#pre-production">
+                        Learn More <span class="carot">&raquo;</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="service bg-light-gray" id="technology">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="text">
+                        <h2>Technology</h2>
+                        <p><strong>The Best Webinar Platform:</strong> Adobe&reg; Connect&trade; has been named a &ldquo;Leader&rdquo; of Webinar Technology by Gartner for 8 years in a row.</p>
+                        <p><strong>The Nitty-Gritty:</strong> The general rule is: if you want to do it, we can do it. We provide branding, VoIP/telephone audio, video streaming, music, screen sharing, polling, multiple and flexible layouts, whiteboards,
+                            drawing, a presenter-only area, host/presenter/participant chatting, and more.</p>
+                    </div>
+                    <div class="services-image"></div>
+                </div>
+            </div>
+        </div>
+        <a class="down-arrow page-scroll" href="#customization"><i class="fa fa-angle-double-down" aria-hidden="true"></i></a>
+    </section>
+
+    <%- include(`${partials}/contact`); -%>
+    <%- include(`${partials}/footer`); -%>
+    <%- include(`${partials}/bottom`); -%>
+</body>
+
+</html>

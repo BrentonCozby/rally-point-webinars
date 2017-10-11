@@ -1,0 +1,93 @@
+header.sales-page-1 {
+    background-image: linear-gradient(to top, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, .7) 40%), url('../images/white-brick-wall.jpg');
+    height: unset;
+}
+
+header.sales-page-1 .intro-text {
+    padding-bottom: 15px;
+}
+
+header.sales-page-1 .intro-text,
+header.sales-page-1 .intro-text .intro-heading  {
+    color: #000;
+    font-size: 40px;
+    text-align: center;
+
+    @media all and (min-width: 768px) {
+        font-size: 60px;
+    }
+}
+
+header.sales-page-1 .intro-text .intro-lead-in p {
+    max-width: unset;
+    font-size: 20px;
+    line-height: 1.4;
+
+    @media all and (min-width: 768px) {
+        font-size: 30px;
+    }
+
+}
+
+header.sales-page-1 .intro-text .btn {
+    white-space: unset;
+    line-height: 1.4;
+    padding: 15px 30px;
+    text-transform: none;
+
+    @media all and (min-width: 768px) {
+        font-size: 18px;
+        margin-bottom: 40px;
+    }
+}
+
+section.credibility-logos {
+    display: none;
+    justify-content: space-around;
+    flex-flow: row wrap;
+    align-items: center;
+    background-color: #ddd;
+    padding: 20px;
+
+    @media all and (min-width: 768px) {
+        display: flex;
+    }
+
+    .logo {
+        filter: saturate(0);
+        opacity: .7;
+        max-height: 40px;
+    }
+}
+
+section p {
+    font-size: 18px;
+
+    @media all and (min-width: 768px) {
+        font-size: 22px;
+    }
+}
+
+section.sales-page-1.above-the-fold {
+    background-color: $dark-blue;
+    padding: 30px 0;
+
+    @media all and (min-width: 768px) {
+        padding: 100px 0;
+    }
+
+    p {
+        color: #eee;
+        font-family: $montserrat;
+    }
+
+    .btn {
+        background-color: $light-blue;
+        border-color: $light-blue;
+
+        &:hover, &:focus {
+            background-color: darken($light-blue, 10%);
+            border-color: darken($light-blue, 10%);
+        }
+    }
+}
