@@ -79,15 +79,111 @@ section.sales-page-1.above-the-fold {
     p {
         color: #eee;
         font-family: $montserrat;
+        max-width: 1000px;
+        margin: auto;
+        font-size: 16px;
     }
 
     .btn {
         background-color: $light-blue;
         border-color: $light-blue;
+        margin: 30px auto;
 
         &:hover, &:focus {
             background-color: darken($light-blue, 10%);
             border-color: darken($light-blue, 10%);
         }
+
+        @media all and (min-width: 992px) {
+            margin-top: 60px;
+        }
+    }
+
+    .split-2 {
+
+        .split-box {
+            flex-basis: 100%;
+            text-align: center;
+
+            @media all and (min-width: 768px) {
+                text-align: left;
+                flex-basis: 50%;
+            }
+        }
+    }
+
+    img {
+        width: 100%;
+        max-width: 400px;
+    }
+}
+
+section.sales-page-1.webinar-services {
+    padding: 30px 0;
+
+    @media all and (min-width: 768px) {
+        padding: 30px 0 80px;
+    }
+
+    .section-heading {
+        max-width: 700px;
+        margin: 0 auto 40px;
+        line-height: 1.4;
+        font-size: 18px;
+        text-align: center;
+
+        @media all and (min-width: 768px) {
+            font-size: 36px;
+        }
+    }
+
+    .split-2 {
+        align-items: stretch;
+
+        .webinar-service {
+            flex-basis: 100%;
+            display: flex;
+            flex-flow: row wrap;
+            justify-content: center;
+            padding: 20px;
+
+            @media all and (min-width: 768px) {
+                flex-basis: unset;
+            }
+
+            .title {
+                margin-top: 0;
+            }
+
+            .title, .description {
+                flex-basis: 100%;
+            }
+
+            .btn {
+                align-self: flex-end;
+            }
+        }
+    }
+
+    .split-2:nth-of-type(1) .webinar-service:nth-of-type(1) {
+        background-color: lighten($light-blue, 27%);
+    }
+    .split-2:nth-of-type(1) .webinar-service:nth-of-type(2) {
+        background-color: lighten($light-blue, 24%);
+    }
+    .split-2:nth-of-type(2) .webinar-service:nth-of-type(1) {
+        background-color: lighten($light-blue, 21%);
+    }
+    .split-2:nth-of-type(2) .webinar-service:nth-of-type(2) {
+        background-color: lighten($light-blue, 18%);
+    }
+}
+
+section.sales-page-1.testimonials {
+    background-image: url('../images/white-brick-wall.jpg');
+    background-attachment: fixed;
+
+    .section-heading {
+        text-align: center;
     }
 }
