@@ -5,3 +5,4 @@ window.escape = require('escape-html')
 
 require('../static/vendor/bootstrap/js/bootstrap.js')
 require('./jqBootstrapValidation.js')
+require('carousel-slider/dist/carousel.js')
