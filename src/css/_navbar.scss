@@ -120,3 +120,35 @@
         font-size: 1.5em;
     }
 }
+
+.navbar .sales-banner {
+
+    .container {
+        padding: 0 10px;
+
+        @media all and (min-width: 768px) {
+            padding: 0 15px;
+        }
+    }
+
+    .tagline {
+        font-family: $montserrat;
+        font-size: 10px;
+
+        @media all and (min-width: 768px) {
+            font-weight: bolder;
+            font-size: 14px;
+        }
+    }
+
+    .phone {
+        color: red;
+        font-family: $montserrat;
+        font-size: 10px;
+        @media all and (min-width: 768px) {
+            font-weight: bolder;
+            font-size: 14px;
+        }
+
+    }
+}

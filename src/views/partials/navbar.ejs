@@ -1,4 +1,12 @@
 <nav class="navbar navbar-default navbar-custom navbar-fixed-top <%= pageClass %>" id="mainNav">
+    <% if(locals.showSalesBanner) { %>
+    <div class="sales-banner">
+        <div class="container text-right">
+            <span class="tagline">Free Consultation with Webinar Expert&nbsp; → &nbsp;</span>
+            <a href="tel:617-517-0720" class="phone">(617) 517-0720</a>
+        </div>
+    </div>
+    <% } %>
     <div class="container">
         <div class="navbar-header page-scroll">
             <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
