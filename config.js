@@ -5,12 +5,6 @@ import { resolve } from 'path'
 
 // PP (public path) must begin and end with '/' unless it is just '/'
 
-export const siteTitle = 'Rally Point Webinars'
-export const description = 'Webinar Production for when your important people are watching.'
-export const siteUrl = 'rallypointwebinars.com'
-export const developerName = 'Brenton Cozby'
-export const developerURL = 'https://brentoncozby.com'
-
 export const PP = process.env.NODE_ENV === 'production'
     ? '/'
     : '/'
