@@ -37,6 +37,7 @@
         "babel-preset-stage-0": "^6.24.1",
         "browser-sync": "^2.18.13",
         "clean-css": "^4.1.9",
+        "csvtojson": "^1.1.9",
         "dotenv": "^4.0.0",
         "ejs": "^2.5.7",
         "eslint": "^4.10.0",

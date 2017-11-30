@@ -2,7 +2,7 @@
 
 const { resolve } = require('path')
 const fs = require('fs')
-const { pageDataWithoutDuplicateIds } = require('./remove-duplicates.js')
+const { pageDataWithoutDuplicateIds } = require('./data-without-duplicates.js')
 
 let phpArrayString = '<?php $courseMap = array('
 
