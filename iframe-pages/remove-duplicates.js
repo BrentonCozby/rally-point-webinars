@@ -4,6 +4,7 @@ const fs = require('fs')
 const { resolve } = require('path')
 const slug = require('slug')
 
+// convert csv to json here:  http://www.csvjson.com/csv2json
 const rawData = JSON.parse(fs.readFileSync(resolve(__dirname, 'raw-data.json')))
 
 const courseMapTitles = rawData.reduce((map, page) => {
