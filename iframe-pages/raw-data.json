@@ -1,0 +1,4241 @@
+[
+    {
+        "COURSE": "Providing Hands-on EHR experience for Students",
+        "CLIENT": "Abel Medical",
+        "URL": "abel.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 821,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "abel-5-2012r"
+    },
+    {
+        "COURSE": "Agentek Virtual User Conference - Q4 2011",
+        "CLIENT": "Agentek",
+        "URL": "agentek.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 216,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "agentek-q4-2011r/"
+    },
+    {
+        "COURSE": "Agentek Virtual User Conference - Q1 2012",
+        "CLIENT": "Agentek",
+        "URL": "agentek.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 257,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "agentek-q1-2012r"
+    },
+    {
+        "COURSE": "Agentek Virtual User Conference - Q2 2012",
+        "CLIENT": "Agentek",
+        "URL": "agentek.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 591,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "agentek-q2-2012r/"
+    },
+    {
+        "COURSE": "Agentek: The Momentum Continues",
+        "CLIENT": "Agentek",
+        "URL": "agentek.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1431,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "agentek-q4-2012r"
+    },
+    {
+        "COURSE": "Agentek: Important Customer Briefing",
+        "CLIENT": "Agentek",
+        "URL": "agentek.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1962,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "agentek-q2-2013r"
+    },
+    {
+        "COURSE": "Agentek: Important Customer Briefing Q4 2013",
+        "CLIENT": "Agentek",
+        "URL": "agentek.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2532,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "agentekq42013"
+    },
+    {
+        "COURSE": "Alterpoint Virtual User Conference - Q3 2011",
+        "CLIENT": "Alterpoint",
+        "URL": "alterpoint.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 198,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "p50tbx06cxd"
+    },
+    {
+        "COURSE": "Alterpoint Virtual User Conference - Q4 2011",
+        "CLIENT": "Alterpoint",
+        "URL": "alterpoint.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 240,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "alterpoint-q4-2011r/"
+    },
+    {
+        "COURSE": "Alterpoint Virtual User Conference - Q1 2012",
+        "CLIENT": "Alterpoint",
+        "URL": "alterpoint.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 411,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "alterpoint-q1-2012r/"
+    },
+    {
+        "COURSE": "Alterpoint Virtual User Conference - Q2 2012",
+        "CLIENT": "Alterpoint",
+        "URL": "alterpoint.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 981,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "alterpoint-q2-2012r/"
+    },
+    {
+        "COURSE": "AlterPoint: Version 8 Is Here!",
+        "CLIENT": "Alterpoint",
+        "URL": "alterpoint.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1211,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "alterpoint-q3-2012r"
+    },
+    {
+        "COURSE": "AlterPoint Virtual User Conference Q4 2012",
+        "CLIENT": "Alterpoint",
+        "URL": "alterpoint.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1562,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "alterpoint-q4-2012rec"
+    },
+    {
+        "COURSE": "AlterPoint: Version 8.3 Standard is Here!",
+        "CLIENT": "Alterpoint",
+        "URL": "alterpoint.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1562,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "alterpoint-q4-2012r"
+    },
+    {
+        "COURSE": "AlterPoint: Happy Anniversary!",
+        "CLIENT": "Alterpoint",
+        "URL": "alterpoint.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1822,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "alterpoint-q1-2013r"
+    },
+    {
+        "COURSE": "AlterPoint: Checking In at Mid-year",
+        "CLIENT": "Alterpoint",
+        "URL": "alterpoint.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2122,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "alterpoint-q2-2013r"
+    },
+    {
+        "COURSE": "AlterPoint: Important Customer Briefing",
+        "CLIENT": "Alterpoint",
+        "URL": "alterpoint.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2512,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "alterpoint2013q4"
+    },
+    {
+        "COURSE": "AppDev 2012 Virtual User Conference",
+        "CLIENT": "App Dev",
+        "URL": "appdev.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 971,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "appdev-q2-2012r/"
+    },
+    {
+        "COURSE": "Learning Ecosystem",
+        "CLIENT": "Aptara",
+        "URL": "aptara.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2867,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "aptara-07-29-15/"
+    },
+    {
+        "COURSE": "Learning Ecosystems: A Holistic Approach",
+        "CLIENT": "Aptara",
+        "URL": "aptara.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2867,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "aptara07292015/"
+    },
+    {
+        "COURSE": "Top 5 Innovative Industry Trends and Aptara’s Solutions",
+        "CLIENT": "Aptara",
+        "URL": "aptara.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2874,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "aptara-09-2015/"
+    },
+    {
+        "COURSE": "Top 5 Industry Trends and Aptara’s Solutions",
+        "CLIENT": "Aptara",
+        "URL": "aptara.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2874,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "aptara10202015/"
+    },
+    {
+        "COURSE": "Artemis Paris Event",
+        "CLIENT": "Artemis",
+        "URL": "artemis.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 179,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "artemis611"
+    },
+    {
+        "COURSE": "A9000 EX Demo",
+        "CLIENT": "Artemis",
+        "URL": "artemis.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 187,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "a9000exv4"
+    },
+    {
+        "COURSE": "Artemis Finland Virtual User Conference - Q4 2011",
+        "CLIENT": "Artemis",
+        "URL": "artemis.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 235,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "artemisfin-q4-2011r/"
+    },
+    {
+        "COURSE": "Artemis 9000/EX Virtual User Conference",
+        "CLIENT": "Artemis",
+        "URL": "artemis.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 601,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "a9000-q2-2012r/"
+    },
+    {
+        "COURSE": "Accept Customer Briefing Webinar",
+        "CLIENT": "Artemis",
+        "URL": "artemis.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1411,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "aa-q4-2012r"
+    },
+    {
+        "COURSE": "Fall 2012 Artemis Virtual User Conference",
+        "CLIENT": "Artemis",
+        "URL": "artemis.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1421,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "artemis-q4-2012r"
+    },
+    {
+        "COURSE": "Artemis 9000 December 2012 Virtual User Conference",
+        "CLIENT": "Artemis",
+        "URL": "artemis.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1442,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "a9000-q4-2012rb"
+    },
+    {
+        "COURSE": "Views Virtual User Conference Fall 2012",
+        "CLIENT": "Artemis",
+        "URL": "artemis.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1462,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "views-q4-2012rb"
+    },
+    {
+        "COURSE": "Artemis Finland: Building Momentum - Q4 2012",
+        "CLIENT": "Artemis",
+        "URL": "artemis.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1472,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "artemisfin-q4-2012rb"
+    },
+    {
+        "COURSE": "Artemis 7 November 2012",
+        "CLIENT": "Artemis",
+        "URL": "artemis.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1482,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "a7-q4-2012r"
+    },
+    {
+        "COURSE": "A360 Q4 2012",
+        "CLIENT": "Artemis",
+        "URL": "artemis.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1512,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "artemis360-q4-2012r"
+    },
+    {
+        "COURSE": "Accept360 2013 Roadmap Virtual User Conference",
+        "CLIENT": "Artemis",
+        "URL": "artemis.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1672,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "accept-jan-2013r"
+    },
+    {
+        "COURSE": "Artemis VUC Q2 2013",
+        "CLIENT": "Artemis",
+        "URL": "artemis.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2002,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "artemis-q2-2013r"
+    },
+    {
+        "COURSE": "Spring 2013 Accept Virtual User Conference",
+        "CLIENT": "Artemis",
+        "URL": "artemis.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2022,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "accept-may-2013r"
+    },
+    {
+        "COURSE": "See What's New for Artemis 7 2013",
+        "CLIENT": "Artemis",
+        "URL": "artemis.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2052,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "artemis620r"
+    },
+    {
+        "COURSE": "See What's New for Views 2013",
+        "CLIENT": "Artemis",
+        "URL": "artemis.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2062,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "views626r"
+    },
+    {
+        "COURSE": "See What's New for Artemis 9000/EX 2013",
+        "CLIENT": "Artemis",
+        "URL": "artemis.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2072,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "artemis627r"
+    },
+    {
+        "COURSE": "2014: A New Generation of Artemis Products",
+        "CLIENT": "Artemis",
+        "URL": "artemis.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2767,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "artemis130"
+    },
+    {
+        "COURSE": "Artemis/Accept Virtual User Conference",
+        "CLIENT": "Artemis",
+        "URL": "artemis.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2767,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "artemisq12014"
+    },
+    {
+        "COURSE": "Artemis 9000/EX Virtual User Conference - February 2014",
+        "CLIENT": "Artemis",
+        "URL": "artemis.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2768,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "artemis211"
+    },
+    {
+        "COURSE": "Artemis 9000/EX Virtual User Conference, February 2014",
+        "CLIENT": "Artemis",
+        "URL": "artemis.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2768,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "artemis022014"
+    },
+    {
+        "COURSE": "Artemis 7 Virtual User Conference - February 2014",
+        "CLIENT": "Artemis",
+        "URL": "artemis.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2769,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "artemis226"
+    },
+    {
+        "COURSE": "Artemis 7 Virtual User Conference, February 2014",
+        "CLIENT": "Artemis",
+        "URL": "artemis.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2769,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "artemis7q12014"
+    },
+    {
+        "COURSE": "Artemis Views Virtual User Conference - February 2014",
+        "CLIENT": "Artemis",
+        "URL": "artemis.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2770,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "artemis227"
+    },
+    {
+        "COURSE": "Artemis Views Virtual User Conference, Feb. 2014",
+        "CLIENT": "Artemis",
+        "URL": "artemis.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2770,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "artemisviewsq114"
+    },
+    {
+        "COURSE": "Accept360 Virtual User Conference 2014",
+        "CLIENT": "Artemis",
+        "URL": "artemis.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2797,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "accept-2014"
+    },
+    {
+        "COURSE": "Accept360 Virtual User Conference",
+        "CLIENT": "Artemis",
+        "URL": "artemis.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2797,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "accept360may2014"
+    },
+    {
+        "COURSE": "Artemis Accept Virtual User Conference",
+        "CLIENT": "Artemis",
+        "URL": "artemis.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2821,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "aa-nov-5"
+    },
+    {
+        "COURSE": "Artemis / Accept Virtual User Conference",
+        "CLIENT": "Artemis",
+        "URL": "artemis.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2821,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "artemisacceptq42014"
+    },
+    {
+        "COURSE": "Artemis 9000 Virtual User Conference",
+        "CLIENT": "Artemis",
+        "URL": "artemis.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2822,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "a9000-nov-12"
+    },
+    {
+        "COURSE": "Artemis 9000/EX Virtual User Conference 2015",
+        "CLIENT": "Artemis",
+        "URL": "artemis.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2822,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "a9000exq12015"
+    },
+    {
+        "COURSE": "Accept 360 Suite Virtual User Conference",
+        "CLIENT": "Artemis",
+        "URL": "artemis.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2823,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "accept-nov-13"
+    },
+    {
+        "COURSE": "Accept360 Suite Virtual User Conference",
+        "CLIENT": "Artemis",
+        "URL": "artemis.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2823,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "accept360vucq12015"
+    },
+    {
+        "COURSE": "Artemis Views Virtual User Conference November 2014",
+        "CLIENT": "Artemis",
+        "URL": "artemis.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2824,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "artemis-nov-18"
+    },
+    {
+        "COURSE": "Artemis Views Virtual User Conference Q12015",
+        "CLIENT": "Artemis",
+        "URL": "artemis.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2824,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "viewsq12015"
+    },
+    {
+        "COURSE": "Artemis 7 Virtual User Conference November 2014",
+        "CLIENT": "Artemis",
+        "URL": "artemis.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2825,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "artemis-nov-20"
+    },
+    {
+        "COURSE": "Artemis 7 Virtual User Conference Q12015",
+        "CLIENT": "Artemis",
+        "URL": "artemis.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2825,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "a7q12015/"
+    },
+    {
+        "COURSE": "Artemis Finland Virtual User Conference - Q1 2012",
+        "CLIENT": "Artemis Finland",
+        "URL": "artemisf.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 501,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "artemisfin-q1-2012r/"
+    },
+    {
+        "COURSE": "Aurea Customer Briefing",
+        "CLIENT": "Aurea",
+        "URL": "aurea.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1522,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "aurea-1-2013r"
+    },
+    {
+        "COURSE": "Aurea Introductory Webinar on Sonic Plus",
+        "CLIENT": "Aurea",
+        "URL": "aurea.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1842,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "aurea-3-7rec"
+    },
+    {
+        "COURSE": "Aurea CEO Webinar",
+        "CLIENT": "Aurea",
+        "URL": "aurea.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1972,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "aurea57r"
+    },
+    {
+        "COURSE": "Aurea 2013 Product Webinar",
+        "CLIENT": "Aurea",
+        "URL": "aurea.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2042,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "aurea523r"
+    },
+    {
+        "COURSE": "Hipcricket Corporate Update - July 02, 2015",
+        "CLIENT": "Aurea",
+        "URL": "aurea.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2864,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "hipcricketvuc-07022015/"
+    },
+    {
+        "COURSE": "Hipcricket Corporate Update",
+        "CLIENT": "Aurea",
+        "URL": "aurea.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2864,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "hipcricket070215/"
+    },
+    {
+        "COURSE": "Hipcricket Corporate Update Webinar - December 1, 2015",
+        "CLIENT": "Aurea",
+        "URL": "aurea.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2892,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "hipcricket-q4-2015"
+    },
+    {
+        "COURSE": "Aurea Hipcricket/Mobile Solutions Corporate Update",
+        "CLIENT": "Aurea",
+        "URL": "aurea.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2892,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "/hipcricket12012015/"
+    },
+    {
+        "COURSE": "Auto-trol Virtual User Conference - Q3 2011",
+        "CLIENT": "Auto-Trol Technology",
+        "URL": "auto-trol.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 183,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "autotrol-q3-2011r"
+    },
+    {
+        "COURSE": "Auto-trol Virtual User Conference - Q4 2011",
+        "CLIENT": "Auto-Trol Technology",
+        "URL": "auto-trol.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 217,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "autotrol-q4-2011r/"
+    },
+    {
+        "COURSE": "Auto-trol Virtual User Conference - Q1 2012",
+        "CLIENT": "Auto-Trol Technology",
+        "URL": "auto-trol.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 253,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "autotrol-q1-2012r/"
+    },
+    {
+        "COURSE": "Auto-trol Virtual User Conference - Q2 2012",
+        "CLIENT": "Auto-Trol Technology",
+        "URL": "auto-trol.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 551,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "p4fwi253zbg"
+    },
+    {
+        "COURSE": "Auto-trol: The Momentum Continues",
+        "CLIENT": "Auto-Trol Technology",
+        "URL": "auto-trol.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1081,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "autotrol-q3-2012r"
+    },
+    {
+        "COURSE": "Auto-trol: Going Strong!",
+        "CLIENT": "Auto-Trol Technology",
+        "URL": "auto-trol.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1401,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "autotrol-q4-2012r"
+    },
+    {
+        "COURSE": "Auto-trol Virtual User Conference Q1 2013",
+        "CLIENT": "Auto-Trol Technology",
+        "URL": "auto-trol.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1652,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "auto-trol-q1-2013r"
+    },
+    {
+        "COURSE": "Auto-trol: It's Time to Fine-tune",
+        "CLIENT": "Auto-Trol Technology",
+        "URL": "auto-trol.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1892,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "auto-trol-q2-2013r"
+    },
+    {
+        "COURSE": "Auto-trol: Running Like Clockwork",
+        "CLIENT": "Auto-Trol Technology",
+        "URL": "auto-trol.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2332,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "autotrolclockwork"
+    },
+    {
+        "COURSE": "Auto-trol Virtual User Conference - Q1 2014",
+        "CLIENT": "Auto-Trol Technology",
+        "URL": "auto-trol.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2752,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "auto-trol-q1-2014"
+    },
+    {
+        "COURSE": "Auto-trol: The Momentum Continues in 2014",
+        "CLIENT": "Auto-Trol Technology",
+        "URL": "auto-trol.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2752,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "autotrolq12014"
+    },
+    {
+        "COURSE": "Auto-trol Virtual User Conference Q2 2014",
+        "CLIENT": "Auto-Trol Technology",
+        "URL": "auto-trol.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2796,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "auto-trol-q2-2014"
+    },
+    {
+        "COURSE": "Focus on Tech Illustrator",
+        "CLIENT": "Auto-Trol Technology",
+        "URL": "auto-trol.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2796,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "autotrolq22014"
+    },
+    {
+        "COURSE": "Auto-trol Virtual User Conference Q4 2014",
+        "CLIENT": "Auto-Trol Technology",
+        "URL": "auto-trol.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2813,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "auto-trol-q4-2014"
+    },
+    {
+        "COURSE": "Auto-trol: Important Customer Briefing",
+        "CLIENT": "Auto-Trol Technology",
+        "URL": "auto-trol.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2813,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "autotrolq32014"
+    },
+    {
+        "COURSE": "Auto-trol Virtual User Conference Q1 2015",
+        "CLIENT": "Auto-Trol Technology",
+        "URL": "auto-trol.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2844,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "auto-trol-q1-2015"
+    },
+    {
+        "COURSE": "Auto-trol: Tech Illustrator Focused Briefing",
+        "CLIENT": "Auto-Trol Technology",
+        "URL": "auto-trol.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2844,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "autotroltiq12015"
+    },
+    {
+        "COURSE": "Auto-trol Q2 2015 VUC",
+        "CLIENT": "Auto-Trol Technology",
+        "URL": "auto-trol.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2858,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "auto-trol-q2-2015/"
+    },
+    {
+        "COURSE": "Auto-trol: KONFIG Focused Briefing",
+        "CLIENT": "Auto-Trol Technology",
+        "URL": "auto-trol.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2858,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "auto-trol062315/"
+    },
+    {
+        "COURSE": "Auto-trol VUC Q3 2015",
+        "CLIENT": "Auto-Trol Technology",
+        "URL": "auto-trol.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2872,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "auto-trol-q3-2015/"
+    },
+    {
+        "COURSE": "Auto-Trol: Tech Illustrator-Focused Briefing",
+        "CLIENT": "Auto-Trol Technology",
+        "URL": "auto-trol.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2872,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "atti092215/"
+    },
+    {
+        "COURSE": "Tax Changes and What You Should Know",
+        "CLIENT": "berrydunn",
+        "URL": "berrydunn.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1642,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "berrydunn-jan17"
+    },
+    {
+        "COURSE": "Tax Changes and What You Should Know",
+        "CLIENT": "berrydunn",
+        "URL": "berrydunn.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1662,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "berrydunn-jan17r"
+    },
+    {
+        "COURSE": "Capturing Value through Sustainability",
+        "CLIENT": "berrydunn",
+        "URL": "berrydunn.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1752,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "berrydunn-feb27"
+    },
+    {
+        "COURSE": "Operating Reserves : Buffer Against the Storm",
+        "CLIENT": "berrydunn",
+        "URL": "berrydunn.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1902,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "berrydunn-april24rec"
+    },
+    {
+        "COURSE": "Employee Benefit Hot Topics – What You Need to Know",
+        "CLIENT": "berrydunn",
+        "URL": "berrydunn.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2092,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "berrydunn-may29r"
+    },
+    {
+        "COURSE": "Planning for ICD-10 Compliance",
+        "CLIENT": "berrydunn",
+        "URL": "berrydunn.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2272,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "icd10compliance"
+    },
+    {
+        "COURSE": "Gain Clarity on New Tangible Property Rules",
+        "CLIENT": "berrydunn",
+        "URL": "berrydunn.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2632,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "tangproprules"
+    },
+    {
+        "COURSE": "Gain Clarity Your Responsibilities Under OMB Circular A133",
+        "CLIENT": "berrydunn",
+        "URL": "berrydunn.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2775,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "berrydunn-feb13"
+    },
+    {
+        "COURSE": "Gain Clarity: Your Responsibilities Under OMB Circular A-133",
+        "CLIENT": "berrydunn",
+        "URL": "berrydunn.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2775,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "a133berrydunn"
+    },
+    {
+        "COURSE": "Enterprise Risk Management and Government Entities",
+        "CLIENT": "berrydunn",
+        "URL": "berrydunn.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2793,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "berrydunn-apr-30"
+    },
+    {
+        "COURSE": "Enterprise Risk Management and Government Entities",
+        "CLIENT": "berrydunn",
+        "URL": "berrydunn.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2793,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "erm"
+    },
+    {
+        "COURSE": "Employee Benefit Hot Topics for 2014 and Beyond",
+        "CLIENT": "berrydunn",
+        "URL": "berrydunn.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2798,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "berrydunn-may-28/"
+    },
+    {
+        "COURSE": "Employee Benefit Hot Topics for 2014 and Beyond",
+        "CLIENT": "berrydunn",
+        "URL": "berrydunn.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2798,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "berrydunn28may14"
+    },
+    {
+        "COURSE": "Implementing an LTPAC EHR",
+        "CLIENT": "berrydunn",
+        "URL": "berrydunn.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2809,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "berrydunn-sept-10"
+    },
+    {
+        "COURSE": "Lessons Learned in Implementing an LTPAC EHR",
+        "CLIENT": "berrydunn",
+        "URL": "berrydunn.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2809,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "ltpacehr"
+    },
+    {
+        "COURSE": "Getting More Mileage Out of Your ESOP",
+        "CLIENT": "berrydunn",
+        "URL": "berrydunn.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2819,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "berrydunn-nov-5"
+    },
+    {
+        "COURSE": "Getting More Out of Your ESOP",
+        "CLIENT": "berrydunn",
+        "URL": "berrydunn.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2819,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "morefromesop"
+    },
+    {
+        "COURSE": "Keep State Budget Challenges from Becoming Your Tax Burden",
+        "CLIENT": "berrydunn",
+        "URL": "berrydunn.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2832,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "berrydunn-dec-9"
+    },
+    {
+        "COURSE": "Keep State Budget Challenges from Becoming Your Tax Burden",
+        "CLIENT": "berrydunn",
+        "URL": "berrydunn.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2832,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "statetaxes"
+    },
+    {
+        "COURSE": "Demystifying 340B Compliance and Administration",
+        "CLIENT": "berrydunn",
+        "URL": "berrydunn.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2837,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "berrydunn-feb-25"
+    },
+    {
+        "COURSE": "Demystifying 340B Compliance & Administration",
+        "CLIENT": "berrydunn",
+        "URL": "berrydunn.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2837,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "berrydunn25feb2015"
+    },
+    {
+        "COURSE": "Three Steps to a Successful Business Transition",
+        "CLIENT": "berrydunn",
+        "URL": "berrydunn.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2889,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "berrydunn-11-18-15"
+    },
+    {
+        "COURSE": "Three Steps to a Successful Business Transition",
+        "CLIENT": "berrydunn",
+        "URL": "berrydunn.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2889,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "berrydunn111815/"
+    },
+    {
+        "COURSE": "Valuable Tips for Managing Your Split Interest Agreements",
+        "CLIENT": "berrydunn",
+        "URL": "berrydunn.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2894,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "berrydunn-12-09-15"
+    },
+    {
+        "COURSE": "Valuable Tips for Managing Split-Interest Agreements",
+        "CLIENT": "berrydunn",
+        "URL": "berrydunn.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2894,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "berrydunn12092015/"
+    },
+    {
+        "COURSE": "Sustainability for Health Insurance Exchanges: A Peer Perspective",
+        "CLIENT": "berrydunn",
+        "URL": "berrydunn.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2898,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "berrydunn-01-21-16"
+    },
+    {
+        "COURSE": "Sustainability for Health Insurance Exchanges Going Forward",
+        "CLIENT": "berrydunn",
+        "URL": "berrydunn.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2898,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "berrydunn01212016/"
+    },
+    {
+        "COURSE": "Using Webinars as Part of Your Marketing",
+        "CLIENT": "Boyden",
+        "URL": "boyden.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 245,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "boyden-1-2012r"
+    },
+    {
+        "COURSE": "Russia’s Executives Lead an Economic Renaissance",
+        "CLIENT": "Boyden",
+        "URL": "boyden.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1311,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "boyden-octr"
+    },
+    {
+        "COURSE": "March 2013: Using Webinars as Part of Your Marketing",
+        "CLIENT": "Boyden",
+        "URL": "boyden.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1722,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "boyden-2-2013r"
+    },
+    {
+        "COURSE": "The Boyden Report: Nordic",
+        "CLIENT": "Boyden",
+        "URL": "boyden.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2462,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "boydennordic"
+    },
+    {
+        "COURSE": "Innovation in Business and Technology",
+        "CLIENT": "Boyden",
+        "URL": "boyden.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2764,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "boyden-jan-2014"
+    },
+    {
+        "COURSE": "Innovation in Business and Technology",
+        "CLIENT": "Boyden",
+        "URL": "boyden.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2764,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "boydendisney"
+    },
+    {
+        "COURSE": "How to Maximize the Value of Your Firm",
+        "CLIENT": "Catapult",
+        "URL": "catapult.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1021,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "catapult-6-12r"
+    },
+    {
+        "COURSE": "Maximize the Value of Your Digital Marketing Company",
+        "CLIENT": "Catapult",
+        "URL": "catapult.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2422,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "StCharlesCatapult"
+    },
+    {
+        "COURSE": "Corizon Virtual User Conference - Q1 2012",
+        "CLIENT": "Corizon",
+        "URL": "corizon.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 247,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "corizon-q1-2012r/"
+    },
+    {
+        "COURSE": "Back to School for Students with Special Needs",
+        "CLIENT": "Dr Moldover",
+        "URL": "drmoldover.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2808,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "dr-moldover-oct-2014"
+    },
+    {
+        "COURSE": "Back to School for Students with Special Needs",
+        "CLIENT": "Dr Moldover",
+        "URL": "drmoldover.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2808,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "back2school"
+    },
+    {
+        "COURSE": "Off to College for Students with Special Needs",
+        "CLIENT": "Dr Moldover",
+        "URL": "drmoldover.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2842,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "moldover-3-11"
+    },
+    {
+        "COURSE": "Off to College for Students with Special Needs",
+        "CLIENT": "Dr Moldover",
+        "URL": "drmoldover.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2842,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "offtocollege"
+    },
+    {
+        "COURSE": "Educating the Whole Child",
+        "CLIENT": "Dr Moldover",
+        "URL": "drmoldover.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2879,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "drmoldover-10-27-15"
+    },
+    {
+        "COURSE": "Educating the Whole Child",
+        "CLIENT": "Dr Moldover",
+        "URL": "drmoldover.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2879,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "drmoldover1027015/"
+    },
+    {
+        "COURSE": "Pain Management",
+        "CLIENT": "Dr Pergolizzi",
+        "URL": "drpergolizzi.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2817,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "dr-pergolizzi-nov-12"
+    },
+    {
+        "COURSE": "8 Steps to Support Blood Pressure Naturally",
+        "CLIENT": "Dr Sinatra",
+        "URL": "drsinatra.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2784,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "dr-sinatra-520"
+    },
+    {
+        "COURSE": "The Great Cholesterol Myth",
+        "CLIENT": "Dr Sinatra",
+        "URL": "drsinatra.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2816,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "dr-sinatra-oct-21"
+    },
+    {
+        "COURSE": "Ecora Virtual User Conference - Q3 2011",
+        "CLIENT": "Ecora",
+        "URL": "ecora.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 186,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "ecora-q3-2011r"
+    },
+    {
+        "COURSE": "Ecora Virtual User Conference - Q4 2011",
+        "CLIENT": "Ecora",
+        "URL": "ecora.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 225,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "ecora-q4-2011r/"
+    },
+    {
+        "COURSE": "Ecora Virtual User Conference - Q1 2012",
+        "CLIENT": "Ecora",
+        "URL": "ecora.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 256,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "ecora-q1-2012r/"
+    },
+    {
+        "COURSE": "Ecora Virtual User Conference - Q2 2012",
+        "CLIENT": "Ecora",
+        "URL": "ecora.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 691,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "ecora-q2-2012r"
+    },
+    {
+        "COURSE": "Ecora: On the Road to Success",
+        "CLIENT": "Ecora",
+        "URL": "ecora.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1281,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "ecora-q3-2012r"
+    },
+    {
+        "COURSE": "Ecora: The Road to Success Continues",
+        "CLIENT": "Ecora",
+        "URL": "ecora.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1832,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "ecora-q1-2013r"
+    },
+    {
+        "COURSE": "Ecora: Important Customer Briefing",
+        "CLIENT": "Ecora",
+        "URL": "ecora.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2442,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "ecoraq4"
+    },
+    {
+        "COURSE": "Creating Sustained Growth in HR Consulting Firms",
+        "CLIENT": "Equiteq",
+        "URL": "equiteq.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1131,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "equiteq7512r"
+    },
+    {
+        "COURSE": "ETI Virtual User Conference - Q3 2011",
+        "CLIENT": "ETI",
+        "URL": "eti.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 188,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "eti-q3-2011r/"
+    },
+    {
+        "COURSE": "ETI Virtual User Conference - Q4 2011",
+        "CLIENT": "ETI",
+        "URL": "eti.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 223,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "eti-q4-2011r/"
+    },
+    {
+        "COURSE": "ETI Virtual User Conference - Q1 2012",
+        "CLIENT": "ETI",
+        "URL": "eti.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 321,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "eti-q1-2012r"
+    },
+    {
+        "COURSE": "ETI Virtual User Conference - Q2 2012",
+        "CLIENT": "ETI",
+        "URL": "eti.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 811,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "eti-q2-2012r"
+    },
+    {
+        "COURSE": "ETI VUC Plans for 2013",
+        "CLIENT": "ETI",
+        "URL": "eti.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1582,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "eti-q4-2012ar"
+    },
+    {
+        "COURSE": "Everest Virtual User Conference - Q3 2011",
+        "CLIENT": "Everest",
+        "URL": "everest.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 191,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "everest-q3-2011r"
+    },
+    {
+        "COURSE": "Everest Virtual User Conference - Q4 2011",
+        "CLIENT": "Everest",
+        "URL": "everest.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 224,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "everest-q4-2011r/"
+    },
+    {
+        "COURSE": "Everest Virtual User Conference - Q1 2012",
+        "CLIENT": "Everest",
+        "URL": "everest.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 301,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "everest-q1-2012r/"
+    },
+    {
+        "COURSE": "Everest Virtual User Conference - Q2 2012",
+        "CLIENT": "Everest",
+        "URL": "everest.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 851,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "everest-q2-2012r/"
+    },
+    {
+        "COURSE": "Everest: Staying the Course!",
+        "CLIENT": "Everest",
+        "URL": "everest.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1121,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "everest-q3-2012r"
+    },
+    {
+        "COURSE": "Everest: Staying on Course!",
+        "CLIENT": "Everest",
+        "URL": "everest.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1532,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "everest-q4-2012r"
+    },
+    {
+        "COURSE": "Everest Virtual User Conference - Q1 2013",
+        "CLIENT": "Everest",
+        "URL": "everest.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1732,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "everest-q1-2013r"
+    },
+    {
+        "COURSE": "Everest Virtual User Conference - Q1 2013",
+        "CLIENT": "Everest",
+        "URL": "everest.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1782,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "everest-q1-2013r"
+    },
+    {
+        "COURSE": "Everest Virtual User Conference - Q1 2013",
+        "CLIENT": "Everest",
+        "URL": "everest.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1782,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "everest-q1-2013"
+    },
+    {
+        "COURSE": "Everest Q2 2013",
+        "CLIENT": "Everest",
+        "URL": "everest.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2032,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "everest-q2-2013-recording"
+    },
+    {
+        "COURSE": "Everest Virtual User Conference - Q2 2013",
+        "CLIENT": "Everest",
+        "URL": "everest.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2032,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "everest-q2-2013"
+    },
+    {
+        "COURSE": "Everest: Ask the Expert!",
+        "CLIENT": "Everest",
+        "URL": "everest.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2242,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "everest2013q3"
+    },
+    {
+        "COURSE": "Everest Virtual User Conference - October 1, 2013",
+        "CLIENT": "Everest",
+        "URL": "everest.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2242,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "everest-q3-2013"
+    },
+    {
+        "COURSE": "Everest: Important Customer Briefing",
+        "CLIENT": "Everest",
+        "URL": "everest.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2742,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "everest2014q1"
+    },
+    {
+        "COURSE": "Everest Virtual User Conference - Q1 2014",
+        "CLIENT": "Everest",
+        "URL": "everest.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2742,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "everest-q1-2014"
+    },
+    {
+        "COURSE": "Everest Virtual User Conference Q2 2014",
+        "CLIENT": "Everest",
+        "URL": "everest.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2790,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "everest-q2-2014"
+    },
+    {
+        "COURSE": "Everest 3.0: The Future is Now",
+        "CLIENT": "Everest",
+        "URL": "everest.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2790,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "everestq22014"
+    },
+    {
+        "COURSE": "Everest Virtual User Conference Q3 2014",
+        "CLIENT": "Everest",
+        "URL": "everest.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2803,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "everest-q3-2014"
+    },
+    {
+        "COURSE": "Everest 3.0 in Action",
+        "CLIENT": "Everest",
+        "URL": "everest.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2803,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "p53awieqzgm"
+    },
+    {
+        "COURSE": "Everest Q4 2014 VUC",
+        "CLIENT": "Everest",
+        "URL": "everest.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2828,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "everestq42014"
+    },
+    {
+        "COURSE": "Everest Virtual User Conference February 2015",
+        "CLIENT": "Everest",
+        "URL": "everest.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2836,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "everest-q1-2015"
+    },
+    {
+        "COURSE": "Everest 3.0 Roars into 2015",
+        "CLIENT": "Everest",
+        "URL": "everest.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2836,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "everestq12015"
+    },
+    {
+        "COURSE": "Everest VUC - May 2015",
+        "CLIENT": "Everest",
+        "URL": "everest.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2853,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "everest-q2-2015/"
+    },
+    {
+        "COURSE": "Everest 3.0: The Growth Phase",
+        "CLIENT": "Everest",
+        "URL": "everest.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2853,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "everest51915/"
+    },
+    {
+        "COURSE": "Everest Virtual User Conference - Q3 2015",
+        "CLIENT": "Everest",
+        "URL": "everest.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2873,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "everest-q3-2015"
+    },
+    {
+        "COURSE": "Everest 3.0: The Growth Phase",
+        "CLIENT": "Everest",
+        "URL": "everest.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2873,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "everest093015/"
+    },
+    {
+        "COURSE": "Everest 3.0 l The Growth Phase",
+        "CLIENT": "Everest",
+        "URL": "everest.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2899,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "everest-q1-2016"
+    },
+    {
+        "COURSE": "Everest Q1 2016",
+        "CLIENT": "Everest",
+        "URL": "everest.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2899,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "everest01192016"
+    },
+    {
+        "COURSE": "Gensym Virtual User Conference - Q3 2011",
+        "CLIENT": "Gensym",
+        "URL": "gensym.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 177,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "gensym-q3-2011r"
+    },
+    {
+        "COURSE": "Gensym Virtual User Conference - Q4 2011",
+        "CLIENT": "Gensym",
+        "URL": "gensym.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 220,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "gensym-q4-2011r/"
+    },
+    {
+        "COURSE": "Gensym Virtual User Conference - Q1 2012",
+        "CLIENT": "Gensym",
+        "URL": "gensym.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 291,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "gensym-q1-2012r"
+    },
+    {
+        "COURSE": "Meet the New Gensym - Q1 2012",
+        "CLIENT": "Gensym",
+        "URL": "gensym.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 401,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "gensymwbw-q1-2012r/"
+    },
+    {
+        "COURSE": "Reintroducing Gensym & G2 - Q2 2012",
+        "CLIENT": "Gensym",
+        "URL": "gensym.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 751,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "gensymwbw-q2-2012r/"
+    },
+    {
+        "COURSE": "Gensym Virtual User Conference - Q2 2012",
+        "CLIENT": "Gensym",
+        "URL": "gensym.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 761,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "gensym-q2-2012r"
+    },
+    {
+        "COURSE": "Sneak Peak: Gensym In-Person User Conference!",
+        "CLIENT": "Gensym",
+        "URL": "gensym.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1251,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "gensym-q3-2012r"
+    },
+    {
+        "COURSE": "Gensym In-Person Conference Review",
+        "CLIENT": "Gensym",
+        "URL": "gensym.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1502,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "gensym-q4-2012r"
+    },
+    {
+        "COURSE": "Gensym: Upholding the Mission",
+        "CLIENT": "Gensym",
+        "URL": "gensym.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1702,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "gensym-q1-2013r"
+    },
+    {
+        "COURSE": "Reintroducing Gensym and G2",
+        "CLIENT": "Gensym",
+        "URL": "gensym.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1882,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "gensym-q2-2013r"
+    },
+    {
+        "COURSE": "Gensym: Profile in Success with Dalkia",
+        "CLIENT": "Gensym",
+        "URL": "gensym.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1932,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "gensym-may-2013r"
+    },
+    {
+        "COURSE": "Gensym Mission Possible Q4 2013",
+        "CLIENT": "Gensym",
+        "URL": "gensym.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2522,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "gensymq413"
+    },
+    {
+        "COURSE": "Gensym Virtual User Conference - Q1 2014",
+        "CLIENT": "Gensym",
+        "URL": "gensym.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2765,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "gensym-q1-2014"
+    },
+    {
+        "COURSE": "Virtual Preview of the Gensym 2014 User Conference",
+        "CLIENT": "Gensym",
+        "URL": "gensym.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2765,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "gensym2014q1"
+    },
+    {
+        "COURSE": "Gensym Virtual User Conference - Q4 2015",
+        "CLIENT": "Gensym",
+        "URL": "gensym.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2877,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "gensym-q4-2015/"
+    },
+    {
+        "COURSE": "Gensyn Virtual User Conference",
+        "CLIENT": "Gensym",
+        "URL": "gensym.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2877,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "gensym102115/"
+    },
+    {
+        "COURSE": "GeoVue Virtual User Conference - Q3 2011",
+        "CLIENT": "Geovue",
+        "URL": "gensym.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 169,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "geovue-q3-2011r"
+    },
+    {
+        "COURSE": "GeoVue Virtual User Conference - Q4 2011",
+        "CLIENT": "Geovue",
+        "URL": "gensym.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 237,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "geovue-q4-2011r"
+    },
+    {
+        "COURSE": "GeoVue Virtual User Conference - Q1 2012",
+        "CLIENT": "Geovue",
+        "URL": "gensym.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 311,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "geovue-q1-2012r/"
+    },
+    {
+        "COURSE": "geoVue: Portal Version 4.0 Has Arrived!",
+        "CLIENT": "Geovue",
+        "URL": "gensym.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1111,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "geovue-q3-2012r"
+    },
+    {
+        "COURSE": "HighJump Webinar 9/30/14",
+        "CLIENT": "Highjump",
+        "URL": "highjump.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2814,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "highjump-sept30"
+    },
+    {
+        "COURSE": "Signs It’s Time to Replace Your WMS",
+        "CLIENT": "Highjump",
+        "URL": "highjump.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2814,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "highjumpwms"
+    },
+    {
+        "COURSE": "Is the Cloud Right for Your WMS?",
+        "CLIENT": "Highjump",
+        "URL": "highjump.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2830,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "highjump-dec-10"
+    },
+    {
+        "COURSE": "WMS in the Cloud - Is it Right for You?”",
+        "CLIENT": "Highjump",
+        "URL": "highjump.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2830,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "cloudwmshighjump"
+    },
+    {
+        "COURSE": "Omni-channel Fulfillment – from Disruptor to Game-Changer",
+        "CLIENT": "Highjump",
+        "URL": "highjump.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2838,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "highjump-feb26"
+    },
+    {
+        "COURSE": "Omni-channel Fulfillment – from Disruptor to Game-Changer",
+        "CLIENT": "Highjump",
+        "URL": "highjump.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2838,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "highjump26feb2015"
+    },
+    {
+        "COURSE": "Remain Profitable While Meeting Retail's Omni-Channel Customer Demands",
+        "CLIENT": "Highjump",
+        "URL": "highjump.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2855,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "highjump-5-20-15/"
+    },
+    {
+        "COURSE": "Remn Profitable_Meeting Retail's Omni-Channel Cust. Dmnds",
+        "CLIENT": "Highjump",
+        "URL": "highjump.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2855,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "highjump52015/"
+    },
+    {
+        "COURSE": "Health Care Law and You - Monday",
+        "CLIENT": "IBX",
+        "URL": "ibx.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2362,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "hclawandyoumon"
+    },
+    {
+        "COURSE": "Health Care Law and You - Tuesday",
+        "CLIENT": "IBX",
+        "URL": "ibx.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2372,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "HCLawandYouTue"
+    },
+    {
+        "COURSE": "Health Care Law and You - Wednesday",
+        "CLIENT": "IBX",
+        "URL": "ibx.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2382,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "hclawandyouwed"
+    },
+    {
+        "COURSE": "Health Care Law and You - Thursday",
+        "CLIENT": "IBX",
+        "URL": "ibx.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2392,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "HCLawandYouTh"
+    },
+    {
+        "COURSE": "The Path Ahead: Ignite Technologies User Conference",
+        "CLIENT": "Ignite",
+        "URL": "ignite.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2162,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "ignite-q3-2013r"
+    },
+    {
+        "COURSE": "August 2013 - Ignite Technologies: Focus on Support",
+        "CLIENT": "Ignite",
+        "URL": "ignite.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2252,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "FocusonSupport"
+    },
+    {
+        "COURSE": "Ignite Technologies: Building Momentum",
+        "CLIENT": "Ignite",
+        "URL": "ignite.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2622,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "ignitemomentum"
+    },
+    {
+        "COURSE": "Ignite Virtual User Conference Q2 2014",
+        "CLIENT": "Ignite",
+        "URL": "ignite.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2792,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "ignite-q2-2014"
+    },
+    {
+        "COURSE": "The Path Ahead for NuView Customers",
+        "CLIENT": "Ignite",
+        "URL": "ignite.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2792,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "p3txhzjutoo"
+    },
+    {
+        "COURSE": "Ignite Acorn Systems Virtual User Conference - July 2014",
+        "CLIENT": "Ignite",
+        "URL": "ignite.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2804,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "ignite-acorn-q3-2014"
+    },
+    {
+        "COURSE": "The Path Ahead for Acorn Customers",
+        "CLIENT": "Ignite",
+        "URL": "ignite.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2804,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "p3un0uo87ye"
+    },
+    {
+        "COURSE": "Ignite Technologies Focus on Support",
+        "CLIENT": "Ignite",
+        "URL": "ignite.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2806,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "ignite-nuview-aug13"
+    },
+    {
+        "COURSE": "Ignite Technologies (NuView): Focus on Support",
+        "CLIENT": "Ignite",
+        "URL": "ignite.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2806,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "p5pmufpko3o"
+    },
+    {
+        "COURSE": "Ignite Technologies Focus on Support August 2014",
+        "CLIENT": "Ignite",
+        "URL": "ignite.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2810,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "ignite-acorn-aug27"
+    },
+    {
+        "COURSE": "Ignite Technologies (Acorn): Focus on Support",
+        "CLIENT": "Ignite",
+        "URL": "ignite.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2810,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "/igniteacorn"
+    },
+    {
+        "COURSE": "Ignite Virtual User Conference October 2014",
+        "CLIENT": "Ignite",
+        "URL": "ignite.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2815,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "ignite-oct-15"
+    },
+    {
+        "COURSE": "Ignite Technologies: Important NuView Briefing",
+        "CLIENT": "Ignite",
+        "URL": "ignite.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2815,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "nuviewoct2014"
+    },
+    {
+        "COURSE": "Ignite Acorn Systems Virtual User Conference - November 2014",
+        "CLIENT": "Ignite",
+        "URL": "ignite.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2820,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "ignite-acorn-nov-2014"
+    },
+    {
+        "COURSE": "Ignite Virtual User Conference for Acorn Users",
+        "CLIENT": "Ignite",
+        "URL": "ignite.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2820,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "igniteacornq414"
+    },
+    {
+        "COURSE": "Ignite Webinar for NuView Payroll",
+        "CLIENT": "Ignite",
+        "URL": "ignite.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2826,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "ignite-nov-18"
+    },
+    {
+        "COURSE": "Ignite Webinar for NuView Payroll",
+        "CLIENT": "Ignite",
+        "URL": "ignite.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2826,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "nuviewpayroll"
+    },
+    {
+        "COURSE": "Ignite Webinar for NuView HRMS",
+        "CLIENT": "Ignite",
+        "URL": "ignite.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2827,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "ignite-nov-20"
+    },
+    {
+        "COURSE": "Ignite Webinar for NuView HRMS",
+        "CLIENT": "Ignite",
+        "URL": "ignite.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2827,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "nuviewhrms"
+    },
+    {
+        "COURSE": "Ignite NuView Virtual User Conference March 2015",
+        "CLIENT": "Ignite",
+        "URL": "ignite.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2843,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "ignite-march-2015/"
+    },
+    {
+        "COURSE": "NuView Customer Virtual User Conference Q1 2015",
+        "CLIENT": "Ignite",
+        "URL": "ignite.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2843,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "nuviewq12015"
+    },
+    {
+        "COURSE": "Ignite Virtual User Conference for Acorn",
+        "CLIENT": "Ignite",
+        "URL": "ignite.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2848,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "ignite-acorn-april-2015"
+    },
+    {
+        "COURSE": "Ignite Technologies: Important Acorn Client Briefing",
+        "CLIENT": "Ignite",
+        "URL": "ignite.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2848,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "igniteacornq22015/"
+    },
+    {
+        "COURSE": "NuView Q2 2015",
+        "CLIENT": "Ignite",
+        "URL": "ignite.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2861,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "nuview-q2-2015/"
+    },
+    {
+        "COURSE": "Virtual User Conference for NuView Customers",
+        "CLIENT": "Ignite",
+        "URL": "ignite.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2861,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "ignite062315/"
+    },
+    {
+        "COURSE": "Infopia Virtual User Conference - Q4 2011",
+        "CLIENT": "Infopia",
+        "URL": "infopia.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 207,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "infopia-q4-2011r/"
+    },
+    {
+        "COURSE": "Infopia Virtual User Conference - Q1 2012",
+        "CLIENT": "Infopia",
+        "URL": "infopia.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 254,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "infopia-q1-2012r2/"
+    },
+    {
+        "COURSE": "Infopia Virtual User Conference - Q2 2012",
+        "CLIENT": "Infopia",
+        "URL": "infopia.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 561,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "p36vv1qodkj/"
+    },
+    {
+        "COURSE": "Infopia: Staying the Course.",
+        "CLIENT": "Infopia",
+        "URL": "infopia.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1241,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "infopia-q3-2012r/"
+    },
+    {
+        "COURSE": "Leveraging Data and Tech to Optimize Customer Engagement",
+        "CLIENT": "KBM",
+        "URL": "kbm.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 681,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "kbm42612rc"
+    },
+    {
+        "COURSE": "Health Insurance 2014: Carpe Annum",
+        "CLIENT": "KBM",
+        "URL": "kbm.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1391,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "kbm-10-12r"
+    },
+    {
+        "COURSE": "Countdown To Health Reform: Listen To Your Customer",
+        "CLIENT": "KBM",
+        "URL": "kbm.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2182,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "kbm-july-2013r"
+    },
+    {
+        "COURSE": "Top 10 Healthcare Trends: 2014",
+        "CLIENT": "KBM",
+        "URL": "kbm.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2602,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "kbmtop10"
+    },
+    {
+        "COURSE": "Evolving to Analytic Maturity",
+        "CLIENT": "KBM",
+        "URL": "kbm.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2782,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "kbm327"
+    },
+    {
+        "COURSE": "Evolving to Analytic Maturity",
+        "CLIENT": "KBM",
+        "URL": "kbm.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2782,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "evolvinganalytic"
+    },
+    {
+        "COURSE": "ROADMAP FOR 2015: Obamacare 2.0",
+        "CLIENT": "KBM",
+        "URL": "kbm.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2786,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "kbmhs327"
+    },
+    {
+        "COURSE": "ROADMAP FOR 2015: Obamacare 2.0",
+        "CLIENT": "KBM",
+        "URL": "kbm.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2786,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "roadmapoep2015"
+    },
+    {
+        "COURSE": "Trends in Integrating Data",
+        "CLIENT": "KBMG",
+        "URL": "kbmg.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 721,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "kbm512r"
+    },
+    {
+        "COURSE": "Best Practices for Sign Manufacturers",
+        "CLIENT": "Keyed In",
+        "URL": "keyedin.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 781,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "keyedin-4-25r"
+    },
+    {
+        "COURSE": "How to Increase Profitability for Sign Manufacturers",
+        "CLIENT": "Keyed In",
+        "URL": "keyedin.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 871,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "keyedin-5-12r"
+    },
+    {
+        "COURSE": "Averting Project Disaster",
+        "CLIENT": "Keyed In",
+        "URL": "keyedin.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 991,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "ki-6-12r"
+    },
+    {
+        "COURSE": "Navigating the ERP Minefield",
+        "CLIENT": "Keyed In CG",
+        "URL": "keyedin.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 941,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "keyedin-5-31r"
+    },
+    {
+        "COURSE": "MessageOne: The Path Ahead",
+        "CLIENT": "MessageOne",
+        "URL": "messageone.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2852,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "messageone-4-29-15/"
+    },
+    {
+        "COURSE": "MessageOne: The Path Ahead",
+        "CLIENT": "MessageOne",
+        "URL": "messageone.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2852,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "messageone042915/"
+    },
+    {
+        "COURSE": "MessageOne VUC - July 28, 2015",
+        "CLIENT": "MessageOne",
+        "URL": "messageone.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2866,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "messageone_07282015/"
+    },
+    {
+        "COURSE": "MessageOne: Important Customer Briefing",
+        "CLIENT": "MessageOne",
+        "URL": "messageone.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2866,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "messageone072815/"
+    },
+    {
+        "COURSE": "MessageOne Virtual User Conference – Oct. 2015",
+        "CLIENT": "MessageOne",
+        "URL": "messageone.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2885,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "messageone-q4-2015"
+    },
+    {
+        "COURSE": "MessageOne: Important Customer Briefing",
+        "CLIENT": "MessageOne",
+        "URL": "messageone.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2885,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "messageone102715/"
+    },
+    {
+        "COURSE": "MessageOne: Important Customer Briefing",
+        "CLIENT": "MessageOne",
+        "URL": "messageone.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2901,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "messageone-q1-2016"
+    },
+    {
+        "COURSE": "MessageOne: Q1 2016 Important Customer Briefing",
+        "CLIENT": "MessageOne",
+        "URL": "messageone.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2901,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "messageone02092016"
+    },
+    {
+        "COURSE": "Metatomix Virtual User Conference - Q3 2011",
+        "CLIENT": "Metatomix",
+        "URL": "metatomix.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 192,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "metatomix-q3-2011r/"
+    },
+    {
+        "COURSE": "How to Run Webinars that Accomplish Your Goals",
+        "CLIENT": "News Wise",
+        "URL": "newswise.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1632,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "rpw-9-12r"
+    },
+    {
+        "COURSE": "Nextance Virtual User Conference - Q3 2011",
+        "CLIENT": "Nextance",
+        "URL": "nextance.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 204,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "p8taaagwr1d/"
+    },
+    {
+        "COURSE": "Nextance Virtual User Conference - Q1 2012",
+        "CLIENT": "Nextance",
+        "URL": "nextance.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 511,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "nextance-q1-2012r/"
+    },
+    {
+        "COURSE": "Nextance Virtual User Conference - Q4 2012",
+        "CLIENT": "Nextance",
+        "URL": "nextance.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1452,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "nextance-q4-2012r"
+    },
+    {
+        "COURSE": "The Path Ahead",
+        "CLIENT": "ObjectStore",
+        "URL": "objectstore.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1622,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "os-q1-2013rb"
+    },
+    {
+        "COURSE": "ObjectStore: Focus on Support",
+        "CLIENT": "ObjectStore",
+        "URL": "objectstore.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1762,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "os-feb-2013r"
+    },
+    {
+        "COURSE": "ObjectStore: 2013 Editions Are Coming!",
+        "CLIENT": "ObjectStore",
+        "URL": "objectstore.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1942,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "os-q2-2013r"
+    },
+    {
+        "COURSE": "ObjectStore Welcome Back Webinar",
+        "CLIENT": "ObjectStore",
+        "URL": "objectstore.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2342,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "objectstore-q3-2013"
+    },
+    {
+        "COURSE": "ObjectStore Virtual User Conference Q4",
+        "CLIENT": "ObjectStore",
+        "URL": "objectstore.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2552,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "objectstoreq413"
+    },
+    {
+        "COURSE": "ObjectStore Virtual User Conference Q1 2014",
+        "CLIENT": "ObjectStore",
+        "URL": "objectstore.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2777,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "objectstore-q1-2014"
+    },
+    {
+        "COURSE": "ObjectStore 2013 Standard Launch Event",
+        "CLIENT": "ObjectStore",
+        "URL": "objectstore.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2777,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "objstore2013std"
+    },
+    {
+        "COURSE": "ObjectStore Virtual User Conference - Oct. 2015",
+        "CLIENT": "ObjectStore",
+        "URL": "objectstore.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2875,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "objectstore-q4-2015/"
+    },
+    {
+        "COURSE": "ObjectStore Virtual User Conference",
+        "CLIENT": "ObjectStore",
+        "URL": "objectstore.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2875,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "objectstore101515/"
+    },
+    {
+        "COURSE": "Small Business Health Reform Webinar",
+        "CLIENT": "Optima Health",
+        "URL": "optimahealth.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2282,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "sbhrw"
+    },
+    {
+        "COURSE": "Small Business Health Care Reform Webinar",
+        "CLIENT": "Optima Health",
+        "URL": "optimahealth.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2312,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "healthreform"
+    },
+    {
+        "COURSE": "Optima Medicare Online Seminar",
+        "CLIENT": "Optima Health",
+        "URL": "optimahealth.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2472,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "optimanov13"
+    },
+    {
+        "COURSE": "How to Save with USPS Price Increases",
+        "CLIENT": "Pitney Bowes",
+        "URL": "pitneybowes.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2845,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "pb-april-2015"
+    },
+    {
+        "COURSE": "USPS rate changes. Learn what they mean to your business.",
+        "CLIENT": "Pitney Bowes",
+        "URL": "pitneybowes.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2845,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "pb51415/"
+    },
+    {
+        "COURSE": "Vote by Mail Is Growing. Are You Ready?",
+        "CLIENT": "Pitney Bowes",
+        "URL": "pitneybowes.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2850,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "pb-5-13"
+    },
+    {
+        "COURSE": "Vote by mail is growing. Are you ready?",
+        "CLIENT": "Pitney Bowes",
+        "URL": "pitneybowes.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2850,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "pb51315/"
+    },
+    {
+        "COURSE": "ConfirmWorkzone: Integrated spatial workforce optimisation",
+        "CLIENT": "Pitney Bowes",
+        "URL": "pitneybowes.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2865,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "confirmworkzone/"
+    },
+    {
+        "COURSE": "Optimised process mgmt and work scheduling for work crews",
+        "CLIENT": "Pitney Bowes",
+        "URL": "pitneybowes.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2865,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "pb11082015/"
+    },
+    {
+        "COURSE": "Mail Management Seminar Series",
+        "CLIENT": "Pitney Bowes",
+        "URL": "pitneybowes.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2869,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "mmss/"
+    },
+    {
+        "COURSE": "October Mail Management Seminar Series - Session #3",
+        "CLIENT": "Pitney Bowes",
+        "URL": "pitneybowes.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2870,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "octmmss/"
+    },
+    {
+        "COURSE": "October Mail Management Seminar Series -- Session #3",
+        "CLIENT": "Pitney Bowes",
+        "URL": "pitneybowes.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2870,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "octmmss3"
+    },
+    {
+        "COURSE": "Vote-by-mail best practices",
+        "CLIENT": "Pitney Bowes",
+        "URL": "pitneybowes.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2890,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "pitneybowes-12-02-15"
+    },
+    {
+        "COURSE": "Vote-By-Mail Best Practices",
+        "CLIENT": "Pitney Bowes",
+        "URL": "pitneybowes.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2890,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "pitneybowes12022015/"
+    },
+    {
+        "COURSE": "Business-Savvy Project Leaders",
+        "CLIENT": "PM College",
+        "URL": "pmcollege.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1001,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "pm-10-12r"
+    },
+    {
+        "COURSE": "What Your Project Managers Need to Know",
+        "CLIENT": "PM College",
+        "URL": "pmcollege.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2857,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "pmcollege-june-2015/"
+    },
+    {
+        "COURSE": "Skills that Drive High-Performing Organizations",
+        "CLIENT": "PM College",
+        "URL": "pmcollege.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2857,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "pmcollegerecording-061815/"
+    },
+    {
+        "COURSE": "The State of the PMO 2012",
+        "CLIENT": "PM Events",
+        "URL": "pmsolutions.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 461,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "pm-3-12r"
+    },
+    {
+        "COURSE": "The State of PPM 2013",
+        "CLIENT": "PM Events",
+        "URL": "pmsolutions.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1952,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "pm-may-2013rec"
+    },
+    {
+        "COURSE": "PM Solutions March 2014",
+        "CLIENT": "PM Events",
+        "URL": "pmsolutions.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2780,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "pm-mar-2014"
+    },
+    {
+        "COURSE": "The Disruptive PMO: Change Innovate and Lead April 3",
+        "CLIENT": "PM Events",
+        "URL": "pmsolutions.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2780,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "pmsolutionspmo"
+    },
+    {
+        "COURSE": "The State of the PMO 2014",
+        "CLIENT": "PM Events",
+        "URL": "pmsolutions.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2799,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "pm-solutions-june-2014"
+    },
+    {
+        "COURSE": "The State of the PMO 2014",
+        "CLIENT": "PM Events",
+        "URL": "pmsolutions.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2799,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "pmo2014"
+    },
+    {
+        "COURSE": "SMECO’s Story - How to Optimize Assets",
+        "CLIENT": "PowerPlan",
+        "URL": "powerplan.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2492,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "pwrplansmeco"
+    },
+    {
+        "COURSE": "How to Optimize Assets for Your Municipality or Cooperative",
+        "CLIENT": "PowerPlan",
+        "URL": "powerplan.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2492,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "pwrplan1016"
+    },
+    {
+        "COURSE": "How to Maximize PowerPlan for Your FERC Filing",
+        "CLIENT": "PowerPlan",
+        "URL": "powerplan.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2766,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "pwrplan129"
+    },
+    {
+        "COURSE": "How to Maximize PowerPlan for Your FERC Filing",
+        "CLIENT": "PowerPlan",
+        "URL": "powerplan.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2766,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "pwrplanferc"
+    },
+    {
+        "COURSE": "Tax Repairs Best Practices",
+        "CLIENT": "PowerPlan",
+        "URL": "powerplan.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2772,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "pwrplan218"
+    },
+    {
+        "COURSE": "Tax Repairs Best Practices",
+        "CLIENT": "PowerPlan",
+        "URL": "powerplan.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2772,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "taxrepairs"
+    },
+    {
+        "COURSE": "Helpful Hints for Preparing for your Tax Return",
+        "CLIENT": "PowerPlan",
+        "URL": "powerplan.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2779,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "pwrplan226"
+    },
+    {
+        "COURSE": "Helpful Hints for Preparing for Your Tax Return, 2-26-14",
+        "CLIENT": "PowerPlan",
+        "URL": "powerplan.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2779,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "taxhints"
+    },
+    {
+        "COURSE": "How Missed Retirements Affect Your Financials",
+        "CLIENT": "PowerPlan",
+        "URL": "powerplan.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2783,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "pwrplan319"
+    },
+    {
+        "COURSE": "How Missed Retirements Affect Your Financials",
+        "CLIENT": "PowerPlan",
+        "URL": "powerplan.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2783,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "missedfinancials"
+    },
+    {
+        "COURSE": "Five Best Practices for a Successful Month-End Close",
+        "CLIENT": "PowerPlan",
+        "URL": "powerplan.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2785,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "pwrplan325"
+    },
+    {
+        "COURSE": "Successful Month-End Close",
+        "CLIENT": "PowerPlan",
+        "URL": "powerplan.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2785,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "monthendclose1"
+    },
+    {
+        "COURSE": "How to Enhance the Value from Your PowerPlan Solution",
+        "CLIENT": "PowerPlan",
+        "URL": "powerplan.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2800,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "pwrplan514"
+    },
+    {
+        "COURSE": "How to Enhance the Value from Your PowerPlan",
+        "CLIENT": "PowerPlan",
+        "URL": "powerplan.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2800,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "may14pwrpln"
+    },
+    {
+        "COURSE": "Addressing Data Management Challenges for MLPs",
+        "CLIENT": "PowerPlan",
+        "URL": "powerplan.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2801,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "pwrplan528"
+    },
+    {
+        "COURSE": "Addressing Data Management Challenges for MLPs",
+        "CLIENT": "PowerPlan",
+        "URL": "powerplan.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2801,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "ppmay28webinar"
+    },
+    {
+        "COURSE": "Storm Recovery and Extraordinary Events",
+        "CLIENT": "PowerPlan",
+        "URL": "powerplan.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2862,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "powerplan_storm/"
+    },
+    {
+        "COURSE": "EAM Integration: Helpful Hints on the Work Order Lifecycle",
+        "CLIENT": "PowerPlan",
+        "URL": "powerplan.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2886,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "pwrplan-10-14-15"
+    },
+    {
+        "COURSE": "EAM Integration: Helpful Hints",
+        "CLIENT": "PowerPlan",
+        "URL": "powerplan.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2886,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "powerplan102215"
+    },
+    {
+        "COURSE": "How to Prepare for the Lease Accounting Standard Changes",
+        "CLIENT": "PowerPlan",
+        "URL": "powerplan.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2895,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "pwrplan-12-08-15"
+    },
+    {
+        "COURSE": "Preparing for Lease Accounting Standard Changes",
+        "CLIENT": "PowerPlan",
+        "URL": "powerplan.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2895,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "powerplan12082015/"
+    },
+    {
+        "COURSE": "3 Tax Strategies Dentists Use to Maximize Income",
+        "CLIENT": "Procore",
+        "URL": "procore.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 391,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "pccpa312r"
+    },
+    {
+        "COURSE": "Tax Strategies That Will Improve Your Take-Home Income",
+        "CLIENT": "Procore",
+        "URL": "procore.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 931,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "procore-5-12r"
+    },
+    {
+        "COURSE": "Prologic: Building Momentum",
+        "CLIENT": "Prologic",
+        "URL": "prologic.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 831,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "prologic-q3-2012r"
+    },
+    {
+        "COURSE": "Prologic Virtual User Conference - Q2 2012",
+        "CLIENT": "Prologic",
+        "URL": "prologic.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 861,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "prologic-q2-2012r/"
+    },
+    {
+        "COURSE": "Prologic: Setting the Record Straight",
+        "CLIENT": "Prologic",
+        "URL": "prologic.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1432,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "prologic-q4-2012r"
+    },
+    {
+        "COURSE": "Prologic: Vision for 2013",
+        "CLIENT": "Prologic",
+        "URL": "prologic.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1742,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "prologic-q1-2013r"
+    },
+    {
+        "COURSE": "Prologic: Focus on Customers",
+        "CLIENT": "Prologic",
+        "URL": "prologic.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1992,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "prologic-q2-2013r"
+    },
+    {
+        "COURSE": "Prologic: Focus on the Roadmap",
+        "CLIENT": "Prologic",
+        "URL": "prologic.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2302,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "roadmap"
+    },
+    {
+        "COURSE": "Prologic: Delivery Success",
+        "CLIENT": "Prologic",
+        "URL": "prologic.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2562,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "prologicq42013"
+    },
+    {
+        "COURSE": "Prologic Virtual User Conference - Q1 2014",
+        "CLIENT": "Prologic",
+        "URL": "prologic.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2781,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "prologic-q1-2014"
+    },
+    {
+        "COURSE": "Prologic 2.0 The Future is Now",
+        "CLIENT": "Prologic",
+        "URL": "prologic.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2781,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "/prologic2014q1"
+    },
+    {
+        "COURSE": "Prologic July 2014 On-Demand Virtual User Conference",
+        "CLIENT": "Prologic",
+        "URL": "prologic.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2807,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "p8vf3lpla0b"
+    },
+    {
+        "COURSE": "Prologic Virtual User Conference September 2014",
+        "CLIENT": "Prologic",
+        "URL": "prologic.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2811,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "prologic-q3-2014"
+    },
+    {
+        "COURSE": "Q3 Prologic Update",
+        "CLIENT": "Prologic",
+        "URL": "prologic.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2811,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "q314prologic"
+    },
+    {
+        "COURSE": "Prologic Virtual User Conference March 2015",
+        "CLIENT": "Prologic",
+        "URL": "prologic.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2841,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "prologic-q1-2015"
+    },
+    {
+        "COURSE": "Q1 2015 Prologic Update",
+        "CLIENT": "Prologic",
+        "URL": "prologic.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2841,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "Q12015prologicupdate"
+    },
+    {
+        "COURSE": "Prologic Q3 2015 VUC",
+        "CLIENT": "Prologic",
+        "URL": "prologic.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2856,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "prologic-q3-2015"
+    },
+    {
+        "COURSE": "Prologic Q3 Update",
+        "CLIENT": "Prologic",
+        "URL": "prologic.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2856,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "prologic090815/"
+    },
+    {
+        "COURSE": "PurchasingNet Virtual User Conference",
+        "CLIENT": "Purchasingnet",
+        "URL": "purchasingnet.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 208,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "pnet-q3-2011r/"
+    },
+    {
+        "COURSE": "PurchasingNet Virtual User Conference - Q4 2011",
+        "CLIENT": "Purchasingnet",
+        "URL": "purchasingnet.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 238,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "pnet-q4-2011r/"
+    },
+    {
+        "COURSE": "PurchasingNet Virtual User Conference - Q1 2012",
+        "CLIENT": "Purchasingnet",
+        "URL": "purchasingnet.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 421,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "pnet-q1-2012r/"
+    },
+    {
+        "COURSE": "PurchasingNet: Version 10 Is Here!",
+        "CLIENT": "Purchasingnet",
+        "URL": "purchasingnet.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1011,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "pnet-q2-2012r"
+    },
+    {
+        "COURSE": "PurchasingNet: Delivering Results",
+        "CLIENT": "Purchasingnet",
+        "URL": "purchasingnet.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1572,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "pnet-q4-2012r"
+    },
+    {
+        "COURSE": "PurchasingNet: Actions Speak Louder",
+        "CLIENT": "Purchasingnet",
+        "URL": "purchasingnet.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1792,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "pnet-q1-2013r"
+    },
+    {
+        "COURSE": "PurchasingNet: Building Momentum",
+        "CLIENT": "Purchasingnet",
+        "URL": "purchasingnet.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2102,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "pnet-q2-2013r"
+    },
+    {
+        "COURSE": "PurchasingNet: Full Speed Ahead",
+        "CLIENT": "Purchasingnet",
+        "URL": "purchasingnet.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2452,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "purchasingnetq4"
+    },
+    {
+        "COURSE": "What Planet Are You On?",
+        "CLIENT": "Rally Point Webinars",
+        "URL": "events.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 15,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "b2cb2b"
+    },
+    {
+        "COURSE": "How to Effectively Sell with Webinars",
+        "CLIENT": "Rally Point Webinars",
+        "URL": "events.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 531,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "rpw-3-12r"
+    },
+    {
+        "COURSE": "How to Make Webinars Your #1 Lead Generation Method",
+        "CLIENT": "Rally Point Webinars",
+        "URL": "events.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 891,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "rpw-5-12r"
+    },
+    {
+        "COURSE": "The 6 Essential, Time-Sensitive Elements of a Webinar",
+        "CLIENT": "Rally Point Webinars",
+        "URL": "events.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1161,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "rpw-7-12r"
+    },
+    {
+        "COURSE": "How to Run Webinars that Accomplish Your Goals",
+        "CLIENT": "Rally Point Webinars",
+        "URL": "events.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1361,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "rpw-9-12r"
+    },
+    {
+        "COURSE": "testing",
+        "CLIENT": "Rally Point Webinars",
+        "URL": "events.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1712,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "testing"
+    },
+    {
+        "COURSE": "Webinar: Making Webinars Your #1 Lead Generation Method",
+        "CLIENT": "Rally Point Webinars",
+        "URL": "events.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1872,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "rpw-march-2013rec"
+    },
+    {
+        "COURSE": "Three 30 Minute Summer Webinar Experiments",
+        "CLIENT": "Rally Point Webinars",
+        "URL": "events.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2132,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "rpw-may-2013r"
+    },
+    {
+        "COURSE": "Why Most Content Campaigns Fail (And What To Do About It)",
+        "CLIENT": "Rally Point Webinars",
+        "URL": "events.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2212,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "rpw-july-2013r"
+    },
+    {
+        "COURSE": "Look at Your Data: The Real Numbers Behind Winning Webinars",
+        "CLIENT": "Rally Point Webinars",
+        "URL": "events.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2592,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "rpwnov13"
+    },
+    {
+        "COURSE": "7 Keys to Running a Glitch-Free Webinar",
+        "CLIENT": "Rally Point Webinars",
+        "URL": "events.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2778,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "rpw-feb-12"
+    },
+    {
+        "COURSE": "7 Keys to Running a Glitch-Free Webinar",
+        "CLIENT": "Rally Point Webinars",
+        "URL": "events.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2778,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "glitchfreewebinars"
+    },
+    {
+        "COURSE": "Keys to Running a Glitch-Free Webinar",
+        "CLIENT": "Rally Point Webinars",
+        "URL": "events.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2778,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "glitchfreewebinar"
+    },
+    {
+        "COURSE": "Your #1 Lead Generation Method",
+        "CLIENT": "Rally Point Webinars",
+        "URL": "events.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2818,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "rpw-oct-2014"
+    },
+    {
+        "COURSE": "How to Make Webinars Your #1 Lead Gen Method",
+        "CLIENT": "Rally Point Webinars",
+        "URL": "events.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2818,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "webinarsforleadgen"
+    },
+    {
+        "COURSE": "Webinars for Pitney Bowes",
+        "CLIENT": "Rally Point Webinars",
+        "URL": "events.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2839,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "pb2015"
+    },
+    {
+        "COURSE": "Ravenflow Virtual User Conference - Q3 2011",
+        "CLIENT": "RavenFlow",
+        "URL": "ravenflow.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 201,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "ravenflow-q3-2011r"
+    },
+    {
+        "COURSE": "Ravenflow Virtual User Conference - Q2 2012",
+        "CLIENT": "RavenFlow",
+        "URL": "ravenflow.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 571,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "p53aq1kx88r"
+    },
+    {
+        "COURSE": "Right90 Virtual User Conference - Q3 2011",
+        "CLIENT": "Right90",
+        "URL": "right90.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 209,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "right90-q3-2011r/"
+    },
+    {
+        "COURSE": "Right90 Virtual User Conference - Q1 2012",
+        "CLIENT": "Right90",
+        "URL": "right90.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 431,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "right90-q1-2012r/"
+    },
+    {
+        "COURSE": "Right90: The Momentum Continues",
+        "CLIENT": "Right90",
+        "URL": "right90.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1091,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "right90-q3-2012r"
+    },
+    {
+        "COURSE": "Right90: Standing Strong - December 2012",
+        "CLIENT": "Right90",
+        "URL": "right90.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1331,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "right90-q4-2012r"
+    },
+    {
+        "COURSE": "Right90: Vision for 2013",
+        "CLIENT": "Right90",
+        "URL": "right90.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1772,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "right90-q1-2013r"
+    },
+    {
+        "COURSE": "Right90: Inspect What You Expect",
+        "CLIENT": "Right90",
+        "URL": "right90.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2112,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "right90-q2-2013r"
+    },
+    {
+        "COURSE": "Right90: Important Customer Briefing",
+        "CLIENT": "Right90",
+        "URL": "right90.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2482,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "right90q4"
+    },
+    {
+        "COURSE": "webMethods 9.01 Upgrade",
+        "CLIENT": "SAG",
+        "URL": "sag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2702,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "sag-mar-27"
+    },
+    {
+        "COURSE": "webMethods 9.01 Upgrade",
+        "CLIENT": "SAG",
+        "URL": "sag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2702,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "wm9upgrd"
+    },
+    {
+        "COURSE": "Steps to a Successful IT Portfolio Management Program",
+        "CLIENT": "SAG",
+        "URL": "sag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2788,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "sag-apr-22"
+    },
+    {
+        "COURSE": "Steps to a Successful IT Portfolio Management Program",
+        "CLIENT": "SAG",
+        "URL": "sag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2788,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "swag042214hcg"
+    },
+    {
+        "COURSE": "How to Manage Receivables for the Triple Win",
+        "CLIENT": "SAG",
+        "URL": "sag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2795,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "sag-may-21"
+    },
+    {
+        "COURSE": "Enabling the Process-Centric Enterprise",
+        "CLIENT": "SAG",
+        "URL": "sag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2805,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "swag-august-7"
+    },
+    {
+        "COURSE": "Enabling the Process-Centric Enterprise w/ Techlogix",
+        "CLIENT": "SAG",
+        "URL": "sag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2805,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "techlogix"
+    },
+    {
+        "COURSE": "Big Machine Data & IoT Analytics",
+        "CLIENT": "SAG",
+        "URL": "sag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2812,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "swag-sept-10"
+    },
+    {
+        "COURSE": "Big Machine Data & IoT Analytics",
+        "CLIENT": "SAG",
+        "URL": "sag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2812,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "iot"
+    },
+    {
+        "COURSE": "Best Practices in Electronic Invoicing",
+        "CLIENT": "SAG",
+        "URL": "sag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2829,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "swag-dec-4"
+    },
+    {
+        "COURSE": "Best Practices in Electronic Invoicing",
+        "CLIENT": "SAG",
+        "URL": "sag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2829,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "swagei"
+    },
+    {
+        "COURSE": "Big Machine Data & IoT Analytics",
+        "CLIENT": "SAG",
+        "URL": "sag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2831,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "iot"
+    },
+    {
+        "COURSE": "Learn Your Options for Partnership",
+        "CLIENT": "SAG",
+        "URL": "sag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2847,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "sag-march-26"
+    },
+    {
+        "COURSE": "Optimize Business Processes – Transform Customer Experience",
+        "CLIENT": "SAG",
+        "URL": "sag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2876,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "sagds-10-29-15/"
+    },
+    {
+        "COURSE": "Optimize Your Business Processes With Digital Symplexity",
+        "CLIENT": "SAG",
+        "URL": "sag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2876,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "sag111815/"
+    },
+    {
+        "COURSE": "Maximize the Value of Apama with Predictive Analytics",
+        "CLIENT": "SAG",
+        "URL": "sag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2880,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "sag-10-28-15"
+    },
+    {
+        "COURSE": "Maximize the Value of Apama with Predictive Analytics",
+        "CLIENT": "SAG",
+        "URL": "sag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2880,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "sag102815/"
+    },
+    {
+        "COURSE": "Keys to Success for Your ARIS for SAP Project",
+        "CLIENT": "SAG",
+        "URL": "sag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2882,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "sag-10-29-15/"
+    },
+    {
+        "COURSE": "Keys to Success for Your ARIS for SAP Project",
+        "CLIENT": "SAG",
+        "URL": "sag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2882,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "sag102915/"
+    },
+    {
+        "COURSE": "How to Implement a Sustainable Application Portfolio Management Program",
+        "CLIENT": "SAG",
+        "URL": "sag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2887,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "sag-11-10-15"
+    },
+    {
+        "COURSE": "Sustainable Application Portfolio Management Program",
+        "CLIENT": "SAG",
+        "URL": "sag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2887,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "sag111015/"
+    },
+    {
+        "COURSE": "Driving Quality and Continuous Testing with webMethods",
+        "CLIENT": "SAG",
+        "URL": "sag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2891,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "sag-11-12-15"
+    },
+    {
+        "COURSE": "Driving Quality & Continuous Testing with webMethods",
+        "CLIENT": "SAG",
+        "URL": "sag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2891,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "sag111215/"
+    },
+    {
+        "COURSE": "webMethods Upgrade: Tips, Tricks, and Pitfalls",
+        "CLIENT": "SAG",
+        "URL": "sag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2893,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "sag-12-10-2015/"
+    },
+    {
+        "COURSE": "webMethods Upgrade: Tips, Tricks & Pitfalls",
+        "CLIENT": "SAG",
+        "URL": "sag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2893,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "sag12102015/"
+    },
+    {
+        "COURSE": "SmartForm Design Quarto Trimestre – Aggiornamento Cliente",
+        "CLIENT": "SmartForm",
+        "URL": "smartform.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 244,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "smartform2011r/"
+    },
+    {
+        "COURSE": "SmartForm Virtual User Conference - Q1 2012",
+        "CLIENT": "SmartForm",
+        "URL": "smartform.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 491,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "smartform-q1-2012r/"
+    },
+    {
+        "COURSE": "SmartForm Design Virtual User Conference - Q2 2012",
+        "CLIENT": "SmartForm",
+        "URL": "smartform.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1041,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "smartform-q2-2012r"
+    },
+    {
+        "COURSE": "Smartform: Acquistando slancio!",
+        "CLIENT": "SmartForm",
+        "URL": "smartform.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1321,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "smartform-q3-2012r"
+    },
+    {
+        "COURSE": "SmartForm: Forte in piedi",
+        "CLIENT": "SmartForm",
+        "URL": "smartform.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1602,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "smartform-q4-2012r"
+    },
+    {
+        "COURSE": "BPM Master Class: First Steps to BPM Excellence",
+        "CLIENT": "Software AG",
+        "URL": "softwareag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1301,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "swag-10-12r"
+    },
+    {
+        "COURSE": "API Management Demystified",
+        "CLIENT": "Software AG",
+        "URL": "softwareag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1812,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "swag-feb-28r"
+    },
+    {
+        "COURSE": "Driving the Lean / Six Sigma Experience with Software",
+        "CLIENT": "Software AG",
+        "URL": "softwareag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1852,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "swag-march-13r"
+    },
+    {
+        "COURSE": "Software AG Live Opportunities for Partners",
+        "CLIENT": "Software AG",
+        "URL": "softwareag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2202,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "swag-july-15r"
+    },
+    {
+        "COURSE": "Why it's Critical to Combine Methodologies to Increase ROI",
+        "CLIENT": "Software AG",
+        "URL": "softwareag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2412,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "softwareag092013"
+    },
+    {
+        "COURSE": "Intelligent Business Processes",
+        "CLIENT": "Software AG",
+        "URL": "softwareag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2572,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "swagkemsley"
+    },
+    {
+        "COURSE": "How to Create an Agile Enterprise",
+        "CLIENT": "Software AG",
+        "URL": "softwareag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2612,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "softwareag112013"
+    },
+    {
+        "COURSE": "The 10 Undeniable Rules of Process Modeling",
+        "CLIENT": "Software AG",
+        "URL": "softwareag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2642,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "swagwalker"
+    },
+    {
+        "COURSE": "Mobile meets Mainframe",
+        "CLIENT": "Software AG",
+        "URL": "softwareag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2652,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "mobilemeetsmainframe"
+    },
+    {
+        "COURSE": "Mobile meets Mainframe",
+        "CLIENT": "Software AG",
+        "URL": "softwareag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2652,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "swag-dec-12"
+    },
+    {
+        "COURSE": "How to Make the Most of Your Free Webinar",
+        "CLIENT": "Software AG",
+        "URL": "softwareag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2672,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "swagpartnerweb"
+    },
+    {
+        "COURSE": "Business-IT Alignment For Process Applications",
+        "CLIENT": "Software AG",
+        "URL": "softwareag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2692,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "swagkemsley2"
+    },
+    {
+        "COURSE": "Growing the JP Morgan Chase Business",
+        "CLIENT": "Software AG",
+        "URL": "softwareag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2773,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "swag-march-5"
+    },
+    {
+        "COURSE": "Growing the Business through Intelligent Business Operations",
+        "CLIENT": "Software AG",
+        "URL": "softwareag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2773,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "growingwithibo"
+    },
+    {
+        "COURSE": "Intelligent Business Operations",
+        "CLIENT": "Software AG",
+        "URL": "softwareag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2791,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "swag-apr-24"
+    },
+    {
+        "COURSE": "How to Get More Value",
+        "CLIENT": "Software AG",
+        "URL": "softwareag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2802,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "swag-june-17"
+    },
+    {
+        "COURSE": "Boost Your SAP Solutions with Aris 9",
+        "CLIENT": "Software AG",
+        "URL": "softwareag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2802,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "p2celp44cok"
+    },
+    {
+        "COURSE": "Big IT Budget Meeting Tomorrow? Ask Alfabet Today",
+        "CLIENT": "Software AG",
+        "URL": "softwareag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2834,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "swag12215"
+    },
+    {
+        "COURSE": "Big IT Budget Meeting Tomorrow? Ask Alfabet Today",
+        "CLIENT": "Software AG",
+        "URL": "softwareag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2834,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "askalfabet"
+    },
+    {
+        "COURSE": "Big IT Budget Meeting Tomorrow? Ask Alfabet Today.",
+        "CLIENT": "Software AG",
+        "URL": "softwareag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2835,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "swag2315"
+    },
+    {
+        "COURSE": "Big IT Budget Meeting Tomorrow?? Ask Alfabet Today",
+        "CLIENT": "Software AG",
+        "URL": "softwareag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2835,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "alfabettoday"
+    },
+    {
+        "COURSE": "Integration Is the Key to Modernization",
+        "CLIENT": "Software AG",
+        "URL": "softwareag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2851,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "swag-april-2015"
+    },
+    {
+        "COURSE": "Integration Is the Key to Modernization",
+        "CLIENT": "Software AG",
+        "URL": "softwareag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2851,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "keytomodernization/"
+    },
+    {
+        "COURSE": "Big IT Budget Meeting Tomorrow? We Can Help Today!",
+        "CLIENT": "Software AG",
+        "URL": "softwareag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2854,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "bigitmeeting-060915/"
+    },
+    {
+        "COURSE": "Big IT Budget Meeting Tomorrow? We Can Help Today!",
+        "CLIENT": "Software AG",
+        "URL": "softwareag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2854,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "sagrecording-060915/"
+    },
+    {
+        "COURSE": "Software AG and Forrester Research",
+        "CLIENT": "Software AG",
+        "URL": "softwareag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2859,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "sagjune2015/"
+    },
+    {
+        "COURSE": "Unleash the Power of the Internet of Things",
+        "CLIENT": "Software AG",
+        "URL": "softwareag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2859,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "sagrecording-061615/"
+    },
+    {
+        "COURSE": "See How Location Analytics Improves Satisfaction and Sales",
+        "CLIENT": "Software AG",
+        "URL": "softwareag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2863,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "sag-june-30-15/"
+    },
+    {
+        "COURSE": "Take Action with Location Analytics",
+        "CLIENT": "Software AG",
+        "URL": "softwareag.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2863,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "sag063015/"
+    },
+    {
+        "COURSE": "Loss of a Loved One—Legal Rights Live on After Death",
+        "CLIENT": "Sokolove",
+        "URL": "sokolove.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2682,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "sokolove-jan-2014"
+    },
+    {
+        "COURSE": "Loss of a Loved One—Legal Rights Live on After Death",
+        "CLIENT": "Sokolove",
+        "URL": "sokolove.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2682,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "losslovedone"
+    },
+    {
+        "COURSE": "Loss of a Loved One—Legal Rights Live on After Death",
+        "CLIENT": "Sokolove",
+        "URL": "sokolove.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2774,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "losslovedone"
+    },
+    {
+        "COURSE": "Loss of a Loved One Legal Rights Live on After Death",
+        "CLIENT": "Sokolove",
+        "URL": "sokolove.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2774,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "losslovedonerec"
+    },
+    {
+        "COURSE": "How To Adapt Marketing to the Morphing Consumer Funnel",
+        "CLIENT": "SourceLink",
+        "URL": "sourcelink.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 341,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "slfeb12r"
+    },
+    {
+        "COURSE": "A Masterful Way to Create a New Mail Control, Fast!",
+        "CLIENT": "SourceLink",
+        "URL": "sourcelink.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 351,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "slmarch12r"
+    },
+    {
+        "COURSE": "REV Product Demo",
+        "CLIENT": "SourceLink",
+        "URL": "sourcelink.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 791,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "sl-5-12r"
+    },
+    {
+        "COURSE": "Proven Strategies in Mortgage Refinance Lending",
+        "CLIENT": "SourceLink",
+        "URL": "sourcelink.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1141,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "sl-7-12r"
+    },
+    {
+        "COURSE": "Understanding Big Data…",
+        "CLIENT": "SourceLink",
+        "URL": "sourcelink.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1221,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "sl-8-12r"
+    },
+    {
+        "COURSE": "Customer Obsession in the Age of the Customer",
+        "CLIENT": "SourceLink",
+        "URL": "sourcelink.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1341,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "sl-10-12r"
+    },
+    {
+        "COURSE": "Understanding and Mapping the Customer Journey",
+        "CLIENT": "SourceLink",
+        "URL": "sourcelink.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2868,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "sourcelink-09-15-15/"
+    },
+    {
+        "COURSE": "Five Steps to Understanding and Mapping the Customer Journey",
+        "CLIENT": "SourceLink",
+        "URL": "sourcelink.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2868,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "sourcelink091515/"
+    },
+    {
+        "COURSE": "Retail Banking - 2015 Research and Trends",
+        "CLIENT": "SourceLink",
+        "URL": "sourcelink.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2878,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "sourcelink-10-21-15/"
+    },
+    {
+        "COURSE": "Retail Banking – 2015 Research and Trends",
+        "CLIENT": "SourceLink",
+        "URL": "sourcelink.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2878,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "sourcelink102115"
+    },
+    {
+        "COURSE": "Emerging Direct Marketing Methodologies",
+        "CLIENT": "SourceLink",
+        "URL": "sourcelink.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2888,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "sourcelink-11-11-15"
+    },
+    {
+        "COURSE": "Emerging Direct Marketing Methodologies",
+        "CLIENT": "SourceLink",
+        "URL": "sourcelink.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2888,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "sourcelink111115/"
+    },
+    {
+        "COURSE": "StillSecure: The Path Ahead",
+        "CLIENT": "Still Secure",
+        "URL": "http://stillsecure.rallypointwebinars.com/",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2432,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "stillsecureahead"
+    },
+    {
+        "COURSE": "StillSecure: Building Momentum",
+        "CLIENT": "Still Secure",
+        "URL": "http://stillsecure.rallypointwebinars.com/",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2582,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "stillsecuremomentum"
+    },
+    {
+        "COURSE": "StillSecure Virtual User Conference Q2 2014",
+        "CLIENT": "Still Secure",
+        "URL": "http://stillsecure.rallypointwebinars.com/",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2794,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "stillsecure-q2-2014"
+    },
+    {
+        "COURSE": "StillSecure: Driving Success through Focus",
+        "CLIENT": "Still Secure",
+        "URL": "http://stillsecure.rallypointwebinars.com/",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2794,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "stillsecurefocus"
+    },
+    {
+        "COURSE": "Tenfold Virtual User Conference - Q4 2011",
+        "CLIENT": "Tenfold",
+        "URL": "tenfold.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 212,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "tenfold-q4-2011r/"
+    },
+    {
+        "COURSE": "Tenfold Virtual User Conference - Q1 2012",
+        "CLIENT": "Tenfold",
+        "URL": "tenfold.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 249,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "tenfold-q1-2012r/"
+    },
+    {
+        "COURSE": "Tenfold Virtual User Conference - Q2 2012",
+        "CLIENT": "Tenfold",
+        "URL": "tenfold.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 841,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "tenfold-q2-2012r/"
+    },
+    {
+        "COURSE": "Think3 Japan Q2 v4",
+        "CLIENT": "Think3",
+        "URL": "think3.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 175,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "t3jq2v4"
+    },
+    {
+        "COURSE": "Think3 Virtual User Conference - Q4 2011",
+        "CLIENT": "Think3",
+        "URL": "think3.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 243,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "think3-q4-2011r"
+    },
+    {
+        "COURSE": "Think3 Virtual User Conference - Q1 2012",
+        "CLIENT": "Think3",
+        "URL": "think3.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 481,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "think3-q1-2012r"
+    },
+    {
+        "COURSE": "Think3 Virtual User Conference - Q2 2012",
+        "CLIENT": "Think3",
+        "URL": "think3.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1031,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "think3-q2-2012r/"
+    },
+    {
+        "COURSE": "think3: Building Momentum",
+        "CLIENT": "Think3",
+        "URL": "think3.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1291,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "think3-q3-2012r"
+    },
+    {
+        "COURSE": "think3: Standing Strong",
+        "CLIENT": "Think3",
+        "URL": "think3.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1592,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "think3-q4-2012r"
+    },
+    {
+        "COURSE": "TriActive Virtual User Conference - Q3 2011",
+        "CLIENT": "TriActive",
+        "URL": "triactive.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 180,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "triactive-q3-2011r"
+    },
+    {
+        "COURSE": "TriActive Virtual User Conference - Q4 2011",
+        "CLIENT": "TriActive",
+        "URL": "triactive.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 210,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "triactive-q4-2011r/"
+    },
+    {
+        "COURSE": "TriActive Virtual User Conference - Q1 2012",
+        "CLIENT": "TriActive",
+        "URL": "triactive.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 258,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "triactive-q1-2012r/"
+    },
+    {
+        "COURSE": "TriActive Virtual User Conference - Q2 2012",
+        "CLIENT": "TriActive",
+        "URL": "triactive.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 581,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "triactive-q2-2012r/"
+    },
+    {
+        "COURSE": "TriActive Virtual User Conference - Q3 2012",
+        "CLIENT": "TriActive",
+        "URL": "triactive.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1181,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "triactive-q3-2012r"
+    },
+    {
+        "COURSE": "TriActive Virtual User Conference - Q1 2013",
+        "CLIENT": "TriActive",
+        "URL": "triactive.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1692,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "triactive-q1-2013r"
+    },
+    {
+        "COURSE": "TriActive: Product, Partnership and Service News",
+        "CLIENT": "TriActive",
+        "URL": "triactive.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2262,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "triactiveq32013"
+    },
+    {
+        "COURSE": "TriActive Virtual User Conference - Q1 2014",
+        "CLIENT": "TriActive",
+        "URL": "triactive.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2776,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "triactive-q1-2014"
+    },
+    {
+        "COURSE": "Essential Tips for Choosing Civilian Education",
+        "CLIENT": "Trident",
+        "URL": "trident.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 381,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "trident314r"
+    },
+    {
+        "COURSE": "Trilogy DCM Virtual User Conference January 2013",
+        "CLIENT": "Trilogy Financial Services",
+        "URL": "trident.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 921,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "trilogy-jan-2013re"
+    },
+    {
+        "COURSE": "Versata BRMS Demo 2010",
+        "CLIENT": "Versata",
+        "URL": "versata.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 181,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "versata-demo-2011r"
+    },
+    {
+        "COURSE": "Versata Virtual User Conference - Q4 2011",
+        "CLIENT": "Versata",
+        "URL": "versata.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 213,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "versata-q4-2011r/"
+    },
+    {
+        "COURSE": "Versata BRMS Virtual User Conference - Q1 2012",
+        "CLIENT": "Versata",
+        "URL": "versata.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 248,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "versata-q1-2012r"
+    },
+    {
+        "COURSE": "Welcome to Versata CPQ!",
+        "CLIENT": "Versata CPQ",
+        "URL": "versatacpq.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1381,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "cpq-q3-2012r"
+    },
+    {
+        "COURSE": "Finding Your Plan for Success!",
+        "CLIENT": "Versata CPQ",
+        "URL": "versatacpq.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1552,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "cpq-q4-2012r"
+    },
+    {
+        "COURSE": "Versata: All Aboard!",
+        "CLIENT": "Versata CPQ",
+        "URL": "versatacpq.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 1802,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "cpq-q1-2013r"
+    },
+    {
+        "COURSE": "Versata: Important Customer Briefing",
+        "CLIENT": "Versata CPQ",
+        "URL": "versatacpq.rallypointwebinars.com",
+        "Extension": "/course/webinar.php?id=",
+        "ID": 2322,
+        "REDIRECT URL": "rpw.adobeconnect.com/",
+        "ADOBE URL OR RECORDING LINK": "VersataCPQ2013Q3"
+    }
+]
