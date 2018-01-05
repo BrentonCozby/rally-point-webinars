@@ -12,13 +12,15 @@ function removeDuplicatesBy(key) {
 
         if (!map[page[key]]) {
             map[page[key]] = {
-                ...page,
-                count: 1,
-                slug: courseSlug
+                slug: courseSlug,
+                ...page
+            }
+        } else {
+            map[page[key]] = {
+                ...map[page[key]],
+                ...page
             }
         }
-
-        map[page[key]].count += 1
 
         return map
     }, {})

@@ -7,15 +7,22 @@
         "shared-node-browser": true,
         "serviceworker": true
     },
-    "extends": "eslint:recommended",
+    "extends": "airbnb",
     "parserOptions": {
-        "sourceType": "module"
+        "sourceType": "module",
+        "ecmaVersion": 8
     },
+    "plugins": [
+        "html",
+        "import"
+    ],
     "rules": {
         "indent": [
             "error",
             4,
-            {"SwitchCase": 1}
+            {
+                "SwitchCase": 1
+            }
         ],
         "linebreak-style": [
             "error",
@@ -29,7 +36,9 @@
             "error",
             "never"
         ],
-        "no-fallthrough": "off"
+        "no-fallthrough": "off",
+        "arrow-parens": "off",
+        "consistent-return": "off"
     },
     "globals": {
         "NODE_ENV": false,
@@ -44,8 +53,6 @@
         "GOOGLE_ANALYTICS_ID": false,
         "DEV_PATH": false,
         "$": false,
-        "jQuery": false,
-        "throttle": false,
-        "escape": false
+        "libs": false
     }
 }
