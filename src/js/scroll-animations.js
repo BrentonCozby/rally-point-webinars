@@ -1,72 +1,84 @@
+import debounce from 'lodash.debounce'
+import throttle from 'lodash.throttle'
+
 // Add selectors here and they will all have the class 'scroll-visible'
 // added to them when they scroll into view
-import throttle from 'lodash/throttle'
-
 const selectors = [
-    document.querySelectorAll('.appear')
+    document.querySelectorAll('.appear'),
 ]
 
 let animElements = []
-
-const supportPageOffset = (pageXOffset !== undefined)
-const isCSS1Compat = ((document.compatMode || '') === 'CSS1Compat')
-const windowScroll = function () {
-    return supportPageOffset ? pageYOffset : isCSS1Compat ? document.documentElement.scrollTop : document.body.scrollTop
-}
 let windowHeight = null
+let lastWindowScrollY = 0
 let offset = 150
 
-const _populateElements = function () {
+const supportPageOffset = (window.pageXOffset !== undefined)
+const isCSS1Compat = ((document.compatMode || '') === 'CSS1Compat')
+
+const getWindowScrollY = () => {
+    if (supportPageOffset) {
+        return window.pageYOffset
+    } else if (isCSS1Compat) {
+        return document.documentElement.scrollTop
+    }
+
+    return document.body.scrollTop
+}
+
+function getPositions() {
     animElements = []
-    selectors.forEach(selector => {
-        selector && selector.forEach(element => {
-            animElements.push({ element, position: null })
-        })
+
+    selectors.forEach((selector) => {
+        if (selector) {
+            selector.forEach((element) => {
+                animElements.push({
+                    element,
+                    position: element.getBoundingClientRect().top + getWindowScrollY(),
+                })
+            })
+        }
     })
 }
 
-const _getPositions = function () {
-    _populateElements()
+function playAnimations() {
+    animElements.forEach((el) => {
+        const triggerPoint = Number(el.position) + Number(-windowHeight) + Number(offset)
 
-    animElements.forEach(el => {
-        el.position = el.element.getBoundingClientRect().top + windowScroll()
-    })
-}
-
-const playAnimations = function () {
-    animElements.forEach(el => {
-        const triggerPoint = +el.position - +windowHeight + +offset
-        if (windowScroll() > triggerPoint)
+        if (lastWindowScrollY > triggerPoint) {
             el.element.classList.add('scroll-visible')
-        else
+        } else {
             el.element.classList.remove('scroll-visible')
+        }
     })
 }
 
-const onScroll = function () {
-    playAnimations()
-}
-
-const _showItemsInView = function () {
+function showItemsInView() {
     windowHeight = window.innerHeight
-    offset = windowHeight * .1
-    _getPositions()
+    offset = windowHeight * 0.1
+    lastWindowScrollY = getWindowScrollY()
+    getPositions()
     playAnimations()
 }
 
-window.addEventListener('load', function () {
-    // make sure items in view when page loads become visible
-    setTimeout(_showItemsInView, 300)
-    setTimeout(_showItemsInView, 600)
-    setTimeout(_showItemsInView, 900)
-    setTimeout(_showItemsInView, 1200)
+function ready(fn) {
+    if (document.attachEvent ? document.readyState === 'complete' : document.readyState !== 'loading') {
+        fn()
+    } else {
+        document.addEventListener('DOMContentLoaded', fn)
+    }
+}
 
-    // re-initialize every 2 seconds in case of page resizing
-    setInterval(function () {
-        _showItemsInView()
-    }, 2000)
+ready(() => {
+    // make sure items that are in view when page loads become visible
+    setTimeout(showItemsInView, 1000)
 
-    document.addEventListener('scroll', throttle(onScroll, 100))
+    document.addEventListener('resize', debounce(() => {
+        showItemsInView()
+    }, 100))
+
+    document.addEventListener('scroll', throttle(() => {
+        lastWindowScrollY = getWindowScrollY()
+
+        playAnimations()
+    }, 100, { leading: true }))
 })
-
-export { playAnimations }
