@@ -9,7 +9,7 @@
     <meta name=viewport content="width=device-width,initial-scale=1">
     <title>Rally Point Webinars</title>
     <meta name=description content="Webinar Production for when your important people are watching.">
-    <meta property=og:url content="http://rallypointwebinars.com/course/webinar.php?id=<?php echo htmlspecialchars($_GET['id']) ?>">
+    <meta property=og:url content="http://new.rallypointwebinars.com/course/webinar.php?id=<?php echo htmlspecialchars($_GET['id']) ?>">
     <meta property=og:site_name content="Rally Point Webinars">
     <meta property=og:locale content=en_US>
     <meta property=og:type content=website>
@@ -21,8 +21,8 @@
     <meta name=twitter:description content="Webinar Production for when your important people are watching.">
     <meta name=twitter:image content="">
     <meta name=twitter:image:alt content="">
-    <meta name=twitter:site content="http://rallypointwebinars.com/course/webinar.php?id=<?php echo htmlspecialchars($_GET['id']) ?>">
-    <link rel=canonical href="http://rallypointwebinars.com/course/webinar.php?id=<?php echo htmlspecialchars($_GET['id']) ?>">
+    <meta name=twitter:site content="http://new.rallypointwebinars.com/course/webinar.php?id=<?php echo htmlspecialchars($_GET['id']) ?>">
+    <link rel=canonical href="http://new.rallypointwebinars.com/course/webinar.php?id=<?php echo htmlspecialchars($_GET['id']) ?>">
     <!-- favicons -->
     <link rel=apple-touch-icon sizes=57x57 href=images/logos/apple-icon-57x57.png>
     <link rel=apple-touch-icon sizes=60x60 href=images/logos/apple-icon-60x60.png>
