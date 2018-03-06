@@ -2,12 +2,13 @@
 
 const { resolve } = require('path')
 const fs = require('fs')
-const { pageDataWithoutDuplicateIds } = require('./data-without-duplicates.js')
 
 let phpArrayString = '<?php $courseMap = array('
 
-phpArrayString += pageDataWithoutDuplicateIds.map(page => {
-    return `"${page['ID']}" => "${page['ADOBE URL OR RECORDING LINK']}"`
+phpArrayString += JSON.parse(fs.readFileSync(resolve(__dirname, 'raw-data.json'))).map(page => {
+    const id = page['Registration Page'].split('id=')[1]
+
+    return `"${id}" => "${page['Redirect Slug']}"`
 }).join(', ')
 
 phpArrayString += '); ?>'

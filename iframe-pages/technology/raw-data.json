@@ -1,0 +1,723 @@
+[
+    {
+        "Client Name": "Accept360",
+        "Urgency": "Redirect",
+        "Registration Page": "http://accept360.rallypointwebinars.technology/local/rallypoint/webinar.php?id=175",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "accept360-q4-recording-2"
+    },
+    {
+        "Client Name": "Artemis",
+        "Urgency": "Redirect",
+        "Registration Page": "http://artemis.rallypointwebinars.technology/local/rallypoint/webinar.php?id=170",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "artemis7-102517"
+    },
+    {
+        "Client Name": "Artemis",
+        "Urgency": "Redirect",
+        "Registration Page": "http://artemis.rallypointwebinars.technology/local/rallypoint/webinar.php?id=169",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "artemisviews-102417"
+    },
+    {
+        "Client Name": "Artemis",
+        "Urgency": "Redirect",
+        "Registration Page": "http://artemis.rallypointwebinars.technology/local/rallypoint/webinar.php?id=168",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "artemis9000ex-101817"
+    },
+    {
+        "Client Name": "Artemis",
+        "Urgency": "Redirect",
+        "Registration Page": "http://artemis.rallypointwebinars.technology/local/rallypoint/webinar.php?id=167",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "artemis-accept-q4-2017"
+    },
+    {
+        "Client Name": "Artemis",
+        "Urgency": "Redirect",
+        "Registration Page": "http://artemis.rallypointwebinars.technology/local/rallypoint/webinar.php?id=46",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "accept36006082016"
+    },
+    {
+        "Client Name": "Artemis",
+        "Urgency": "Redirect",
+        "Registration Page": "http://artemis.rallypointwebinars.technology/local/rallypoint/webinar.php?id=45",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "artemis05252016"
+    },
+    {
+        "Client Name": "Artemis",
+        "Urgency": "Redirect",
+        "Registration Page": "http://artemis.rallypointwebinars.technology/local/rallypoint/webinar.php?id=44",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "artemisviews05182016"
+    },
+    {
+        "Client Name": "Artemis",
+        "Urgency": "Redirect",
+        "Registration Page": "http://artemis.rallypointwebinars.technology/local/rallypoint/webinar.php?id=39",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "artemis05122016"
+    },
+    {
+        "Client Name": "Artemis",
+        "Urgency": "Redirect",
+        "Registration Page": "http://artemis.rallypointwebinars.technology/local/rallypoint/webinar.php?id=38",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "artemis05102016"
+    },
+    {
+        "Client Name": "Clickability",
+        "Urgency": "Redirect",
+        "Registration Page": "http://clickability.rallypointwebinars.technology/local/rallypoint/webinar.php?id=77",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "clickability09212016"
+    },
+    {
+        "Client Name": "DNN Corp",
+        "Urgency": "Redirect",
+        "Registration Page": "http://dnnsoftware.rallypointwebinars.technology/local/rallypoint/webinar.php?id=181",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "dnncorpvucq42017"
+    },
+    {
+        "Client Name": "DNN Corp",
+        "Urgency": "Redirect",
+        "Registration Page": "http://dnnsoftware.rallypointwebinars.technology/local/rallypoint/webinar.php?id=165",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "dnncorpq32017"
+    },
+    {
+        "Client Name": "Dr. Moldover",
+        "Urgency": "Not urgent",
+        "Registration Page": "http://drmoldover.rallypointwebinars.technology/local/rallypoint/webinar.php?id=96",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "drmoldover11152016"
+    },
+    {
+        "Client Name": "Dr. Moldover",
+        "Urgency": "Not urgent",
+        "Registration Page": "http://drmoldover.rallypointwebinars.technology/local/rallypoint/webinar.php?id=23",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "moldover04072016"
+    },
+    {
+        "Client Name": "Engine Yard",
+        "Urgency": "Redirect",
+        "Registration Page": "http://engineyard.rallypointwebinars.technology/local/rallypoint/webinar.php?id=183",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "eyvucq42017"
+    },
+    {
+        "Client Name": "Engine Yard",
+        "Urgency": "Redirect",
+        "Registration Page": "http://engineyard.rallypointwebinars.technology/local/rallypoint/webinar.php?id=162",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "eyvucq30217"
+    },
+    {
+        "Client Name": "Engine Yard",
+        "Urgency": "Redirect",
+        "Registration Page": "http://engineyard.rallypointwebinars.technology/local/rallypoint/webinar.php?id=146",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "engineyard06292017"
+    },
+    {
+        "Client Name": "EPM Live",
+        "Urgency": "Redirect",
+        "Registration Page": "http://epmlive.rallypointwebinars.technology/local/rallypoint/webinar.php?id=177",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "epmliveq42017"
+    },
+    {
+        "Client Name": "EPM Live",
+        "Urgency": "Redirect",
+        "Registration Page": "http://epmlive.rallypointwebinars.technology/local/rallypoint/webinar.php?id=151",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "p7ep4if9kfy8"
+    },
+    {
+        "Client Name": "EPM Live",
+        "Urgency": "Redirect",
+        "Registration Page": "http://epmlive.rallypointwebinars.technology/local/rallypoint/webinar.php?id=120",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "epmlive04182017"
+    },
+    {
+        "Client Name": "EPM Live",
+        "Urgency": "Redirect",
+        "Registration Page": "http://epmlive.rallypointwebinars.technology/local/rallypoint/webinar.php?id=112",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "epmlive01102017"
+    },
+    {
+        "Client Name": "EPM Live",
+        "Urgency": "Redirect",
+        "Registration Page": "http://epmlive.rallypointwebinars.technology/local/rallypoint/webinar.php?id=87",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "epmlive09272016"
+    },
+    {
+        "Client Name": "EPM Live",
+        "Urgency": "Redirect",
+        "Registration Page": "http://epmlive.rallypointwebinars.technology/local/rallypoint/webinar.php?id=52",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "epmlive06212016"
+    },
+    {
+        "Client Name": "EPM Live",
+        "Urgency": "Redirect",
+        "Registration Page": "http://epmlive.rallypointwebinars.technology/local/rallypoint/webinar.php?id=26",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "epmlive03222016"
+    },
+    {
+        "Client Name": "Everest",
+        "Urgency": "Redirect",
+        "Registration Page": "http://everest.rallypointwebinars.technology/local/rallypoint/webinar.php?id=144",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "everest06272017"
+    },
+    {
+        "Client Name": "Everest",
+        "Urgency": "Redirect",
+        "Registration Page": "http://everest.rallypointwebinars.technology/local/rallypoint/webinar.php?id=117",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "everest03212017"
+    },
+    {
+        "Client Name": "Everest",
+        "Urgency": "Redirect",
+        "Registration Page": "http://everest.rallypointwebinars.technology/local/rallypoint/webinar.php?id=94",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "everest11152016"
+    },
+    {
+        "Client Name": "Everest",
+        "Urgency": "Redirect",
+        "Registration Page": "http://everest.rallypointwebinars.technology/local/rallypoint/webinar.php?id=33",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "everest05242016"
+    },
+    {
+        "Client Name": "Everest World",
+        "Urgency": "Immediate",
+        "Registration Page": "http://everestworld.rallypointwebinars.technology/local/rallypoint/webinar.php?id=178",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "Juliette to locate"
+    },
+    {
+        "Client Name": "Gensym",
+        "Urgency": "Redirect",
+        "Registration Page": "http://gensym.rallypointwebinars.technology/local/rallypoint/webinar.php?id=47",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "gensym05262016"
+    },
+    {
+        "Client Name": "Ignite Technologies",
+        "Urgency": "Redirect",
+        "Registration Page": "http://ignite.rallypointwebinars.technology/local/rallypoint/webinar.php?id=155",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "firstrainq32017"
+    },
+    {
+        "Client Name": "Ignite Technologies",
+        "Urgency": "Redirect",
+        "Registration Page": "http://ignite.rallypointwebinars.technology/local/rallypoint/webinar.php?id=110",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "ignite12072016"
+    },
+    {
+        "Client Name": "Ignite Technologies",
+        "Urgency": "Redirect",
+        "Registration Page": "http://ignite.rallypointwebinars.technology/local/rallypoint/webinar.php?id=109",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "ignite12012016"
+    },
+    {
+        "Client Name": "Ignite Technologies",
+        "Urgency": "Redirect",
+        "Registration Page": "http://ignite.rallypointwebinars.technology/local/rallypoint/webinar.php?id=98",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "ignite10212016"
+    },
+    {
+        "Client Name": "Ignite Technologies",
+        "Urgency": "Redirect",
+        "Registration Page": "http://ignite.rallypointwebinars.technology/local/rallypoint/webinar.php?id=62",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "ignite-acorn07212016"
+    },
+    {
+        "Client Name": "Ignite Technologies",
+        "Urgency": "Redirect",
+        "Registration Page": "http://ignite.rallypointwebinars.technology/local/rallypoint/webinar.php?id=54",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "sensage07132016"
+    },
+    {
+        "Client Name": "Ignite Technologies",
+        "Urgency": "Redirect",
+        "Registration Page": "http://ignite.rallypointwebinars.technology/local/rallypoint/webinar.php?id=48",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "ignitesensageap51716"
+    },
+    {
+        "Client Name": "Ignite Technologies",
+        "Urgency": "Redirect",
+        "Registration Page": "http://ignite.rallypointwebinars.technology/local/rallypoint/webinar.php?id=16",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "nuview03152016"
+    },
+    {
+        "Client Name": "Knowledge Marketing",
+        "Urgency": "Redirect",
+        "Registration Page": "http://knowledgemarketing.rallypointwebinars.technology/local/rallypoint/webinar.php?id=187",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "km-recording1172018"
+    },
+    {
+        "Client Name": "MessageOne",
+        "Urgency": "Redirect",
+        "Registration Page": "http://messageone.rallypointwebinars.technology/local/rallypoint/webinar.php?id=64",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "messageone08022016"
+    },
+    {
+        "Client Name": "MessageOne",
+        "Urgency": "Redirect",
+        "Registration Page": "http://messageone.rallypointwebinars.technology/local/rallypoint/webinar.php?id=35",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "messageone05032016"
+    },
+    {
+        "Client Name": "Mobile Commons",
+        "Urgency": "Redirect",
+        "Registration Page": "http://mobilecommons.rallypointwebinars.technology/local/rallypoint/webinar.php?id=108",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "mobilecommons12132016"
+    },
+    {
+        "Client Name": "Mobile Commons",
+        "Urgency": "Redirect",
+        "Registration Page": "http://mobilecommons.rallypointwebinars.technology/local/rallypoint/webinar.php?id=56",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "mobilecommons07192016"
+    },
+    {
+        "Client Name": "PeerApp",
+        "Urgency": "Redirect",
+        "Registration Page": "http://peerapp.rallypointwebinars.technology/local/rallypoint/webinar.php?id=166",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "peerappvucq32017"
+    },
+    {
+        "Client Name": "Pitney Bowes",
+        "Urgency": "Immediate",
+        "Registration Page": "http://pitneybowes.rallypointwebinars.technology/local/rallypoint/webinar.php?id=190",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "recording-pitneybowes22018"
+    },
+    {
+        "Client Name": "Pitney Bowes",
+        "Urgency": "Immediate",
+        "Registration Page": "http://pitneybowes.rallypointwebinars.technology/local/rallypoint/webinar.php?id=185",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "pb-recording-11118"
+    },
+    {
+        "Client Name": "Pitney Bowes",
+        "Urgency": "Immediate",
+        "Registration Page": "http://pitneybowes.rallypointwebinars.technology/local/rallypoint/webinar.php?id=182",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "pitneybowes-recording-120517"
+    },
+    {
+        "Client Name": "Pitney Bowes",
+        "Urgency": "Immediate",
+        "Registration Page": "http://pitneybowes.rallypointwebinars.technology/local/rallypoint/webinar.php?id=184",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "pitneybowes-recording121417"
+    },
+    {
+        "Client Name": "Pitney Bowes",
+        "Urgency": "Immediate",
+        "Registration Page": "http://pitneybowes.rallypointwebinars.technology/local/rallypoint/webinar.php?id=172",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "pitneybowes11717-recording"
+    },
+    {
+        "Client Name": "Pitney Bowes",
+        "Urgency": "Immediate",
+        "Registration Page": "http://pitneybowes.rallypointwebinars.technology/local/rallypoint/webinar.php?id=116",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "pitneybowes02282017"
+    },
+    {
+        "Client Name": "Pitney Bowes",
+        "Urgency": "Immediate",
+        "Registration Page": "http://pitneybowes.rallypointwebinars.technology/local/rallypoint/webinar.php?id=114",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "pitneybowes01182017"
+    },
+    {
+        "Client Name": "Pitney Bowes",
+        "Urgency": "Immediate",
+        "Registration Page": "http://pitneybowes.rallypointwebinars.technology/local/rallypoint/webinar.php?id=113",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "pitneybowes01172017"
+    },
+    {
+        "Client Name": "Pitney Bowes",
+        "Urgency": "Immediate",
+        "Registration Page": "http://pitneybowes.rallypointwebinars.technology/local/rallypoint/webinar.php?id=103",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "pitneybowes12062016"
+    },
+    {
+        "Client Name": "Pitney Bowes",
+        "Urgency": "Immediate",
+        "Registration Page": "http://pitneybowes.rallypointwebinars.technology/local/rallypoint/webinar.php?id=100",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "pitneybowes11102016"
+    },
+    {
+        "Client Name": "Pitney Bowes",
+        "Urgency": "Immediate",
+        "Registration Page": "http://pitneybowes.rallypointwebinars.technology/local/rallypoint/webinar.php?id=93",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "pitneybowes10192016"
+    },
+    {
+        "Client Name": "Pitney Bowes",
+        "Urgency": "Immediate",
+        "Registration Page": "http://pitneybowes.rallypointwebinars.technology/local/rallypoint/webinar.php?id=74",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "pitneybowes09202016"
+    },
+    {
+        "Client Name": "Pitney Bowes",
+        "Urgency": "Immediate",
+        "Registration Page": "http://pitneybowes.rallypointwebinars.technology/local/rallypoint/webinar.php?id=66",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "pitneybowes08162016"
+    },
+    {
+        "Client Name": "Pitney Bowes",
+        "Urgency": "Immediate",
+        "Registration Page": "http://pitneybowes.rallypointwebinars.technology/local/rallypoint/webinar.php?id=65",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "pb08042016"
+    },
+    {
+        "Client Name": "Pitney Bowes",
+        "Urgency": "Immediate",
+        "Registration Page": "http://pitneybowes.rallypointwebinars.technology/local/rallypoint/webinar.php?id=42",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "pitneybowesfull05172016"
+    },
+    {
+        "Client Name": "Pitney Bowes",
+        "Urgency": "Immediate",
+        "Registration Page": "http://pitneybowes.rallypointwebinars.technology/local/rallypoint/webinar.php?id=32",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "pitneybowes04142016"
+    },
+    {
+        "Client Name": "PM Solutions",
+        "Urgency": "Immediate",
+        "Registration Page": "http://pmsolutions.rallypointwebinars.technology/local/rallypoint/webinar.php?id=189",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "recording-pmsolutions13018"
+    },
+    {
+        "Client Name": "PM Solutions",
+        "Urgency": "Immediate",
+        "Registration Page": "http://pmsolutions.rallypointwebinars.technology/local/rallypoint/webinar.php?id=138",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "pmsolutions05232017"
+    },
+    {
+        "Client Name": "PM Solutions",
+        "Urgency": "Immediate",
+        "Registration Page": "http://pmsolutions.rallypointwebinars.technology/local/rallypoint/webinar.php?id=105",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "pmsolutions11162016"
+    },
+    {
+        "Client Name": "PM Solutions",
+        "Urgency": "Immediate",
+        "Registration Page": "http://pmsolutions.rallypointwebinars.technology/local/rallypoint/webinar.php?id=31",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "pmsolutions04122016"
+    },
+    {
+        "Client Name": "PowerPlan",
+        "Urgency": "Redirect",
+        "Registration Page": "http://powerplan.rallypointwebinars.technology/local/rallypoint/webinar.php?id=118",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "powerplan03222017"
+    },
+    {
+        "Client Name": "PowerPlan",
+        "Urgency": "Redirect",
+        "Registration Page": "http://powerplan.rallypointwebinars.technology/local/rallypoint/webinar.php?id=101",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "powerplan11082016"
+    },
+    {
+        "Client Name": "PowerPlan",
+        "Urgency": "Redirect",
+        "Registration Page": "http://powerplan.rallypointwebinars.technology/local/rallypoint/webinar.php?id=63",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "powerplan10262016"
+    },
+    {
+        "Client Name": "PowerPlan",
+        "Urgency": "Redirect",
+        "Registration Page": "http://powerplan.rallypointwebinars.technology/local/rallypoint/webinar.php?id=80",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "powerplan09292016"
+    },
+    {
+        "Client Name": "PowerPlan",
+        "Urgency": "Redirect",
+        "Registration Page": "http://powerplan.rallypointwebinars.technology/local/rallypoint/webinar.php?id=79",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "powerplan09282016"
+    },
+    {
+        "Client Name": "PowerPlan",
+        "Urgency": "Redirect",
+        "Registration Page": "http://powerplan.rallypointwebinars.technology/local/rallypoint/webinar.php?id=57",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "powerplan07202016"
+    },
+    {
+        "Client Name": "PowerPlan",
+        "Urgency": "Redirect",
+        "Registration Page": "http://powerplan.rallypointwebinars.technology/local/rallypoint/webinar.php?id=53",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "pwrplan06292016"
+    },
+    {
+        "Client Name": "PowerPlan",
+        "Urgency": "Redirect",
+        "Registration Page": "http://powerplan.rallypointwebinars.technology/local/rallypoint/webinar.php?id=34",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "powerplan04262016"
+    },
+    {
+        "Client Name": "PowerPlan",
+        "Urgency": "Redirect",
+        "Registration Page": "http://powerplan.rallypointwebinars.technology/local/rallypoint/webinar.php?id=25",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "powerplan03162016"
+    },
+    {
+        "Client Name": "PowerPlan-PWC",
+        "Urgency": "Redirect",
+        "Registration Page": "http://powerplan-pwc.rallypointwebinars.technology/local/rallypoint/webinar.php?id=58",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "pwrplan-pwc07282016"
+    },
+    {
+        "Client Name": "Redknee",
+        "Urgency": "Immediate",
+        "Registration Page": "http://redknee.rallypointwebinars.technology/local/rallypoint/webinar.php?id=188",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "optiva-record11618"
+    },
+    {
+        "Client Name": "Redknee",
+        "Urgency": "Immediate",
+        "Registration Page": "http://redknee.rallypointwebinars.technology/local/rallypoint/webinar.php?id=176",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "redkneeoct2017"
+    },
+    {
+        "Client Name": "Redknee",
+        "Urgency": "Immediate",
+        "Registration Page": "http://redknee.rallypointwebinars.technology/local/rallypoint/webinar.php?id=142",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "redknee06202017"
+    },
+    {
+        "Client Name": "Redknee",
+        "Urgency": "Immediate",
+        "Registration Page": "http://redknee.rallypointwebinars.technology/local/rallypoint/webinar.php?id=141",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "redknee06062017"
+    },
+    {
+        "Client Name": "Redknee",
+        "Urgency": "Immediate",
+        "Registration Page": "http://redknee.rallypointwebinars.technology/local/rallypoint/webinar.php?id=130",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "redknee05022017"
+    },
+    {
+        "Client Name": "Redknee",
+        "Urgency": "Immediate",
+        "Registration Page": "http://redknee.rallypointwebinars.technology/local/rallypoint/webinar.php?id=128",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "redknee04132017"
+    },
+    {
+        "Client Name": "Redknee",
+        "Urgency": "Immediate",
+        "Registration Page": "http://redknee.rallypointwebinars.technology/local/rallypoint/webinar.php?id=126",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "redkneemanagerpreview041217"
+    },
+    {
+        "Client Name": "Redknee",
+        "Urgency": "Immediate",
+        "Registration Page": "http://redknee.rallypointwebinars.technology/local/rallypoint/webinar.php?id=119",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "redknee03082017"
+    },
+    {
+        "Client Name": "Research Now",
+        "Urgency": "Immediate",
+        "Registration Page": "http://researchnow.rallypointwebinars.technology/local/rallypoint/webinar.php?id=180",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "researchnow-lawlessresearch-recording12617"
+    },
+    {
+        "Client Name": "SDLC Partners",
+        "Urgency": "Immediate",
+        "Registration Page": "http://sdlcpartners.rallypointwebinars.technology/local/rallypoint/webinar.php?id=139",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "sdlcpartners06202017"
+    },
+    {
+        "Client Name": "Skyvera",
+        "Urgency": "Redirect",
+        "Registration Page": "http://skyvera.rallypointwebinars.technology/local/rallypoint/webinar.php?id=186",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "recording-skyvera1312018"
+    },
+    {
+        "Client Name": "Skyvera",
+        "Urgency": "Redirect",
+        "Registration Page": "http://skyvera.rallypointwebinars.technology/local/rallypoint/webinar.php?id=174",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "skyveraq42017vuc"
+    },
+    {
+        "Client Name": "Software AG",
+        "Urgency": "Redirect",
+        "Registration Page": "http://softwareag.rallypointwebinars.technology/local/rallypoint/webinar.php?id=107",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "softwareag12082016"
+    },
+    {
+        "Client Name": "Software AG",
+        "Urgency": "Redirect",
+        "Registration Page": "http://softwareag.rallypointwebinars.technology/local/rallypoint/webinar.php?id=106",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "sag-vea11152016"
+    },
+    {
+        "Client Name": "Software AG",
+        "Urgency": "Redirect",
+        "Registration Page": "http://softwareag.rallypointwebinars.technology/local/rallypoint/webinar.php?id=102",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "sag-vea11032016"
+    },
+    {
+        "Client Name": "Software AG",
+        "Urgency": "Redirect",
+        "Registration Page": "http://softwareag.rallypointwebinars.technology/local/rallypoint/webinar.php?id=50",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "sag_aris06232016"
+    },
+    {
+        "Client Name": "Software AG",
+        "Urgency": "Redirect",
+        "Registration Page": "http://softwareag.rallypointwebinars.technology/local/rallypoint/webinar.php?id=43",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "softwareag05242016"
+    },
+    {
+        "Client Name": "Software AG",
+        "Urgency": "Redirect",
+        "Registration Page": "http://softwareag.rallypointwebinars.technology/local/rallypoint/webinar.php?id=49",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "softwareag05122016"
+    },
+    {
+        "Client Name": "Software AG",
+        "Urgency": "Redirect",
+        "Registration Page": "http://softwareag.rallypointwebinars.technology/local/rallypoint/webinar.php?id=36",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "sag04282016"
+    },
+    {
+        "Client Name": "Software AG",
+        "Urgency": "Redirect",
+        "Registration Page": "http://softwareag.rallypointwebinars.technology/local/rallypoint/webinar.php?id=37",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "sag04262016"
+    },
+    {
+        "Client Name": "Software AG Events",
+        "Urgency": "Redirect",
+        "Registration Page": "http://softwareagevents.rallypointwebinars.technology/local/rallypoint/webinar.php?id=99",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "softwareag10202016"
+    },
+    {
+        "Client Name": "Software AG Events",
+        "Urgency": "Redirect",
+        "Registration Page": "http://softwareagevents.rallypointwebinars.technology/local/rallypoint/webinar.php?id=76",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "sag-servicemax08172016"
+    },
+    {
+        "Client Name": "Software AG Events",
+        "Urgency": "Redirect",
+        "Registration Page": "http://softwareagevents.rallypointwebinars.technology/local/rallypoint/webinar.php?id=67",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "apics-sag07272016"
+    },
+    {
+        "Client Name": "Tenrox",
+        "Urgency": "Redirect",
+        "Registration Page": "http://tenrox.rallypointwebinars.technology/local/rallypoint/webinar.php?id=78",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "tenrox09222016"
+    },
+    {
+        "Client Name": "Ultriva",
+        "Urgency": "Redirect",
+        "Registration Page": "http://ultriva.rallypointwebinars.technology/local/rallypoint/webinar.php?id=92",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "ultriva10122016"
+    },
+    {
+        "Client Name": "Wunderman",
+        "Urgency": "Immediate",
+        "Registration Page": "http://wunderman.rallypointwebinars.technology/local/rallypoint/webinar.php?id=192",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "recording-wundermanhealth021518"
+    },
+    {
+        "Client Name": "Wunderman",
+        "Urgency": "Immediate",
+        "Registration Page": "http://wunderman.rallypointwebinars.technology/local/rallypoint/webinar.php?id=164",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "wundermankantar092017"
+    },
+    {
+        "Client Name": "Wunderman",
+        "Urgency": "Immediate",
+        "Registration Page": "http://wunderman.rallypointwebinars.technology/local/rallypoint/webinar.php?id=111",
+        "Redirect Root": "rpw.adobeconnect.com/",
+        "Redirect Slug": "wunderman01192017"
+    }
+]

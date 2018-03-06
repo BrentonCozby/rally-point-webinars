@@ -1,24 +1,23 @@
 /* eslint-disable no-console */
 
 const fs = require('fs')
-const { resolve } = require('path')
 const slug = require('slug')
 
-const rawData = JSON.parse(fs.readFileSync(resolve(__dirname, 'raw-data.json')))
+module.exports.removeDuplicatesBy = (key, filepath) => {
+    const rawData = JSON.parse(fs.readFileSync(filepath))
 
-function removeDuplicatesBy(key) {
     const mapByKey = rawData.reduce((map, page) => {
         const courseSlug = slug(page['COURSE'])
 
         if (!map[page[key]]) {
             map[page[key]] = {
                 slug: courseSlug,
-                ...page
+                ...page,
             }
         } else {
             map[page[key]] = {
                 ...map[page[key]],
-                ...page
+                ...page,
             }
         }
 
@@ -33,6 +32,3 @@ function removeDuplicatesBy(key) {
         })
         .sort((a, b) => a.COURSE.localeCompare(b.COURSE))
 }
-
-module.exports.pageDataWithoutDuplicateTitles = removeDuplicatesBy('COURSE')
-module.exports.pageDataWithoutDuplicateIds = removeDuplicatesBy('ID')
