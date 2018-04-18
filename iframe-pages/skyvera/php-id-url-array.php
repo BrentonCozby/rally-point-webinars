@@ -1,0 +1,1 @@
+<?php $courseMap = array("186" => "http://skyvera.rallypointwebinars.com/demandRecording/558?source=ondemand"); ?>

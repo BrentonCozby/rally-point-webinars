@@ -1,0 +1,1 @@
+<?php $courseMap = array("175" => "http://accept360.rallypointwebinars.com/demandRecording/340?source=ondemand"); ?>
