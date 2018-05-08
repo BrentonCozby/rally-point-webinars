@@ -1,0 +1,1 @@
+<?php $courseMap = array("33" => "http://rpw.adobeconnect.com/everest05242016", "94" => "http://rpw.adobeconnect.com/everest11152016", "117" => "http://rpw.adobeconnect.com/everest03212017", "144" => "http://rpw.adobeconnect.com/everest06272017"); ?>

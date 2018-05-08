@@ -1,0 +1,66 @@
+[
+    {
+        "OLD": "http://pitneybowes.rallypointwebinars.technology/local/rallypoint/webinar.php?id=190",
+        "NEW": "http://pb.rallypointwebinars.com/demandRecording/1410?source=ondemand"
+    },
+    {
+        "OLD": "http://pitneybowes.rallypointwebinars.technology/local/rallypoint/webinar.php?id=185",
+        "NEW": "http://pb.rallypointwebinars.com/demandRecording/97?source=ondemand"
+    },
+    {
+        "OLD": "http://pitneybowes.rallypointwebinars.technology/local/rallypoint/webinar.php?id=182",
+        "NEW": "http://pb.rallypointwebinars.com/demandRecording/377?source=ondemand"
+    },
+    {
+        "OLD": "http://pitneybowes.rallypointwebinars.technology/local/rallypoint/webinar.php?id=184",
+        "NEW": "http://pb.rallypointwebinars.com/demandRecording/533?source=ondemand"
+    },
+    {
+        "OLD": "http://pitneybowes.rallypointwebinars.technology/local/rallypoint/webinar.php?id=172",
+        "NEW": "http://pb.rallypointwebinars.com/demandRecording/2049?source=ondemand"
+    },
+    {
+        "OLD": "http://pitneybowes.rallypointwebinars.technology/local/rallypoint/webinar.php?id=116",
+        "NEW": "http://pb.rallypointwebinars.com/demandRecording/188?source=ondemand"
+    },
+    {
+        "OLD": "http://pitneybowes.rallypointwebinars.technology/local/rallypoint/webinar.php?id=114",
+        "NEW": "http://rpw.adobeconnect.com/pitneybowes01182017"
+    },
+    {
+        "OLD": "http://pitneybowes.rallypointwebinars.technology/local/rallypoint/webinar.php?id=113",
+        "NEW": "http://rpw.adobeconnect.com/pitneybowes01172017"
+    },
+    {
+        "OLD": "http://pitneybowes.rallypointwebinars.technology/local/rallypoint/webinar.php?id=103",
+        "NEW": "http://pb.rallypointwebinars.com/demandRecording/835?source=ondemand"
+    },
+    {
+        "OLD": "http://pitneybowes.rallypointwebinars.technology/local/rallypoint/webinar.php?id=100",
+        "NEW": "http://pb.rallypointwebinars.com/demandRecording/2047?source=ondemand"
+    },
+    {
+        "OLD": "http://pitneybowes.rallypointwebinars.technology/local/rallypoint/webinar.php?id=93",
+        "NEW": "http://rpw.adobeconnect.com/pitneybowes10192016"
+    },
+    {
+        "OLD": "http://pitneybowes.rallypointwebinars.technology/local/rallypoint/webinar.php?id=74",
+        "NEW": "http://rpw.adobeconnect.com/pitneybowes09202016"
+    },
+    {
+        "OLD": "http://pitneybowes.rallypointwebinars.technology/local/rallypoint/webinar.php?id=66",
+        "NEW": "http://rpw.adobeconnect.com/pitneybowes08162016"
+    },
+    {
+        "OLD": "http://pitneybowes.rallypointwebinars.technology/local/rallypoint/webinar.php?id=65",
+        "NEW": "http://rpw.adobeconnect.com/pb08042016"
+    },
+    {
+        "OLD": "http://pitneybowes.rallypointwebinars.technology/local/rallypoint/webinar.php?id=42",
+        "NEW": "http://rpw.adobeconnect.com/pitneybowesfull05172016"
+    },
+    {
+        "OLD": "http://pitneybowes.rallypointwebinars.technology/local/rallypoint/webinar.php?id=32",
+        "NEW": "http://rpw.adobeconnect.com/pitneybowes04142016"
+    }
+]

@@ -1,0 +1,1 @@
+<?php $courseMap = array("77" => "http://rpw.adobeconnect.com/clickability09212016"); ?>

@@ -2,5 +2,9 @@
     {
         "OLD": "http://skyvera.rallypointwebinars.technology/local/rallypoint/webinar.php?id=186",
         "NEW": "http://skyvera.rallypointwebinars.com/demandRecording/558?source=ondemand"
+    },
+    {
+        "OLD": "http://skyvera.rallypointwebinars.technology/local/rallypoint/webinar.php?id=174",
+        "NEW": "http://rpw.adobeconnect.com/skyveraq42017vuc"
     }
 ]

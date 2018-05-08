@@ -1,0 +1,1 @@
+<?php $courseMap = array("92" => "http://rpw.adobeconnect.com/ultriva10122016"); ?>

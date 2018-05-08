@@ -1,0 +1,1 @@
+<?php $courseMap = array("47" => "http://rpw.adobeconnect.com/gensym05262016"); ?>

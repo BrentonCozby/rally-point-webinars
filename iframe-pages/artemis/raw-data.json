@@ -14,5 +14,25 @@
     {
         "OLD": "http://artemis.rallypointwebinars.technology/local/rallypoint/webinar.php?id=167",
         "NEW": "http://artemis-accept.rallypointwebinars.com/demandRecording/1358?source=ondemand"
+    },
+    {
+        "OLD": "http://artemis.rallypointwebinars.technology/local/rallypoint/webinar.php?id=46",
+        "NEW": "http://rpw.adobeconnect.com/accept36006082016"
+    },
+    {
+        "OLD": "http://artemis.rallypointwebinars.technology/local/rallypoint/webinar.php?id=45",
+        "NEW": "http://rpw.adobeconnect.com/artemis05252016"
+    },
+    {
+        "OLD": "http://artemis.rallypointwebinars.technology/local/rallypoint/webinar.php?id=44",
+        "NEW": "http://rpw.adobeconnect.com/artemisviews05182016"
+    },
+    {
+        "OLD": "http://artemis.rallypointwebinars.technology/local/rallypoint/webinar.php?id=39",
+        "NEW": "http://rpw.adobeconnect.com/artemis05122016"
+    },
+    {
+        "OLD": "http://artemis.rallypointwebinars.technology/local/rallypoint/webinar.php?id=38",
+        "NEW": "http://rpw.adobeconnect.com/artemis05102016"
     }
 ]

@@ -1,0 +1,1 @@
+<?php $courseMap = array("111" => "http://wunderman.rallypointwebinars.com/demandRecording/980?source=ondemand", "164" => "http://rpw.adobeconnect.com/wundermankantar092017", "192" => "http://wunderman.rallypointwebinars.com/demandRecording/580?source=ondemand"); ?>
