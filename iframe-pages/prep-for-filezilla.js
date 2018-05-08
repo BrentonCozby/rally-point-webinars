@@ -13,15 +13,22 @@ fs.readdir(__dirname, {}, function (err, files) {
             return
         }
 
-        fs.mkdir(path.resolve(__dirname, 'ready-for-filezilla', clientName), () => {
-            fs.mkdirSync(path.resolve(__dirname, 'ready-for-filezilla',  clientName, 'local'))
-            fs.mkdirSync(path.resolve(__dirname, 'ready-for-filezilla',  clientName, 'local', 'rallypoint'))
+        if (!fs.statSync(path.resolve(__dirname, 'ready-for-filezilla', clientName)).isDirectory()) {
+            fs.mkdirSync(path.resolve(__dirname, 'ready-for-filezilla', clientName))
+        }
 
-            fs.copyFile(path.resolve(__dirname, clientName, 'webinar.php'), path.resolve(__dirname, 'ready-for-filezilla',  clientName, 'local', 'rallypoint', 'webinar.php'), function (err) {
-                if (err) {
-                    console.error(err)
-                }
-            })
+        if (!fs.statSync(path.resolve(__dirname, 'ready-for-filezilla', clientName, 'local')).isDirectory()) {
+            fs.mkdirSync(path.resolve(__dirname, 'ready-for-filezilla',  clientName, 'local'))
+        }
+
+        if (!fs.statSync(path.resolve(__dirname, 'ready-for-filezilla', clientName, 'local', 'rallypoint')).isDirectory()) {
+            fs.mkdirSync(path.resolve(__dirname, 'ready-for-filezilla',  clientName, 'local', 'rallypoint'))
+        }
+
+        fs.copyFile(path.resolve(__dirname, clientName, 'webinar.php'), path.resolve(__dirname, 'ready-for-filezilla',  clientName, 'local', 'rallypoint', 'webinar.php'), function (err) {
+            if (err) {
+                console.error(err)
+            }
         })
     })
 })

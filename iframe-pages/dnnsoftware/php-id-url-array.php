@@ -1,1 +1,1 @@
-<?php $courseMap = array("181" => "http://rpw.adobeconnect.com/dnncorpvucq42017"); ?>
+<?php $courseMap = array("165" => "http://rpw.adobeconnect.com/dnncorpq32017", "181" => "http://rpw.adobeconnect.com/dnncorpvucq42017"); ?>
